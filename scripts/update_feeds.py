@@ -584,6 +584,26 @@ if __name__ == "__main__":
             "smbc":           update_smbc,
             "pbf":            lambda: update_rss_source("pbf", "Perry Bible Fellowship", "https://pbfcomics.com/feed/"),
             "abstrusegoose":  update_abstrusegoose,
+            "phdcomics":      lambda: update_rss_source(
+                                  "phdcomics", "PhD Comics",
+                                  "https://phdcomics.com/gradfeed.php",
+                                  slug_fn=lambda item: (re.search(r'comicid=(\d+)', item["link"] or "")
+                                                        or type("", (), {"group": lambda s, n: None})()).group(1)
+                                                       or item["link"].rstrip("/").rsplit("/", 1)[-1],
+                              ),
+            "dinosaurcomics": lambda: update_rss_source(
+                                  "dinosaurcomics", "Dinosaur Comics",
+                                  "https://www.qwantz.com/rssfeed.php",
+                                  slug_fn=lambda item: (re.search(r'comic=(\d+)', item["link"] or "")
+                                                        or type("", (), {"group": lambda s, n: None})()).group(1)
+                                                       or item["link"].rstrip("/").rsplit("/", 1)[-1],
+                              ),
+            "commitstrip":    lambda: update_rss_source(
+                                  "commitstrip", "CommitStrip",
+                                  "https://www.commitstrip.com/en/feed/",
+                                  image_fn=lambda item: (extract_img_src(item["contentEncoded"])
+                                                         or extract_img_src(item["description"])),
+                              ),
         }
         for s in sources:
             if s in fn_map:

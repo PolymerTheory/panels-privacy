@@ -1,0 +1,96 @@
+{
+  "source": "commitstrip",
+  "updatedAt": "2026-05-25T20:19:30Z",
+  "comics": [
+    {
+      "id": "commitstrip-a-whole-new-world",
+      "title": "A whole new world",
+      "pageUrl": "https://www.commitstrip.com/2022/12/09/a-whole-new-world/",
+      "imageUrl": "https://www.commitstrip.com/wp-content/uploads/2022/12/Strip-ChatPTAPIdays-EN.jpg",
+      "altText": null,
+      "publishDate": "2022-12-09",
+      "sortIndex": 1670599075
+    },
+    {
+      "id": "commitstrip-once-upon-a-teams-meeting",
+      "title": "Once upon a Teams meeting…",
+      "pageUrl": "https://www.commitstrip.com/2022/09/13/once-upon-a-teams-meeting/",
+      "imageUrl": "https://www.commitstrip.com/wp-content/uploads/2022/09/Strip-Conf-Teams-sans-écouter-650-finalenglish.jpg",
+      "altText": null,
+      "publishDate": "2022-09-13",
+      "sortIndex": 1663087290
+    },
+    {
+      "id": "commitstrip-the-right-tool-for-the-right-job-at-the-right-time",
+      "title": "The right tool for the right job at the right time?",
+      "pageUrl": "https://www.commitstrip.com/2022/06/08/the-right-tool-for-the-right-job-at-the-right-time/",
+      "imageUrl": "https://www.commitstrip.com/wp-content/uploads/2022/06/Strip-Le-bon-outil-pour-le-bon-job-650-finalenglishV2.jpg",
+      "altText": null,
+      "publishDate": "2022-06-08",
+      "sortIndex": 1654705614
+    },
+    {
+      "id": "commitstrip-security-questionnaire",
+      "title": "Security Questionnaire",
+      "pageUrl": "https://www.commitstrip.com/2022/02/22/security-questionnaire/",
+      "imageUrl": "https://www.commitstrip.com/wp-content/uploads/2022/02/Strip-OUI-a-tout-650-finalenglish.jpg",
+      "altText": null,
+      "publishDate": "2022-02-22",
+      "sortIndex": 1645560265
+    },
+    {
+      "id": "commitstrip-a-radical-solution",
+      "title": "A radical solution",
+      "pageUrl": "https://www.commitstrip.com/2022/01/25/a-radical-solution/",
+      "imageUrl": "https://www.commitstrip.com/wp-content/uploads/2022/01/Strip-COVID-Une-solution-radicale-650-finalenglishV2.jpg",
+      "altText": null,
+      "publishDate": "2022-01-25",
+      "sortIndex": 1643123053
+    },
+    {
+      "id": "commitstrip-m3rry-chr1stmas-2021",
+      "title": "M3RRY CHR1STMAS 2021",
+      "pageUrl": "https://www.commitstrip.com/2021/12/25/m3rry-chr1stmas-2021/",
+      "imageUrl": "https://www.commitstrip.com/wp-content/uploads/2021/12/Merry-Christmas-2021-2.jpg",
+      "altText": null,
+      "publishDate": "2021-12-25",
+      "sortIndex": 1640441378
+    },
+    {
+      "id": "commitstrip-we-all-do-it-right",
+      "title": "We all do it, right?",
+      "pageUrl": "https://www.commitstrip.com/2021/12/07/we-all-do-it-right/",
+      "imageUrl": "https://www.commitstrip.com/wp-content/uploads/2021/12/Strip-Donnée-de-prod-en-staging-650-finalenglish.jpg",
+      "altText": null,
+      "publishDate": "2021-12-07",
+      "sortIndex": 1638899079
+    },
+    {
+      "id": "commitstrip-a-touch-of-real-life-but-not-too-much",
+      "title": "A touch of real life, but not too much",
+      "pageUrl": "https://www.commitstrip.com/2021/11/26/a-touch-of-real-life-but-not-too-much/",
+      "imageUrl": "https://www.commitstrip.com/wp-content/uploads/2021/11/Strip-Not-a-paradox-650-finalenglish.jpg",
+      "altText": null,
+      "publishDate": "2021-11-26",
+      "sortIndex": 1637952299
+    },
+    {
+      "id": "commitstrip-no-documentation",
+      "title": "No documentation",
+      "pageUrl": "https://www.commitstrip.com/2021/11/10/no-documentation/",
+      "imageUrl": "https://www.commitstrip.com/wp-content/uploads/2021/11/Strip-Pas-de-documentation-650-finalenglish.jpg",
+      "altText": null,
+      "publishDate": "2021-11-10",
+      "sortIndex": 1636561239
+    },
+    {
+      "id": "commitstrip-it-haunts-us",
+      "title": "It haunts us",
+      "pageUrl": "https://www.commitstrip.com/2021/06/22/it-haunts-us/",
+      "imageUrl": "https://www.commitstrip.com/wp-content/uploads/2021/06/Strip-Refractoring-du-code-650-finalenglish.jpg",
+      "altText": null,
+      "publishDate": "2021-06-22",
+      "sortIndex": 1624385685
+    }
+  ]
+}

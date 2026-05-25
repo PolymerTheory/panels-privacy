@@ -1,0 +1,4695 @@
+{
+  "source": "abstrusegoose",
+  "updatedAt": "2026-05-25T20:18:46Z",
+  "comics": [
+    {
+      "id": "abstrusegoose-611",
+      "title": "the glorious new master race",
+      "pageUrl": "https://abstrusegoose.com/611",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/glorious_tesla_gaming_master_race.png",
+      "altText": null,
+      "publishDate": "2012-12-29",
+      "sortIndex": 1356825148
+    },
+    {
+      "id": "abstrusegoose-610",
+      "title": "camera crazy",
+      "pageUrl": "https://abstrusegoose.com/610",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/includes_infrared_ultraviolet_thermal_imaging_xray_telescope_miniLIGO_detector_and_MUCH_MUCH_MORE.png",
+      "altText": null,
+      "publishDate": "2012-12-27",
+      "sortIndex": 1356567080
+    },
+    {
+      "id": "abstrusegoose-609",
+      "title": "medium rare",
+      "pageUrl": "https://abstrusegoose.com/609",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_wanna_believe_but_you_are_not_making_it_easy.png",
+      "altText": null,
+      "publishDate": "2012-12-24",
+      "sortIndex": 1356309012
+    },
+    {
+      "id": "abstrusegoose-608",
+      "title": "as surely as the sun rises...",
+      "pageUrl": "https://abstrusegoose.com/608",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/parable_of_the_inductivist_humans.png",
+      "altText": null,
+      "publishDate": "2012-12-21",
+      "sortIndex": 1356050944
+    },
+    {
+      "id": "abstrusegoose-607",
+      "title": "The Most Powerful Person in the World - part 2",
+      "pageUrl": "https://abstrusegoose.com/607",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/youve_always_had_the_power_my_dear_you_just_had_to_learn_it_for_yourself.png",
+      "altText": null,
+      "publishDate": "2012-12-18",
+      "sortIndex": 1355792876
+    },
+    {
+      "id": "abstrusegoose-606",
+      "title": "The Most Powerful Person in the World",
+      "pageUrl": "https://abstrusegoose.com/606",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/we_should_never_be_certain_that_it_was_not_some_tiger_mom_treading_in_the_wine_press_who_began_that_subtle_change.png",
+      "altText": null,
+      "publishDate": "2012-12-15",
+      "sortIndex": 1355534808
+    },
+    {
+      "id": "abstrusegoose-605",
+      "title": "out of usual order",
+      "pageUrl": "https://abstrusegoose.com/605",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/Z_is_out_of_order_Z_is_out_of_order_the_whole_comic_is_out_of_order.png",
+      "altText": null,
+      "publishDate": "2012-12-12",
+      "sortIndex": 1355276740
+    },
+    {
+      "id": "abstrusegoose-604",
+      "title": "tradeoff",
+      "pageUrl": "https://abstrusegoose.com/604",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/he_sure_looked_good_though.png",
+      "altText": null,
+      "publishDate": "2012-12-09",
+      "sortIndex": 1355018672
+    },
+    {
+      "id": "abstrusegoose-603",
+      "title": "The Incident",
+      "pageUrl": "https://abstrusegoose.com/603",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/in_my_case_a_more_appropriate_title_for_this_comic_would_be_The_High_Incidence_of_Incidents.png",
+      "altText": null,
+      "publishDate": "2012-12-06",
+      "sortIndex": 1354760604
+    },
+    {
+      "id": "abstrusegoose-602",
+      "title": "Easter egg",
+      "pageUrl": "https://abstrusegoose.com/602",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/this_really_works_try_it.png",
+      "altText": null,
+      "publishDate": "2012-12-03",
+      "sortIndex": 1354502536
+    },
+    {
+      "id": "abstrusegoose-601",
+      "title": "pop phys",
+      "pageUrl": "https://abstrusegoose.com/601",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/pop_pop_phys_phys.png",
+      "altText": null,
+      "publishDate": "2012-11-30",
+      "sortIndex": 1354244468
+    },
+    {
+      "id": "abstrusegoose-600",
+      "title": "miracle fly",
+      "pageUrl": "https://abstrusegoose.com/600",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/Musca_domestica_a_scifi_horror_movie.png",
+      "altText": null,
+      "publishDate": "2012-11-27",
+      "sortIndex": 1353986400
+    },
+    {
+      "id": "abstrusegoose-599",
+      "title": "wine fraud",
+      "pageUrl": "https://abstrusegoose.com/599",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/this_part_of_the_date_is_so_stressful_that_you_should_prolly_drink_beforehand.png",
+      "altText": null,
+      "publishDate": "2012-11-24",
+      "sortIndex": 1353728332
+    },
+    {
+      "id": "abstrusegoose-598",
+      "title": "patently...",
+      "pageUrl": "https://abstrusegoose.com/598",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_only_intend_to_use_this_patent_defensively_but_no_promises.png",
+      "altText": null,
+      "publishDate": "2012-11-21",
+      "sortIndex": 1353470264
+    },
+    {
+      "id": "abstrusegoose-597",
+      "title": "witch hunt",
+      "pageUrl": "https://abstrusegoose.com/597",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_real_witch_hunt.png",
+      "altText": null,
+      "publishDate": "2012-11-18",
+      "sortIndex": 1353212196
+    },
+    {
+      "id": "abstrusegoose-596",
+      "title": "The G O O D B O Y E Dilemma",
+      "pageUrl": "https://abstrusegoose.com/596",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_am_fearsome_doggo_i_will_lick_you_to_death_fear_me.png",
+      "altText": null,
+      "publishDate": "2012-11-15",
+      "sortIndex": 1352954128
+    },
+    {
+      "id": "abstrusegoose-595",
+      "title": "sandbox - part 2",
+      "pageUrl": "https://abstrusegoose.com/595",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/Untitled011000110110111101101101011100000111010101110100011100100110111101101110011010010111010101101101_final_final_final_really_final_final.png",
+      "altText": null,
+      "publishDate": "2012-11-12",
+      "sortIndex": 1352696060
+    },
+    {
+      "id": "abstrusegoose-594",
+      "title": "sandbox",
+      "pageUrl": "https://abstrusegoose.com/594",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/will_the_real_basement_level_sandbox_please_stand_up.png",
+      "altText": null,
+      "publishDate": "2012-11-09",
+      "sortIndex": 1352437992
+    },
+    {
+      "id": "abstrusegoose-593",
+      "title": "always true",
+      "pageUrl": "https://abstrusegoose.com/593",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_know_what_youre_doing_right_now.png",
+      "altText": null,
+      "publishDate": "2012-11-06",
+      "sortIndex": 1352179924
+    },
+    {
+      "id": "abstrusegoose-592",
+      "title": "the daily news",
+      "pageUrl": "https://abstrusegoose.com/592",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_hope_the_eagles_still_win_the_super_bowl_in_this_new_timeline.png",
+      "altText": null,
+      "publishDate": "2012-11-03",
+      "sortIndex": 1351921856
+    },
+    {
+      "id": "abstrusegoose-591",
+      "title": "all models are wrong",
+      "pageUrl": "https://abstrusegoose.com/591",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/no_cats_were_harmed_during_the_2018_ImageNet_Challenge_my_robot_however_is_going_to_need_years_of_therapy.png",
+      "altText": null,
+      "publishDate": "2012-10-31",
+      "sortIndex": 1351663788
+    },
+    {
+      "id": "abstrusegoose-590",
+      "title": "...to build a better mousetrap",
+      "pageUrl": "https://abstrusegoose.com/590",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/to_be_fair_many_of_my_questions_would_sound_stupid_out_of_context_on_stack_overflow.png",
+      "altText": null,
+      "publishDate": "2012-10-28",
+      "sortIndex": 1351405720
+    },
+    {
+      "id": "abstrusegoose-589",
+      "title": "Flight of the Good Idea",
+      "pageUrl": "https://abstrusegoose.com/589",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/good_artists_copy_great_artists_steal_and_the_greatest_artists_dumpster_dive_for_gold.png",
+      "altText": null,
+      "publishDate": "2012-10-25",
+      "sortIndex": 1351147652
+    },
+    {
+      "id": "abstrusegoose-588",
+      "title": "black magic",
+      "pageUrl": "https://abstrusegoose.com/588",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/muggle_problems.png",
+      "altText": null,
+      "publishDate": "2012-10-22",
+      "sortIndex": 1350889584
+    },
+    {
+      "id": "abstrusegoose-587",
+      "title": "day-tight compartment",
+      "pageUrl": "https://abstrusegoose.com/587",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/apparently_the_previous_occupants_of_my_current_human_avatar_have_been_skipping_leg_day_for_a_couple_of_years.png",
+      "altText": null,
+      "publishDate": "2012-10-19",
+      "sortIndex": 1350631516
+    },
+    {
+      "id": "abstrusegoose-586",
+      "title": "The Long Journey of Elon Musk",
+      "pageUrl": "https://abstrusegoose.com/586",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/why_do_they_keep_ignoring_my_pull_requests.png",
+      "altText": null,
+      "publishDate": "2012-10-16",
+      "sortIndex": 1350373448
+    },
+    {
+      "id": "abstrusegoose-585",
+      "title": "A Tale of One City",
+      "pageUrl": "https://abstrusegoose.com/585",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/read_1st_paragraph_chap_3_of_A_Tale_of_Two_Cities_to_see_dickens_go_full_super_saiyan_sonder.png",
+      "altText": null,
+      "publishDate": "2012-10-13",
+      "sortIndex": 1350115380
+    },
+    {
+      "id": "abstrusegoose-584",
+      "title": "The Naked Intellect",
+      "pageUrl": "https://abstrusegoose.com/584",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_unreasonable_unreasonableness_of_a_bayesian_analysis_of_humes_argument_on_miracles.png",
+      "altText": null,
+      "publishDate": "2012-10-10",
+      "sortIndex": 1349857312
+    },
+    {
+      "id": "abstrusegoose-583",
+      "title": "The $25,000,000,000,000 Matrix",
+      "pageUrl": "https://abstrusegoose.com/583",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_almost_free_lunch_theorem.png",
+      "altText": null,
+      "publishDate": "2012-10-07",
+      "sortIndex": 1349599244
+    },
+    {
+      "id": "abstrusegoose-582",
+      "title": "side bae",
+      "pageUrl": "https://abstrusegoose.com/582",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/stop_framework_slut_shaming_me_the_heart_wants_what_the_heart_wants.png",
+      "altText": null,
+      "publishDate": "2012-10-04",
+      "sortIndex": 1349341176
+    },
+    {
+      "id": "abstrusegoose-581",
+      "title": "Cosmic Backyard",
+      "pageUrl": "https://abstrusegoose.com/581",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/dramatic_reenactment_of_actual_study_on_BPM_37093.png",
+      "altText": null,
+      "publishDate": "2012-10-01",
+      "sortIndex": 1349083108
+    },
+    {
+      "id": "abstrusegoose-579",
+      "title": "The Measurement Problem",
+      "pageUrl": "https://abstrusegoose.com/579",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_feel_like_our_relationship_is_always_in_some_nebulous_superposition_of_states.png",
+      "altText": null,
+      "publishDate": "2012-09-25",
+      "sortIndex": 1348566972
+    },
+    {
+      "id": "abstrusegoose-575",
+      "title": "The Sudokomic Game",
+      "pageUrl": "https://abstrusegoose.com/575",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/another_fun_game_is_comic_tac_toe.png",
+      "altText": null,
+      "publishDate": "2012-09-13",
+      "sortIndex": 1347534700
+    },
+    {
+      "id": "abstrusegoose-572",
+      "title": "Homo sapien sapien sapien",
+      "pageUrl": "https://abstrusegoose.com/572",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/evolution_happens_so_fast_nowadays.png",
+      "altText": null,
+      "publishDate": "2012-09-04",
+      "sortIndex": 1346760496
+    },
+    {
+      "id": "abstrusegoose-571",
+      "title": "the greatest engineer",
+      "pageUrl": "https://abstrusegoose.com/571",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/50_percent_of_all_humans_have_a_serious_design_flaw.png",
+      "altText": null,
+      "publishDate": "2012-09-01",
+      "sortIndex": 1346502428
+    },
+    {
+      "id": "abstrusegoose-570",
+      "title": "Late Night Thoughts on Listening to Mahler's Tenth Symphony",
+      "pageUrl": "https://abstrusegoose.com/570",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/goriftdronetag.png",
+      "altText": null,
+      "publishDate": "2012-08-29",
+      "sortIndex": 1346244360
+    },
+    {
+      "id": "abstrusegoose-569",
+      "title": "just a theory",
+      "pageUrl": "https://abstrusegoose.com/569",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/my_comics_only_address_the_most_pressing_issues_facing_humanity.png",
+      "altText": null,
+      "publishDate": "2012-08-26",
+      "sortIndex": 1345986292
+    },
+    {
+      "id": "abstrusegoose-567",
+      "title": "Electromagnetic Leak (update 2014)",
+      "pageUrl": "https://abstrusegoose.com/567",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/electromagnetic_leak_2014.png",
+      "altText": null,
+      "publishDate": "2012-08-20",
+      "sortIndex": 1345470156
+    },
+    {
+      "id": "abstrusegoose-566",
+      "title": "The COLLOM",
+      "pageUrl": "https://abstrusegoose.com/566",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_dream_is_alive_but_in_critical_condition.png",
+      "altText": null,
+      "publishDate": "2012-08-17",
+      "sortIndex": 1345212088
+    },
+    {
+      "id": "abstrusegoose-565",
+      "title": "phantom internet",
+      "pageUrl": "https://abstrusegoose.com/565",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/we_are_the_internet_resistance_is_futile.png",
+      "altText": null,
+      "publishDate": "2012-08-14",
+      "sortIndex": 1344954020
+    },
+    {
+      "id": "abstrusegoose-564",
+      "title": "Quantum Secrets",
+      "pageUrl": "https://abstrusegoose.com/564",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/not_even_the_CIA_knows_about_this_secret_prison.png",
+      "altText": null,
+      "publishDate": "2012-08-11",
+      "sortIndex": 1344695952
+    },
+    {
+      "id": "abstrusegoose-563",
+      "title": "The Robot Apocalypse",
+      "pageUrl": "https://abstrusegoose.com/563",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_software_substitution_dilemma.png",
+      "altText": null,
+      "publishDate": "2012-08-08",
+      "sortIndex": 1344437884
+    },
+    {
+      "id": "abstrusegoose-562",
+      "title": "Happiness",
+      "pageUrl": "https://abstrusegoose.com/562",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/learn_happiness.png",
+      "altText": null,
+      "publishDate": "2012-08-05",
+      "sortIndex": 1344179816
+    },
+    {
+      "id": "abstrusegoose-561",
+      "title": "Electric Man",
+      "pageUrl": "https://abstrusegoose.com/561",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_sing_the_gadgets_electric.png",
+      "altText": null,
+      "publishDate": "2012-08-02",
+      "sortIndex": 1343921748
+    },
+    {
+      "id": "abstrusegoose-560",
+      "title": "Guitar Code Hero",
+      "pageUrl": "https://abstrusegoose.com/560",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/qwerty_stratocaster.png",
+      "altText": null,
+      "publishDate": "2012-07-30",
+      "sortIndex": 1343663680
+    },
+    {
+      "id": "abstrusegoose-559",
+      "title": "the view",
+      "pageUrl": "https://abstrusegoose.com/559",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/semi_attended_customer_activated_tantrum.png",
+      "altText": null,
+      "publishDate": "2012-07-27",
+      "sortIndex": 1343405612
+    },
+    {
+      "id": "abstrusegoose-558",
+      "title": "undefeated",
+      "pageUrl": "https://abstrusegoose.com/558",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_know_someone_like_this_but_im_pretty_sure_she_just_does_it_to_torture_me.png",
+      "altText": null,
+      "publishDate": "2012-07-24",
+      "sortIndex": 1343147544
+    },
+    {
+      "id": "abstrusegoose-557",
+      "title": "pitchforks",
+      "pageUrl": "https://abstrusegoose.com/557",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/its_like_trying_to_stop_your_pee_midstream.png",
+      "altText": null,
+      "publishDate": "2012-07-21",
+      "sortIndex": 1342889476
+    },
+    {
+      "id": "abstrusegoose-556",
+      "title": "The Game - part 2",
+      "pageUrl": "https://abstrusegoose.com/556",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/this_game_is_even_more_fun_drunk.png",
+      "altText": null,
+      "publishDate": "2012-07-18",
+      "sortIndex": 1342631408
+    },
+    {
+      "id": "abstrusegoose-555",
+      "title": "Billionaire",
+      "pageUrl": "https://abstrusegoose.com/555",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/can_we_do_this_deal_by_the_inch.png",
+      "altText": null,
+      "publishDate": "2012-07-15",
+      "sortIndex": 1342373340
+    },
+    {
+      "id": "abstrusegoose-554",
+      "title": "Being and Nothingness",
+      "pageUrl": "https://abstrusegoose.com/554",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/idle_minds_are_the_cringe_demons_playground.png",
+      "altText": null,
+      "publishDate": "2012-07-12",
+      "sortIndex": 1342115272
+    },
+    {
+      "id": "abstrusegoose-553",
+      "title": "The Too Much Information Age",
+      "pageUrl": "https://abstrusegoose.com/553",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/TMIA.png",
+      "altText": null,
+      "publishDate": "2012-07-09",
+      "sortIndex": 1341857204
+    },
+    {
+      "id": "abstrusegoose-552",
+      "title": "Astronaut Barbie",
+      "pageUrl": "https://abstrusegoose.com/552",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/barbierella_queen_of_the_galaxy.png",
+      "altText": null,
+      "publishDate": "2012-07-06",
+      "sortIndex": 1341599136
+    },
+    {
+      "id": "abstrusegoose-551",
+      "title": "the underworld",
+      "pageUrl": "https://abstrusegoose.com/551",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/to_reign_in_hell.png",
+      "altText": null,
+      "publishDate": "2012-07-03",
+      "sortIndex": 1341341068
+    },
+    {
+      "id": "abstrusegoose-550",
+      "title": "third date",
+      "pageUrl": "https://abstrusegoose.com/550",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_should_also_probably_have_trimmed_my_pubes.png",
+      "altText": null,
+      "publishDate": "2012-06-30",
+      "sortIndex": 1341083000
+    },
+    {
+      "id": "abstrusegoose-549",
+      "title": "Glorious Accident",
+      "pageUrl": "https://abstrusegoose.com/549",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_creation_part_4.png",
+      "altText": null,
+      "publishDate": "2012-06-27",
+      "sortIndex": 1340824932
+    },
+    {
+      "id": "abstrusegoose-548",
+      "title": "the rules of physics",
+      "pageUrl": "https://abstrusegoose.com/548",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/STOP_in_the_name_of_the_laws_of_physics.png",
+      "altText": null,
+      "publishDate": "2012-06-24",
+      "sortIndex": 1340566864
+    },
+    {
+      "id": "abstrusegoose-547",
+      "title": "my pet bunny",
+      "pageUrl": "https://abstrusegoose.com/547",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_hereby_declare_that_all_cute_bunnies_be_classified_as_nonhuman_persons.png",
+      "altText": null,
+      "publishDate": "2012-06-21",
+      "sortIndex": 1340308796
+    },
+    {
+      "id": "abstrusegoose-545",
+      "title": "Bizarro",
+      "pageUrl": "https://abstrusegoose.com/545",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/bizero.png",
+      "altText": null,
+      "publishDate": "2012-06-15",
+      "sortIndex": 1339792660
+    },
+    {
+      "id": "abstrusegoose-544",
+      "title": "subfield",
+      "pageUrl": "https://abstrusegoose.com/544",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/nontrivial_subfield.png",
+      "altText": null,
+      "publishDate": "2012-06-12",
+      "sortIndex": 1339534592
+    },
+    {
+      "id": "abstrusegoose-543",
+      "title": "The Myriad Creatures of the Night",
+      "pageUrl": "https://abstrusegoose.com/543",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_sound_and_the_horny.png",
+      "altText": null,
+      "publishDate": "2012-06-09",
+      "sortIndex": 1339276524
+    },
+    {
+      "id": "abstrusegoose-542",
+      "title": "amazing",
+      "pageUrl": "https://abstrusegoose.com/542",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_greatest_inventor.png",
+      "altText": null,
+      "publishDate": "2012-06-06",
+      "sortIndex": 1339018456
+    },
+    {
+      "id": "abstrusegoose-541",
+      "title": "The Adventures of Flatman",
+      "pageUrl": "https://abstrusegoose.com/541",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/a_romance_in_n_dimensions.png",
+      "altText": null,
+      "publishDate": "2012-06-03",
+      "sortIndex": 1338760388
+    },
+    {
+      "id": "abstrusegoose-539",
+      "title": "The Power of Flight",
+      "pageUrl": "https://abstrusegoose.com/539",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_am_such_a_hypocrite.png",
+      "altText": null,
+      "publishDate": "2012-05-28",
+      "sortIndex": 1338244252
+    },
+    {
+      "id": "abstrusegoose-538",
+      "title": "GTA V",
+      "pageUrl": "https://abstrusegoose.com/538",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/F23F77F1B40B27F1F27F1B36F1.png",
+      "altText": null,
+      "publishDate": "2012-05-25",
+      "sortIndex": 1337986184
+    },
+    {
+      "id": "abstrusegoose-537",
+      "title": "Debunko Squad",
+      "pageUrl": "https://abstrusegoose.com/537",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/9_11_was_an_inside_job_cuz_aliens.png",
+      "altText": null,
+      "publishDate": "2012-05-22",
+      "sortIndex": 1337728116
+    },
+    {
+      "id": "abstrusegoose-536",
+      "title": "100 percent effective",
+      "pageUrl": "https://abstrusegoose.com/536",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/state_free_packet_filter.png",
+      "altText": null,
+      "publishDate": "2012-05-19",
+      "sortIndex": 1337470048
+    },
+    {
+      "id": "abstrusegoose-535",
+      "title": "August 4",
+      "pageUrl": "https://abstrusegoose.com/535",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/39_94958__-75_19427.png",
+      "altText": null,
+      "publishDate": "2012-05-16",
+      "sortIndex": 1337211980
+    },
+    {
+      "id": "abstrusegoose-534",
+      "title": "In the Neutral Zone - part 2",
+      "pageUrl": "https://abstrusegoose.com/534",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/to_boldly_monetize.png",
+      "altText": null,
+      "publishDate": "2012-05-14",
+      "sortIndex": 1336953912
+    },
+    {
+      "id": "abstrusegoose-533",
+      "title": "The Gloria Incident",
+      "pageUrl": "https://abstrusegoose.com/533",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/reluctant_skeptic.png",
+      "altText": null,
+      "publishDate": "2012-05-11",
+      "sortIndex": 1336695844
+    },
+    {
+      "id": "abstrusegoose-532",
+      "title": "Photoshop CSI",
+      "pageUrl": "https://abstrusegoose.com/532",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/crime_subpixel_investigation.png",
+      "altText": null,
+      "publishDate": "2012-05-08",
+      "sortIndex": 1336437776
+    },
+    {
+      "id": "abstrusegoose-531",
+      "title": "shelf life",
+      "pageUrl": "https://abstrusegoose.com/531",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/of_course_all_of_my_comic_books_are_in_the_forever_section.png",
+      "altText": null,
+      "publishDate": "2012-05-05",
+      "sortIndex": 1336179708
+    },
+    {
+      "id": "abstrusegoose-528",
+      "title": "permissions",
+      "pageUrl": "https://abstrusegoose.com/528",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/usually_looks_scarier_than_it_is.png",
+      "altText": null,
+      "publishDate": "2012-04-26",
+      "sortIndex": 1335405504
+    },
+    {
+      "id": "abstrusegoose-527",
+      "title": "one star",
+      "pageUrl": "https://abstrusegoose.com/527",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/one_star_is_best_star.png",
+      "altText": null,
+      "publishDate": "2012-04-23",
+      "sortIndex": 1335147436
+    },
+    {
+      "id": "abstrusegoose-526",
+      "title": "The Time Traveler's Burden",
+      "pageUrl": "https://abstrusegoose.com/526",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/next_stop_the_wild_west_what_could_go_wrong.png",
+      "altText": null,
+      "publishDate": "2012-04-20",
+      "sortIndex": 1334889368
+    },
+    {
+      "id": "abstrusegoose-525",
+      "title": "Site of the Mysteries",
+      "pageUrl": "https://abstrusegoose.com/525",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_ancient_feynman_diagram_theory.png",
+      "altText": null,
+      "publishDate": "2012-04-17",
+      "sortIndex": 1334631300
+    },
+    {
+      "id": "abstrusegoose-524",
+      "title": "roMEo",
+      "pageUrl": "https://abstrusegoose.com/524",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/but_i_would_make_a_great_mercutio.png",
+      "altText": null,
+      "publishDate": "2012-04-14",
+      "sortIndex": 1334373232
+    },
+    {
+      "id": "abstrusegoose-523",
+      "title": "Game of Thrones",
+      "pageUrl": "https://abstrusegoose.com/523",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/did_the_same_thing_for_lannisters_vs_starks.png",
+      "altText": null,
+      "publishDate": "2012-04-11",
+      "sortIndex": 1334115164
+    },
+    {
+      "id": "abstrusegoose-522",
+      "title": "artifact from the future",
+      "pageUrl": "https://abstrusegoose.com/522",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/thatll_do_thag.png",
+      "altText": null,
+      "publishDate": "2012-04-08",
+      "sortIndex": 1333857096
+    },
+    {
+      "id": "abstrusegoose-521",
+      "title": "crowd out",
+      "pageUrl": "https://abstrusegoose.com/521",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/only_90s_kids_wont_understand_this.png",
+      "altText": null,
+      "publishDate": "2012-04-05",
+      "sortIndex": 1333599028
+    },
+    {
+      "id": "abstrusegoose-519",
+      "title": "in the stars",
+      "pageUrl": "https://abstrusegoose.com/519",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/astronomology.png",
+      "altText": null,
+      "publishDate": "2012-03-30",
+      "sortIndex": 1333082892
+    },
+    {
+      "id": "abstrusegoose-518",
+      "title": "exclusive club",
+      "pageUrl": "https://abstrusegoose.com/518",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/some_day_i_will_be_a_bitter_old_man.png",
+      "altText": null,
+      "publishDate": "2012-03-27",
+      "sortIndex": 1332824824
+    },
+    {
+      "id": "abstrusegoose-517",
+      "title": "all in the family",
+      "pageUrl": "https://abstrusegoose.com/517",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_have_the_same_problem_with_the_bach_family.png",
+      "altText": null,
+      "publishDate": "2012-03-24",
+      "sortIndex": 1332566756
+    },
+    {
+      "id": "abstrusegoose-516",
+      "title": "the paragon of primates",
+      "pageUrl": "https://abstrusegoose.com/516",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/at_the_zoo_part_2.png",
+      "altText": null,
+      "publishDate": "2012-03-21",
+      "sortIndex": 1332308688
+    },
+    {
+      "id": "abstrusegoose-515",
+      "title": "what men want",
+      "pageUrl": "https://abstrusegoose.com/515",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/fucking_and_punching.png",
+      "altText": null,
+      "publishDate": "2012-03-18",
+      "sortIndex": 1332050620
+    },
+    {
+      "id": "abstrusegoose-514",
+      "title": "the party next door",
+      "pageUrl": "https://abstrusegoose.com/514",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/where_ever_i_go.png",
+      "altText": null,
+      "publishDate": "2012-03-15",
+      "sortIndex": 1331792552
+    },
+    {
+      "id": "abstrusegoose-513",
+      "title": "the purchase",
+      "pageUrl": "https://abstrusegoose.com/513",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_beast_awakens.png",
+      "altText": null,
+      "publishDate": "2012-03-12",
+      "sortIndex": 1331534484
+    },
+    {
+      "id": "abstrusegoose-512",
+      "title": "Master of the Universe",
+      "pageUrl": "https://abstrusegoose.com/512",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_prefer_women_doctors_with_small_fingers.png",
+      "altText": null,
+      "publishDate": "2012-03-09",
+      "sortIndex": 1331276416
+    },
+    {
+      "id": "abstrusegoose-511",
+      "title": "advanced class",
+      "pageUrl": "https://abstrusegoose.com/511",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/quantum_physics_is_a_lie.png",
+      "altText": null,
+      "publishDate": "2012-03-06",
+      "sortIndex": 1331018348
+    },
+    {
+      "id": "abstrusegoose-510",
+      "title": "Lucasian Throne",
+      "pageUrl": "https://abstrusegoose.com/510",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/game_of_theories.png",
+      "altText": null,
+      "publishDate": "2012-03-03",
+      "sortIndex": 1330760280
+    },
+    {
+      "id": "abstrusegoose-509",
+      "title": "pseudonymous man of mystery",
+      "pageUrl": "https://abstrusegoose.com/509",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/despite_the_rumors_i_am_not_satoshi_nakamoto.png",
+      "altText": null,
+      "publishDate": "2012-02-29",
+      "sortIndex": 1330502212
+    },
+    {
+      "id": "abstrusegoose-508",
+      "title": "alone in my room",
+      "pageUrl": "https://abstrusegoose.com/508",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/what_a_piece_of_work_is_man.png",
+      "altText": null,
+      "publishDate": "2012-02-26",
+      "sortIndex": 1330244144
+    },
+    {
+      "id": "abstrusegoose-507",
+      "title": "The Story of the Cheese Maze",
+      "pageUrl": "https://abstrusegoose.com/507",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/if_you_dont_have_cheese_its_your_own_damn_fault.png",
+      "altText": null,
+      "publishDate": "2012-02-23",
+      "sortIndex": 1329986076
+    },
+    {
+      "id": "abstrusegoose-506",
+      "title": "Penultimate Author",
+      "pageUrl": "https://abstrusegoose.com/506",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/indispensable_but_eminently_replaceable.png",
+      "altText": null,
+      "publishDate": "2012-02-20",
+      "sortIndex": 1329728008
+    },
+    {
+      "id": "abstrusegoose-505",
+      "title": "The Parable of the Talents",
+      "pageUrl": "https://abstrusegoose.com/505",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_startup_bible.png",
+      "altText": null,
+      "publishDate": "2012-02-17",
+      "sortIndex": 1329469940
+    },
+    {
+      "id": "abstrusegoose-504",
+      "title": "Impure Mathematics",
+      "pageUrl": "https://abstrusegoose.com/504",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_universal_mathematical_impurity_conjecture.png",
+      "altText": null,
+      "publishDate": "2012-02-14",
+      "sortIndex": 1329211872
+    },
+    {
+      "id": "abstrusegoose-503",
+      "title": "BlooP and FlooP and GlooP",
+      "pageUrl": "https://abstrusegoose.com/503",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/theoretical_mathematics_however_never_goes_out_of_fashion.png",
+      "altText": null,
+      "publishDate": "2012-02-11",
+      "sortIndex": 1328953804
+    },
+    {
+      "id": "abstrusegoose-502",
+      "title": "Einstein",
+      "pageUrl": "https://abstrusegoose.com/502",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/my_version_of_depressing_comic_week.png",
+      "altText": null,
+      "publishDate": "2012-02-08",
+      "sortIndex": 1328695736
+    },
+    {
+      "id": "abstrusegoose-501",
+      "title": "Zarathustra",
+      "pageUrl": "https://abstrusegoose.com/501",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/a_comic_for_all_and_none.png",
+      "altText": null,
+      "publishDate": "2012-02-05",
+      "sortIndex": 1328437668
+    },
+    {
+      "id": "abstrusegoose-500",
+      "title": "good idea",
+      "pageUrl": "https://abstrusegoose.com/500",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/99_percent_of_mozarts_music_was_shit.png",
+      "altText": null,
+      "publishDate": "2012-02-02",
+      "sortIndex": 1328179600
+    },
+    {
+      "id": "abstrusegoose-498",
+      "title": "Lydia",
+      "pageUrl": "https://abstrusegoose.com/498",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/just_like_when_i_am_AFK.png",
+      "altText": null,
+      "publishDate": "2012-01-27",
+      "sortIndex": 1327663464
+    },
+    {
+      "id": "abstrusegoose-497",
+      "title": "RSA-2048",
+      "pageUrl": "https://abstrusegoose.com/497",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_RSA_CTC_challenge.png",
+      "altText": null,
+      "publishDate": "2012-01-24",
+      "sortIndex": 1327405396
+    },
+    {
+      "id": "abstrusegoose-496",
+      "title": "state of the art",
+      "pageUrl": "https://abstrusegoose.com/496",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_singularity_is_way_over_there.png",
+      "altText": null,
+      "publishDate": "2012-01-21",
+      "sortIndex": 1327147328
+    },
+    {
+      "id": "abstrusegoose-494",
+      "title": "the race",
+      "pageUrl": "https://abstrusegoose.com/494",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_like_turtles.png",
+      "altText": null,
+      "publishDate": "2012-01-15",
+      "sortIndex": 1326631192
+    },
+    {
+      "id": "abstrusegoose-493",
+      "title": "far from home",
+      "pageUrl": "https://abstrusegoose.com/493",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/homesick_reader.png",
+      "altText": null,
+      "publishDate": "2012-01-12",
+      "sortIndex": 1326373124
+    },
+    {
+      "id": "abstrusegoose-492",
+      "title": "The Commanding Heights - part 2",
+      "pageUrl": "https://abstrusegoose.com/492",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/first_round_of_beers_is_on_the_house.png",
+      "altText": null,
+      "publishDate": "2012-01-09",
+      "sortIndex": 1326115056
+    },
+    {
+      "id": "abstrusegoose-491",
+      "title": "three",
+      "pageUrl": "https://abstrusegoose.com/491",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/gabenbernanke.png",
+      "altText": null,
+      "publishDate": "2012-01-06",
+      "sortIndex": 1325856988
+    },
+    {
+      "id": "abstrusegoose-490",
+      "title": "in the classroom 2",
+      "pageUrl": "https://abstrusegoose.com/490",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/solving_eigenvalue_problems_for_fun_and_profit.png",
+      "altText": null,
+      "publishDate": "2012-01-03",
+      "sortIndex": 1325598920
+    },
+    {
+      "id": "abstrusegoose-489",
+      "title": "Apophenia",
+      "pageUrl": "https://abstrusegoose.com/489",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/ghost_in_hilbert_space.png",
+      "altText": null,
+      "publishDate": "2011-12-31",
+      "sortIndex": 1325340852
+    },
+    {
+      "id": "abstrusegoose-488",
+      "title": "lurking variable",
+      "pageUrl": "https://abstrusegoose.com/488",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/studies_suggest_bacon_increases_lifespan.png",
+      "altText": null,
+      "publishDate": "2011-12-28",
+      "sortIndex": 1325082784
+    },
+    {
+      "id": "abstrusegoose-487",
+      "title": "in the classroom",
+      "pageUrl": "https://abstrusegoose.com/487",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/o_professor_how_do_you_sleep_at_night.png",
+      "altText": null,
+      "publishDate": "2011-12-25",
+      "sortIndex": 1324824716
+    },
+    {
+      "id": "abstrusegoose-486",
+      "title": "Tribal Warfare",
+      "pageUrl": "https://abstrusegoose.com/486",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/monday_bloody_monday.png",
+      "altText": null,
+      "publishDate": "2011-12-22",
+      "sortIndex": 1324566648
+    },
+    {
+      "id": "abstrusegoose-485",
+      "title": "Man in the Mirror",
+      "pageUrl": "https://abstrusegoose.com/485",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/vagina_envy.png",
+      "altText": null,
+      "publishDate": "2011-12-19",
+      "sortIndex": 1324308580
+    },
+    {
+      "id": "abstrusegoose-484",
+      "title": "The Wilderness",
+      "pageUrl": "https://abstrusegoose.com/484",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/then_i_learned_how_to_ride_a_bike_and_i_was_nothing_but_trouble.png",
+      "altText": null,
+      "publishDate": "2011-12-16",
+      "sortIndex": 1324050512
+    },
+    {
+      "id": "abstrusegoose-483",
+      "title": "bad boy",
+      "pageUrl": "https://abstrusegoose.com/483",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/bad_alloc.png",
+      "altText": null,
+      "publishDate": "2011-12-13",
+      "sortIndex": 1323792444
+    },
+    {
+      "id": "abstrusegoose-482",
+      "title": "the internet",
+      "pageUrl": "https://abstrusegoose.com/482",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/you_are_funny_like_a_clown_you_are_here_to_amuse_me.png",
+      "altText": null,
+      "publishDate": "2011-12-10",
+      "sortIndex": 1323534376
+    },
+    {
+      "id": "abstrusegoose-480",
+      "title": "Escape Route",
+      "pageUrl": "https://abstrusegoose.com/480",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/she_is_also_an_evil_genius.png",
+      "altText": null,
+      "publishDate": "2011-12-04",
+      "sortIndex": 1323018240
+    },
+    {
+      "id": "abstrusegoose-479",
+      "title": "The Beneficence of Others",
+      "pageUrl": "https://abstrusegoose.com/479",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/every_day_i_am_alive_is_a_miracle.png",
+      "altText": null,
+      "publishDate": "2011-12-01",
+      "sortIndex": 1322760172
+    },
+    {
+      "id": "abstrusegoose-478",
+      "title": "Job Interview",
+      "pageUrl": "https://abstrusegoose.com/478",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/harvard_was_my_safety_school.png",
+      "altText": null,
+      "publishDate": "2011-11-28",
+      "sortIndex": 1322502104
+    },
+    {
+      "id": "abstrusegoose-477",
+      "title": "In Cabin'd Ships at Sea",
+      "pageUrl": "https://abstrusegoose.com/477",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/leaves_of_grass_in_spaaaaace.png",
+      "altText": null,
+      "publishDate": "2011-11-25",
+      "sortIndex": 1322244036
+    },
+    {
+      "id": "abstrusegoose-476",
+      "title": "The Hunted",
+      "pageUrl": "https://abstrusegoose.com/476",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/those_european_bastards_did_it.png",
+      "altText": null,
+      "publishDate": "2011-11-22",
+      "sortIndex": 1321985968
+    },
+    {
+      "id": "abstrusegoose-475",
+      "title": "A Simple Puzzle 4",
+      "pageUrl": "https://abstrusegoose.com/475",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/simple_puzzle_4.png",
+      "altText": null,
+      "publishDate": "2011-11-19",
+      "sortIndex": 1321727900
+    },
+    {
+      "id": "abstrusegoose-474",
+      "title": "Arithmetic for Beginners",
+      "pageUrl": "https://abstrusegoose.com/474",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_never_would_have_passed_kindergarten.png",
+      "altText": null,
+      "publishDate": "2011-11-16",
+      "sortIndex": 1321469832
+    },
+    {
+      "id": "abstrusegoose-473",
+      "title": "Programmers Do Not Throw Sausage Pizza Away... Hastily",
+      "pageUrl": "https://abstrusegoose.com/473",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_need_to_spend_more_time_in_meatspace_if_you_know_what_i_mean.png",
+      "altText": null,
+      "publishDate": "2011-11-13",
+      "sortIndex": 1321211764
+    },
+    {
+      "id": "abstrusegoose-472",
+      "title": "faith",
+      "pageUrl": "https://abstrusegoose.com/472",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/bible_fanfic.png",
+      "altText": null,
+      "publishDate": "2011-11-10",
+      "sortIndex": 1320953696
+    },
+    {
+      "id": "abstrusegoose-471",
+      "title": "Unequal Relationship",
+      "pageUrl": "https://abstrusegoose.com/471",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/actually_it_solves_a_lot_of_problems.png",
+      "altText": null,
+      "publishDate": "2011-11-07",
+      "sortIndex": 1320695628
+    },
+    {
+      "id": "abstrusegoose-469",
+      "title": "cockpit",
+      "pageUrl": "https://abstrusegoose.com/469",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/sometimes_im_just_curious_what_its_like_on_the_other_side.png",
+      "altText": null,
+      "publishDate": "2011-11-01",
+      "sortIndex": 1320179492
+    },
+    {
+      "id": "abstrusegoose-468",
+      "title": "The Invasion",
+      "pageUrl": "https://abstrusegoose.com/468",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/someday_this_comic_will_make_no_sense.png",
+      "altText": null,
+      "publishDate": "2011-10-29",
+      "sortIndex": 1319921424
+    },
+    {
+      "id": "abstrusegoose-467",
+      "title": "The Happy Programmer",
+      "pageUrl": "https://abstrusegoose.com/467",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_art_of_happy_programming.png",
+      "altText": null,
+      "publishDate": "2011-10-26",
+      "sortIndex": 1319663356
+    },
+    {
+      "id": "abstrusegoose-466",
+      "title": "Top Wrangler",
+      "pageUrl": "https://abstrusegoose.com/466",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_feel_the_need_the_need_for_nontrivial_zeros_of_the_Riemann_zeta_function.png",
+      "altText": null,
+      "publishDate": "2011-10-23",
+      "sortIndex": 1319405288
+    },
+    {
+      "id": "abstrusegoose-464",
+      "title": "this comic",
+      "pageUrl": "https://abstrusegoose.com/464",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_first_10000_people_to_see_this_comic_win_the_game.png",
+      "altText": null,
+      "publishDate": "2011-10-17",
+      "sortIndex": 1318889152
+    },
+    {
+      "id": "abstrusegoose-463",
+      "title": "perpetual happy hour",
+      "pageUrl": "https://abstrusegoose.com/463",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/someday_my_phd_will_be_worth_something.png",
+      "altText": null,
+      "publishDate": "2011-10-14",
+      "sortIndex": 1318631084
+    },
+    {
+      "id": "abstrusegoose-460",
+      "title": "fill it up with unregulated",
+      "pageUrl": "https://abstrusegoose.com/460",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/BREAKING_study_suggests_adding_fuel_may_influence_fire.png",
+      "altText": null,
+      "publishDate": "2011-10-05",
+      "sortIndex": 1317856880
+    },
+    {
+      "id": "abstrusegoose-458",
+      "title": "wonderful life",
+      "pageUrl": "https://abstrusegoose.com/458",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/you_see_george_youve_really_had_a_wonderful_life.png",
+      "altText": null,
+      "publishDate": "2011-09-29",
+      "sortIndex": 1317340744
+    },
+    {
+      "id": "abstrusegoose-457",
+      "title": "Many World Problem",
+      "pageUrl": "https://abstrusegoose.com/457",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/many_first_world_problem.png",
+      "altText": null,
+      "publishDate": "2011-09-27",
+      "sortIndex": 1317082676
+    },
+    {
+      "id": "abstrusegoose-456",
+      "title": "illuminatus",
+      "pageUrl": "https://abstrusegoose.com/456",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_have_actually_watched_every_episode_of_jersey_shore.png",
+      "altText": null,
+      "publishDate": "2011-09-24",
+      "sortIndex": 1316824608
+    },
+    {
+      "id": "abstrusegoose-455",
+      "title": "The Creation - part 3",
+      "pageUrl": "https://abstrusegoose.com/455",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/QM_is_actually_a_hardware_problem.png",
+      "altText": null,
+      "publishDate": "2011-09-21",
+      "sortIndex": 1316566540
+    },
+    {
+      "id": "abstrusegoose-454",
+      "title": "reading in bed",
+      "pageUrl": "https://abstrusegoose.com/454",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_only_need_500_words_for_most_of_my_conversations_anyway.png",
+      "altText": null,
+      "publishDate": "2011-09-18",
+      "sortIndex": 1316308472
+    },
+    {
+      "id": "abstrusegoose-453",
+      "title": "the tide",
+      "pageUrl": "https://abstrusegoose.com/453",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/so_this_is_how_liberty_dies_with_a_thunderous_crash_of_legislation.png",
+      "altText": null,
+      "publishDate": "2011-09-15",
+      "sortIndex": 1316050404
+    },
+    {
+      "id": "abstrusegoose-451",
+      "title": "supernova",
+      "pageUrl": "https://abstrusegoose.com/451",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/so_stay_in_school_kids.png",
+      "altText": null,
+      "publishDate": "2011-09-09",
+      "sortIndex": 1315534268
+    },
+    {
+      "id": "abstrusegoose-450",
+      "title": "Gambler's Fallacy",
+      "pageUrl": "https://abstrusegoose.com/450",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/just_kidding_it_actually_sucked_long_before_that.png",
+      "altText": null,
+      "publishDate": "2011-09-06",
+      "sortIndex": 1315276200
+    },
+    {
+      "id": "abstrusegoose-449",
+      "title": "The Great Tragedy",
+      "pageUrl": "https://abstrusegoose.com/449",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/it_is_only_a_matter_of_time_before_they_raid_your_theory.png",
+      "altText": null,
+      "publishDate": "2011-09-03",
+      "sortIndex": 1315018132
+    },
+    {
+      "id": "abstrusegoose-448",
+      "title": "status quo bias",
+      "pageUrl": "https://abstrusegoose.com/448",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_current_is_strong_in_this_one.png",
+      "altText": null,
+      "publishDate": "2011-08-31",
+      "sortIndex": 1314760064
+    },
+    {
+      "id": "abstrusegoose-447",
+      "title": "Important Messages",
+      "pageUrl": "https://abstrusegoose.com/447",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_feel_like_im_getting_DPed_by_my_TV.png",
+      "altText": null,
+      "publishDate": "2011-08-28",
+      "sortIndex": 1314501996
+    },
+    {
+      "id": "abstrusegoose-446",
+      "title": "A Walk on Mars",
+      "pageUrl": "https://abstrusegoose.com/446",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/mars_is_red_earth_is_blue_when_NASAs_budget_is_cut_the_world_loses_too.png",
+      "altText": null,
+      "publishDate": "2011-08-25",
+      "sortIndex": 1314243928
+    },
+    {
+      "id": "abstrusegoose-445",
+      "title": "The Elements of Style",
+      "pageUrl": "https://abstrusegoose.com/445",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/this_is_why_skynet_must_have_a_kill_switch.png",
+      "altText": null,
+      "publishDate": "2011-08-22",
+      "sortIndex": 1313985860
+    },
+    {
+      "id": "abstrusegoose-443",
+      "title": "skillz",
+      "pageUrl": "https://abstrusegoose.com/443",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/this_comic_does_not_have_Super_Cow_Power.png",
+      "altText": null,
+      "publishDate": "2011-08-16",
+      "sortIndex": 1313469724
+    },
+    {
+      "id": "abstrusegoose-442",
+      "title": "The Infinite Canvas",
+      "pageUrl": "https://abstrusegoose.com/442",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/well_then_where_did_the_light_come_from_you_cant_explain_that.png",
+      "altText": null,
+      "publishDate": "2011-08-13",
+      "sortIndex": 1313211656
+    },
+    {
+      "id": "abstrusegoose-440",
+      "title": "Chrono-Synclastic Infundibulum",
+      "pageUrl": "https://abstrusegoose.com/440",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/terminal_sequelitis.png",
+      "altText": null,
+      "publishDate": "2011-08-07",
+      "sortIndex": 1312695520
+    },
+    {
+      "id": "abstrusegoose-438",
+      "title": "Gmail",
+      "pageUrl": "https://abstrusegoose.com/438",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/cool_now_jenny_wont_know_that_im_crazy_until_the_fifth_date.png",
+      "altText": null,
+      "publishDate": "2011-08-01",
+      "sortIndex": 1312179384
+    },
+    {
+      "id": "abstrusegoose-437",
+      "title": "LINux hack",
+      "pageUrl": "https://abstrusegoose.com/437",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/yeah_i_jumped_on_the_bandwagon_but_im_still_a_sixers_fan.png",
+      "altText": null,
+      "publishDate": "2011-07-29",
+      "sortIndex": 1311921316
+    },
+    {
+      "id": "abstrusegoose-436",
+      "title": "Throughput",
+      "pageUrl": "https://abstrusegoose.com/436",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/what_manner_of_sorcery_is_this.png",
+      "altText": null,
+      "publishDate": "2011-07-26",
+      "sortIndex": 1311663248
+    },
+    {
+      "id": "abstrusegoose-435",
+      "title": "Murderer",
+      "pageUrl": "https://abstrusegoose.com/435",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/but_the_clown_under_my_bed_is_real.png",
+      "altText": null,
+      "publishDate": "2011-07-23",
+      "sortIndex": 1311405180
+    },
+    {
+      "id": "abstrusegoose-434",
+      "title": "Supervillain Secrets",
+      "pageUrl": "https://abstrusegoose.com/434",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/superhero_physics_amuses_me.png",
+      "altText": null,
+      "publishDate": "2011-07-20",
+      "sortIndex": 1311147112
+    },
+    {
+      "id": "abstrusegoose-433",
+      "title": "The Watchers",
+      "pageUrl": "https://abstrusegoose.com/433",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/missing_the_point.png",
+      "altText": null,
+      "publishDate": "2011-07-17",
+      "sortIndex": 1310889044
+    },
+    {
+      "id": "abstrusegoose-432",
+      "title": "O.P.C.",
+      "pageUrl": "https://abstrusegoose.com/432",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/you_down_wit_OPC-yeah_you_know_me.png",
+      "altText": null,
+      "publishDate": "2011-07-14",
+      "sortIndex": 1310630976
+    },
+    {
+      "id": "abstrusegoose-431",
+      "title": "Red-Letter Date",
+      "pageUrl": "https://abstrusegoose.com/431",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_most_important_questions_of_life_are_really_only_problems_of_probability.png",
+      "altText": null,
+      "publishDate": "2011-07-11",
+      "sortIndex": 1310372908
+    },
+    {
+      "id": "abstrusegoose-430",
+      "title": "Fairy Tale",
+      "pageUrl": "https://abstrusegoose.com/430",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/all_through_my_life_the_new_sights_of_Nature_made_me_rejoice_like_a_child.png",
+      "altText": null,
+      "publishDate": "2011-07-08",
+      "sortIndex": 1310114840
+    },
+    {
+      "id": "abstrusegoose-429",
+      "title": "famous",
+      "pageUrl": "https://abstrusegoose.com/429",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/this_is_the_only_reason_i_have_not_published_my_TOE_yet.png",
+      "altText": null,
+      "publishDate": "2011-07-05",
+      "sortIndex": 1309856772
+    },
+    {
+      "id": "abstrusegoose-428",
+      "title": "...",
+      "pageUrl": "https://abstrusegoose.com/428",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/fight_SOPA_PIPA.png",
+      "altText": null,
+      "publishDate": "2011-07-02",
+      "sortIndex": 1309598704
+    },
+    {
+      "id": "abstrusegoose-427",
+      "title": "The Alien Agenda",
+      "pageUrl": "https://abstrusegoose.com/427",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/and_never_trust_a_monkey.png",
+      "altText": null,
+      "publishDate": "2011-06-29",
+      "sortIndex": 1309340636
+    },
+    {
+      "id": "abstrusegoose-426",
+      "title": "3 AM",
+      "pageUrl": "https://abstrusegoose.com/426",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/hello_yes_this_is_ficus.png",
+      "altText": null,
+      "publishDate": "2011-06-26",
+      "sortIndex": 1309082568
+    },
+    {
+      "id": "abstrusegoose-425",
+      "title": "YOU",
+      "pageUrl": "https://abstrusegoose.com/425",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/he_knows.png",
+      "altText": null,
+      "publishDate": "2011-06-23",
+      "sortIndex": 1308824500
+    },
+    {
+      "id": "abstrusegoose-424",
+      "title": "The 13.7 Billion Year Experiment",
+      "pageUrl": "https://abstrusegoose.com/424",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/METHINKS_IT_IS_LIKE_A_WEASEL.png",
+      "altText": null,
+      "publishDate": "2011-06-20",
+      "sortIndex": 1308566432
+    },
+    {
+      "id": "abstrusegoose-422",
+      "title": "Voluntary Prison",
+      "pageUrl": "https://abstrusegoose.com/422",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_matrix_has_you_Neo.png",
+      "altText": null,
+      "publishDate": "2011-06-14",
+      "sortIndex": 1308050296
+    },
+    {
+      "id": "abstrusegoose-421",
+      "title": "The Sliver of Perception",
+      "pageUrl": "https://abstrusegoose.com/421",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/if_the_doors_of_perception_were_expanded_everything_would_appear_as_it_is-infinite.png",
+      "altText": null,
+      "publishDate": "2011-06-11",
+      "sortIndex": 1307792228
+    },
+    {
+      "id": "abstrusegoose-419",
+      "title": "The Commanding Heights",
+      "pageUrl": "https://abstrusegoose.com/419",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/a_moment_of_silence_please.png",
+      "altText": null,
+      "publishDate": "2011-06-05",
+      "sortIndex": 1307276092
+    },
+    {
+      "id": "abstrusegoose-418",
+      "title": "alma mater",
+      "pageUrl": "https://abstrusegoose.com/418",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/youre_welcome_college_students.png",
+      "altText": null,
+      "publishDate": "2011-06-02",
+      "sortIndex": 1307018024
+    },
+    {
+      "id": "abstrusegoose-417",
+      "title": "unfulfilled",
+      "pageUrl": "https://abstrusegoose.com/417",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/truth_be_told_i_wouldnt_last_three_days_without_electricity.png",
+      "altText": null,
+      "publishDate": "2011-05-30",
+      "sortIndex": 1306759956
+    },
+    {
+      "id": "abstrusegoose-416",
+      "title": "The Amygdala Hijack Conspiracy",
+      "pageUrl": "https://abstrusegoose.com/416",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_DARPA_conspiracy.png",
+      "altText": null,
+      "publishDate": "2011-05-27",
+      "sortIndex": 1306501888
+    },
+    {
+      "id": "abstrusegoose-415",
+      "title": "Lecture Fatigue",
+      "pageUrl": "https://abstrusegoose.com/415",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/classroom_reverie.png",
+      "altText": null,
+      "publishDate": "2011-05-24",
+      "sortIndex": 1306243820
+    },
+    {
+      "id": "abstrusegoose-414",
+      "title": "Rear Window",
+      "pageUrl": "https://abstrusegoose.com/414",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/Sidereus_Nuncius.png",
+      "altText": null,
+      "publishDate": "2011-05-21",
+      "sortIndex": 1305985752
+    },
+    {
+      "id": "abstrusegoose-413",
+      "title": "they came like locusts...",
+      "pageUrl": "https://abstrusegoose.com/413",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/alternative_history.png",
+      "altText": null,
+      "publishDate": "2011-05-18",
+      "sortIndex": 1305727684
+    },
+    {
+      "id": "abstrusegoose-412",
+      "title": "Space War",
+      "pageUrl": "https://abstrusegoose.com/412",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/she-s_obviously_just_using_me_for_sex.png",
+      "altText": null,
+      "publishDate": "2011-05-15",
+      "sortIndex": 1305469616
+    },
+    {
+      "id": "abstrusegoose-411",
+      "title": "the first casualty",
+      "pageUrl": "https://abstrusegoose.com/411",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/MSM.png",
+      "altText": null,
+      "publishDate": "2011-05-12",
+      "sortIndex": 1305211548
+    },
+    {
+      "id": "abstrusegoose-410",
+      "title": "this far, no further",
+      "pageUrl": "https://abstrusegoose.com/410",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_find_the_borg_queen_to_be_strangely_attractive-just_sayin.png",
+      "altText": null,
+      "publishDate": "2011-05-09",
+      "sortIndex": 1304953480
+    },
+    {
+      "id": "abstrusegoose-409",
+      "title": "formal argument",
+      "pageUrl": "https://abstrusegoose.com/409",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_know_something_you_dont_know__i_am_not_left-brained.png",
+      "altText": null,
+      "publishDate": "2011-05-06",
+      "sortIndex": 1304695412
+    },
+    {
+      "id": "abstrusegoose-407",
+      "title": "devourer of all things",
+      "pageUrl": "https://abstrusegoose.com/407",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/tempus_edax_rerum.png",
+      "altText": null,
+      "publishDate": "2011-04-30",
+      "sortIndex": 1304179276
+    },
+    {
+      "id": "abstrusegoose-406",
+      "title": "Spherical Cow",
+      "pageUrl": "https://abstrusegoose.com/406",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/stop_the_massacre.png",
+      "altText": null,
+      "publishDate": "2011-04-27",
+      "sortIndex": 1303921208
+    },
+    {
+      "id": "abstrusegoose-405",
+      "title": "Portrait",
+      "pageUrl": "https://abstrusegoose.com/405",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/reverse_picasso.png",
+      "altText": null,
+      "publishDate": "2011-04-24",
+      "sortIndex": 1303663140
+    },
+    {
+      "id": "abstrusegoose-404",
+      "title": "Barbarians at the Gate",
+      "pageUrl": "https://abstrusegoose.com/404",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/barbarians_at_the_gated_community.png",
+      "altText": null,
+      "publishDate": "2011-04-21",
+      "sortIndex": 1303405072
+    },
+    {
+      "id": "abstrusegoose-403",
+      "title": "The Badlands",
+      "pageUrl": "https://abstrusegoose.com/403",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/its_easy_to_get_lost_in_the_badlands.png",
+      "altText": null,
+      "publishDate": "2011-04-18",
+      "sortIndex": 1303147004
+    },
+    {
+      "id": "abstrusegoose-402",
+      "title": "Forbidden Fruit",
+      "pageUrl": "https://abstrusegoose.com/402",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/visionary.png",
+      "altText": null,
+      "publishDate": "2011-04-15",
+      "sortIndex": 1302888936
+    },
+    {
+      "id": "abstrusegoose-401",
+      "title": "depression",
+      "pageUrl": "https://abstrusegoose.com/401",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/some_people_are_just_misdiagnosed.png",
+      "altText": null,
+      "publishDate": "2011-04-12",
+      "sortIndex": 1302630868
+    },
+    {
+      "id": "abstrusegoose-399",
+      "title": "slow and steady",
+      "pageUrl": "https://abstrusegoose.com/399",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/aesop_reloaded.png",
+      "altText": null,
+      "publishDate": "2011-04-06",
+      "sortIndex": 1302114732
+    },
+    {
+      "id": "abstrusegoose-398",
+      "title": "startup - part 2",
+      "pageUrl": "https://abstrusegoose.com/398",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/this_business_model_seems_to_work_well.png",
+      "altText": null,
+      "publishDate": "2011-04-03",
+      "sortIndex": 1301856664
+    },
+    {
+      "id": "abstrusegoose-397",
+      "title": "Hour of Rage",
+      "pageUrl": "https://abstrusegoose.com/397",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/we_will_no_longer_tolerate_corrupt_politicians_and_elite_special_intGOING_TO_THE_JERSEY_SHORE_BITCH.png",
+      "altText": null,
+      "publishDate": "2011-03-31",
+      "sortIndex": 1301598596
+    },
+    {
+      "id": "abstrusegoose-396",
+      "title": "Public Disgrace",
+      "pageUrl": "https://abstrusegoose.com/396",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_all_alone_beweep_my_outcast_state.png",
+      "altText": null,
+      "publishDate": "2011-03-28",
+      "sortIndex": 1301340528
+    },
+    {
+      "id": "abstrusegoose-395",
+      "title": "Proofs from THE BOOK",
+      "pageUrl": "https://abstrusegoose.com/395",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/sire_I_did_not_need_that_hypothesis.png",
+      "altText": null,
+      "publishDate": "2011-03-25",
+      "sortIndex": 1301082460
+    },
+    {
+      "id": "abstrusegoose-394",
+      "title": "store",
+      "pageUrl": "https://abstrusegoose.com/394",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/scumunkres.png",
+      "altText": null,
+      "publishDate": "2011-03-22",
+      "sortIndex": 1300824392
+    },
+    {
+      "id": "abstrusegoose-393",
+      "title": "extrinsic value",
+      "pageUrl": "https://abstrusegoose.com/393",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/I_R_romantical.png",
+      "altText": null,
+      "publishDate": "2011-03-19",
+      "sortIndex": 1300566324
+    },
+    {
+      "id": "abstrusegoose-391",
+      "title": "A Pseudorandom Walk",
+      "pageUrl": "https://abstrusegoose.com/391",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/mr_market_is_a_drunken_dirty_old_man.png",
+      "altText": null,
+      "publishDate": "2011-03-13",
+      "sortIndex": 1300050188
+    },
+    {
+      "id": "abstrusegoose-389",
+      "title": "fancy",
+      "pageUrl": "https://abstrusegoose.com/389",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/and_why_do_physicists_sometimes_call_electrons_beta_particles.png",
+      "altText": null,
+      "publishDate": "2011-03-07",
+      "sortIndex": 1299534052
+    },
+    {
+      "id": "abstrusegoose-387",
+      "title": "Master and Servant",
+      "pageUrl": "https://abstrusegoose.com/387",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/parse_error_before_yourass_token.png",
+      "altText": null,
+      "publishDate": "2011-03-01",
+      "sortIndex": 1299017916
+    },
+    {
+      "id": "abstrusegoose-386",
+      "title": "bloodbath",
+      "pageUrl": "https://abstrusegoose.com/386",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/thank_god_for_precious_metals.png",
+      "altText": null,
+      "publishDate": "2011-02-26",
+      "sortIndex": 1298759848
+    },
+    {
+      "id": "abstrusegoose-385",
+      "title": "ancestors",
+      "pageUrl": "https://abstrusegoose.com/385",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/o_well_ok_so_long_as_there-s_no_pressure.png",
+      "altText": null,
+      "publishDate": "2011-02-23",
+      "sortIndex": 1298501780
+    },
+    {
+      "id": "abstrusegoose-384",
+      "title": "Aragorn",
+      "pageUrl": "https://abstrusegoose.com/384",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/missed_calling.png",
+      "altText": null,
+      "publishDate": "2011-02-20",
+      "sortIndex": 1298243712
+    },
+    {
+      "id": "abstrusegoose-383",
+      "title": "Plan of Attack",
+      "pageUrl": "https://abstrusegoose.com/383",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/my_that_bear-s_gettin_awful_close.png",
+      "altText": null,
+      "publishDate": "2011-02-17",
+      "sortIndex": 1297985644
+    },
+    {
+      "id": "abstrusegoose-382",
+      "title": "weak",
+      "pageUrl": "https://abstrusegoose.com/382",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/always_in_a_good_mood_always_low_prices.png",
+      "altText": null,
+      "publishDate": "2011-02-14",
+      "sortIndex": 1297727576
+    },
+    {
+      "id": "abstrusegoose-381",
+      "title": "Code of Honor",
+      "pageUrl": "https://abstrusegoose.com/381",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/fast_and_the_fourier_transform.png",
+      "altText": null,
+      "publishDate": "2011-02-12",
+      "sortIndex": 1297469508
+    },
+    {
+      "id": "abstrusegoose-380",
+      "title": "startup",
+      "pageUrl": "https://abstrusegoose.com/380",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/buzzwordy.png",
+      "altText": null,
+      "publishDate": "2011-02-09",
+      "sortIndex": 1297211440
+    },
+    {
+      "id": "abstrusegoose-379",
+      "title": "Black Box",
+      "pageUrl": "https://abstrusegoose.com/379",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/emotive_electro_chemical_stimulus_response_cranial_plate_bipedal_locomotion_endoskeletal_contiguous_external_integument.png",
+      "altText": null,
+      "publishDate": "2011-02-06",
+      "sortIndex": 1296953372
+    },
+    {
+      "id": "abstrusegoose-378",
+      "title": "Commentary",
+      "pageUrl": "https://abstrusegoose.com/378",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/what_the_fuck_do_we_know.png",
+      "altText": null,
+      "publishDate": "2011-02-03",
+      "sortIndex": 1296695304
+    },
+    {
+      "id": "abstrusegoose-377",
+      "title": "History of Flight",
+      "pageUrl": "https://abstrusegoose.com/377",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/humans_get_your_ass_to_mars.png",
+      "altText": null,
+      "publishDate": "2011-01-31",
+      "sortIndex": 1296437236
+    },
+    {
+      "id": "abstrusegoose-376",
+      "title": "Pythagoras",
+      "pageUrl": "https://abstrusegoose.com/376",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/publish_perish_Pythagoras.png",
+      "altText": null,
+      "publishDate": "2011-01-28",
+      "sortIndex": 1296179168
+    },
+    {
+      "id": "abstrusegoose-375",
+      "title": "A Brief History of Us",
+      "pageUrl": "https://abstrusegoose.com/375",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/we_are_the_universe_trying_to_understand_itself.png",
+      "altText": null,
+      "publishDate": "2011-01-25",
+      "sortIndex": 1295921100
+    },
+    {
+      "id": "abstrusegoose-373",
+      "title": "Nocturne",
+      "pageUrl": "https://abstrusegoose.com/373",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/op_9_no_2.png",
+      "altText": null,
+      "publishDate": "2011-01-19",
+      "sortIndex": 1295404964
+    },
+    {
+      "id": "abstrusegoose-372",
+      "title": "Dangerous",
+      "pageUrl": "https://abstrusegoose.com/372",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/drink_deep_or_taste_not_the_Pierian_spring.png",
+      "altText": null,
+      "publishDate": "2011-01-16",
+      "sortIndex": 1295146896
+    },
+    {
+      "id": "abstrusegoose-371",
+      "title": "I, Genius",
+      "pageUrl": "https://abstrusegoose.com/371",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/stupid_is_a_choice---usually.png",
+      "altText": null,
+      "publishDate": "2011-01-13",
+      "sortIndex": 1294888828
+    },
+    {
+      "id": "abstrusegoose-369",
+      "title": "Trash Talk",
+      "pageUrl": "https://abstrusegoose.com/369",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/he_will_triumph_who_knows_when_to_fight_and_when_to_be_a_pussy---Sun_Tzu.png",
+      "altText": null,
+      "publishDate": "2011-01-07",
+      "sortIndex": 1294372692
+    },
+    {
+      "id": "abstrusegoose-368",
+      "title": "Partners",
+      "pageUrl": "https://abstrusegoose.com/368",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/THIS_IS_SPARTICLLLLLLE.png",
+      "altText": null,
+      "publishDate": "2011-01-04",
+      "sortIndex": 1294114624
+    },
+    {
+      "id": "abstrusegoose-367",
+      "title": "Bee - part 2",
+      "pageUrl": "https://abstrusegoose.com/367",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/but_otto_is_a_woman-s_name.png",
+      "altText": null,
+      "publishDate": "2011-01-01",
+      "sortIndex": 1293856556
+    },
+    {
+      "id": "abstrusegoose-366",
+      "title": "Box",
+      "pageUrl": "https://abstrusegoose.com/366",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/pandoras_box.png",
+      "altText": null,
+      "publishDate": "2010-12-29",
+      "sortIndex": 1293598488
+    },
+    {
+      "id": "abstrusegoose-364",
+      "title": "banana banana banana",
+      "pageUrl": "https://abstrusegoose.com/364",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/banananananananana.png",
+      "altText": null,
+      "publishDate": "2010-12-23",
+      "sortIndex": 1293082352
+    },
+    {
+      "id": "abstrusegoose-363",
+      "title": "Negative NPV",
+      "pageUrl": "https://abstrusegoose.com/363",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/cartoonists_however_will_be_in_great_demand.png",
+      "altText": null,
+      "publishDate": "2010-12-20",
+      "sortIndex": 1292824284
+    },
+    {
+      "id": "abstrusegoose-361",
+      "title": "Term Paper",
+      "pageUrl": "https://abstrusegoose.com/361",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/unfortunately_this_doesnt_work_when_you_get_paid_by_LOC.png",
+      "altText": null,
+      "publishDate": "2010-12-14",
+      "sortIndex": 1292308148
+    },
+    {
+      "id": "abstrusegoose-360",
+      "title": "Fresh Kill",
+      "pageUrl": "https://abstrusegoose.com/360",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_hear_the_cry_of_the_warrior.png",
+      "altText": null,
+      "publishDate": "2010-12-11",
+      "sortIndex": 1292050080
+    },
+    {
+      "id": "abstrusegoose-359",
+      "title": "My Neighborhood",
+      "pageUrl": "https://abstrusegoose.com/359",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/I_also_hear_the_voice_of_Ellen_McLain_in_my_head_insulting_me.png",
+      "altText": null,
+      "publishDate": "2010-12-08",
+      "sortIndex": 1291792012
+    },
+    {
+      "id": "abstrusegoose-357",
+      "title": "room with a view",
+      "pageUrl": "https://abstrusegoose.com/357",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/this_is_both_awesome_and_sad.png",
+      "altText": null,
+      "publishDate": "2010-12-02",
+      "sortIndex": 1291275876
+    },
+    {
+      "id": "abstrusegoose-356",
+      "title": "Ocean",
+      "pageUrl": "https://abstrusegoose.com/356",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/all_he_asks_is_that_we_look.png",
+      "altText": null,
+      "publishDate": "2010-11-29",
+      "sortIndex": 1291017808
+    },
+    {
+      "id": "abstrusegoose-354",
+      "title": "Mirror",
+      "pageUrl": "https://abstrusegoose.com/354",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/straighten_your_back_take_your_left_hand_off_your_face_and_stop_playing_with_yourself.png",
+      "altText": null,
+      "publishDate": "2010-11-23",
+      "sortIndex": 1290501672
+    },
+    {
+      "id": "abstrusegoose-353",
+      "title": "Warrior",
+      "pageUrl": "https://abstrusegoose.com/353",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/saint_curious_george.png",
+      "altText": null,
+      "publishDate": "2010-11-20",
+      "sortIndex": 1290243604
+    },
+    {
+      "id": "abstrusegoose-351",
+      "title": "Do you believe in God? - part 2",
+      "pageUrl": "https://abstrusegoose.com/351",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/im_not_really_this_cynical.png",
+      "altText": null,
+      "publishDate": "2010-11-14",
+      "sortIndex": 1289727468
+    },
+    {
+      "id": "abstrusegoose-350",
+      "title": "Unreasonable Effectiveness",
+      "pageUrl": "https://abstrusegoose.com/350",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/my_favorite_danica.png",
+      "altText": null,
+      "publishDate": "2010-11-11",
+      "sortIndex": 1289469400
+    },
+    {
+      "id": "abstrusegoose-348",
+      "title": "Thick Face, Black Heart",
+      "pageUrl": "https://abstrusegoose.com/348",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/thick_face_black_heart_fat_wallet.png",
+      "altText": null,
+      "publishDate": "2010-11-05",
+      "sortIndex": 1288953264
+    },
+    {
+      "id": "abstrusegoose-347",
+      "title": "The Frontier",
+      "pageUrl": "https://abstrusegoose.com/347",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/nostalgic_old_guy_is_nostalgic.png",
+      "altText": null,
+      "publishDate": "2010-11-02",
+      "sortIndex": 1288695196
+    },
+    {
+      "id": "abstrusegoose-346",
+      "title": "The Social Network",
+      "pageUrl": "https://abstrusegoose.com/346",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/now_you_know_who_youre_fighting.png",
+      "altText": null,
+      "publishDate": "2010-10-30",
+      "sortIndex": 1288437128
+    },
+    {
+      "id": "abstrusegoose-345",
+      "title": "variablekitten",
+      "pageUrl": "https://abstrusegoose.com/345",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/soft_kitty_warm_kitty_little_ball_of_fur_zzzz.png",
+      "altText": null,
+      "publishDate": "2010-10-27",
+      "sortIndex": 1288179060
+    },
+    {
+      "id": "abstrusegoose-344",
+      "title": "Signs",
+      "pageUrl": "https://abstrusegoose.com/344",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/are_you_ken.png",
+      "altText": null,
+      "publishDate": "2010-10-24",
+      "sortIndex": 1287920992
+    },
+    {
+      "id": "abstrusegoose-343",
+      "title": "truth",
+      "pageUrl": "https://abstrusegoose.com/343",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/while_true.png",
+      "altText": null,
+      "publishDate": "2010-10-21",
+      "sortIndex": 1287662924
+    },
+    {
+      "id": "abstrusegoose-342",
+      "title": "Moment of Clarity(?) - part 2",
+      "pageUrl": "https://abstrusegoose.com/342",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/spin_is_just_a_myth_like_evolution_and_the_female_orgasm.png",
+      "altText": null,
+      "publishDate": "2010-10-18",
+      "sortIndex": 1287404856
+    },
+    {
+      "id": "abstrusegoose-340",
+      "title": "Disproportionate Reaction",
+      "pageUrl": "https://abstrusegoose.com/340",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/fuck_spiders.png",
+      "altText": null,
+      "publishDate": "2010-10-12",
+      "sortIndex": 1286888720
+    },
+    {
+      "id": "abstrusegoose-339",
+      "title": "Tree of Life",
+      "pageUrl": "https://abstrusegoose.com/339",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/mmm_evolution.png",
+      "altText": null,
+      "publishDate": "2010-10-09",
+      "sortIndex": 1286630652
+    },
+    {
+      "id": "abstrusegoose-338",
+      "title": "Inspiration",
+      "pageUrl": "https://abstrusegoose.com/338",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/Philosophiae_Naturalis_Principia_MatheHOLYSHITASQUIRREL.png",
+      "altText": null,
+      "publishDate": "2010-10-06",
+      "sortIndex": 1286372584
+    },
+    {
+      "id": "abstrusegoose-337",
+      "title": "Neural Implant",
+      "pageUrl": "https://abstrusegoose.com/337",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/ZOMG.png",
+      "altText": null,
+      "publishDate": "2010-10-03",
+      "sortIndex": 1286114516
+    },
+    {
+      "id": "abstrusegoose-336",
+      "title": "party",
+      "pageUrl": "https://abstrusegoose.com/336",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/surrounded_by_people_but_forever_alone.png",
+      "altText": null,
+      "publishDate": "2010-09-30",
+      "sortIndex": 1285856448
+    },
+    {
+      "id": "abstrusegoose-335",
+      "title": "barcode",
+      "pageUrl": "https://abstrusegoose.com/335",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/kill_it_with_fire.png",
+      "altText": null,
+      "publishDate": "2010-09-27",
+      "sortIndex": 1285598380
+    },
+    {
+      "id": "abstrusegoose-333",
+      "title": "Lazy",
+      "pageUrl": "https://abstrusegoose.com/333",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/cuz_sometimes_my_neck_gets_tired.png",
+      "altText": null,
+      "publishDate": "2010-09-21",
+      "sortIndex": 1285082244
+    },
+    {
+      "id": "abstrusegoose-332",
+      "title": "Deception",
+      "pageUrl": "https://abstrusegoose.com/332",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_theory_is_a_lie.png",
+      "altText": null,
+      "publishDate": "2010-09-18",
+      "sortIndex": 1284824176
+    },
+    {
+      "id": "abstrusegoose-331",
+      "title": "Nexus S",
+      "pageUrl": "https://abstrusegoose.com/331",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/Rovio_is_pure_evil.png",
+      "altText": null,
+      "publishDate": "2010-09-15",
+      "sortIndex": 1284566108
+    },
+    {
+      "id": "abstrusegoose-330",
+      "title": "The Problem With Christmas",
+      "pageUrl": "https://abstrusegoose.com/330",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/Christmas_is_hard.png",
+      "altText": null,
+      "publishDate": "2010-09-12",
+      "sortIndex": 1284308040
+    },
+    {
+      "id": "abstrusegoose-329",
+      "title": "Behold the pale horse...",
+      "pageUrl": "https://abstrusegoose.com/329",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/I_am_come_to_make_thee_understand_what_shall_befall_thy_people.png",
+      "altText": null,
+      "publishDate": "2010-09-09",
+      "sortIndex": 1284049972
+    },
+    {
+      "id": "abstrusegoose-328",
+      "title": "deleted",
+      "pageUrl": "https://abstrusegoose.com/328",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/DOES_NOT_EXIST.png",
+      "altText": null,
+      "publishDate": "2010-09-06",
+      "sortIndex": 1283791904
+    },
+    {
+      "id": "abstrusegoose-325",
+      "title": "Storming Fort Riemann",
+      "pageUrl": "https://abstrusegoose.com/325",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/proof_found_but_not_enough_room_in_margin.png",
+      "altText": null,
+      "publishDate": "2010-08-28",
+      "sortIndex": 1283017700
+    },
+    {
+      "id": "abstrusegoose-324",
+      "title": "Band of Brothers",
+      "pageUrl": "https://abstrusegoose.com/324",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/today_we_celebrate_our_INDEPENDENCE_DAY.png",
+      "altText": null,
+      "publishDate": "2010-08-25",
+      "sortIndex": 1282759632
+    },
+    {
+      "id": "abstrusegoose-323",
+      "title": "in the 24th century...",
+      "pageUrl": "https://abstrusegoose.com/323",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_amazing_Grace_Hopper_lives_on.png",
+      "altText": null,
+      "publishDate": "2010-08-22",
+      "sortIndex": 1282501564
+    },
+    {
+      "id": "abstrusegoose-322",
+      "title": "Reasons",
+      "pageUrl": "https://abstrusegoose.com/322",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/but_dont_be_a_dick_cuz_wil_wheaton_says_so.png",
+      "altText": null,
+      "publishDate": "2010-08-19",
+      "sortIndex": 1282243496
+    },
+    {
+      "id": "abstrusegoose-321",
+      "title": "Special Relativity Simply Explained",
+      "pageUrl": "https://abstrusegoose.com/321",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/how_to_ruin_a_scientists_career_overnight.png",
+      "altText": null,
+      "publishDate": "2010-08-16",
+      "sortIndex": 1281985428
+    },
+    {
+      "id": "abstrusegoose-320",
+      "title": "The Flash",
+      "pageUrl": "https://abstrusegoose.com/320",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/minor_oversight.png",
+      "altText": null,
+      "publishDate": "2010-08-13",
+      "sortIndex": 1281727360
+    },
+    {
+      "id": "abstrusegoose-319",
+      "title": "Demonic Encounter",
+      "pageUrl": "https://abstrusegoose.com/319",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/what_an_excellent_day_for_an_exorcism.png",
+      "altText": null,
+      "publishDate": "2010-08-10",
+      "sortIndex": 1281469292
+    },
+    {
+      "id": "abstrusegoose-317",
+      "title": "Confidence",
+      "pageUrl": "https://abstrusegoose.com/317",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/how_many_pop_culture_references_can_you_identify.png",
+      "altText": null,
+      "publishDate": "2010-08-04",
+      "sortIndex": 1280953156
+    },
+    {
+      "id": "abstrusegoose-316",
+      "title": "The Horizon Problem",
+      "pageUrl": "https://abstrusegoose.com/316",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/math_1_physics_0.png",
+      "altText": null,
+      "publishDate": "2010-08-01",
+      "sortIndex": 1280695088
+    },
+    {
+      "id": "abstrusegoose-315",
+      "title": "package",
+      "pageUrl": "https://abstrusegoose.com/315",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/working_hard_to_be_lazy.png",
+      "altText": null,
+      "publishDate": "2010-07-29",
+      "sortIndex": 1280437020
+    },
+    {
+      "id": "abstrusegoose-314",
+      "title": "Annus Mirabilis",
+      "pageUrl": "https://abstrusegoose.com/314",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/genetically_we_are_94_to_98_percent_chimpanzee.png",
+      "altText": null,
+      "publishDate": "2010-07-26",
+      "sortIndex": 1280178952
+    },
+    {
+      "id": "abstrusegoose-313",
+      "title": "years ago in college...",
+      "pageUrl": "https://abstrusegoose.com/313",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/I_am_awesome.png",
+      "altText": null,
+      "publishDate": "2010-07-23",
+      "sortIndex": 1279920884
+    },
+    {
+      "id": "abstrusegoose-309",
+      "title": "Open-Delta",
+      "pageUrl": "https://abstrusegoose.com/309",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/decepticons_attack.png",
+      "altText": null,
+      "publishDate": "2010-07-11",
+      "sortIndex": 1278888612
+    },
+    {
+      "id": "abstrusegoose-308",
+      "title": "The Age of Discovery",
+      "pageUrl": "https://abstrusegoose.com/308",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/great_time_to_be_alive.png",
+      "altText": null,
+      "publishDate": "2010-07-08",
+      "sortIndex": 1278630544
+    },
+    {
+      "id": "abstrusegoose-307",
+      "title": "The Purposeful Use of Science",
+      "pageUrl": "https://abstrusegoose.com/307",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/from_electrons_to_asteroids.png",
+      "altText": null,
+      "publishDate": "2010-07-05",
+      "sortIndex": 1278372476
+    },
+    {
+      "id": "abstrusegoose-306",
+      "title": "Hello",
+      "pageUrl": "https://abstrusegoose.com/306",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/rube_goldberg.png",
+      "altText": null,
+      "publishDate": "2010-07-02",
+      "sortIndex": 1278114408
+    },
+    {
+      "id": "abstrusegoose-305",
+      "title": "The Biggest Loser",
+      "pageUrl": "https://abstrusegoose.com/305",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/but_at_least_I_am_beating_the_billions_of_people_living_in_poverty_WOO_HOO.png",
+      "altText": null,
+      "publishDate": "2010-06-30",
+      "sortIndex": 1277856340
+    },
+    {
+      "id": "abstrusegoose-304",
+      "title": "One Revolution",
+      "pageUrl": "https://abstrusegoose.com/304",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/happy_birthday.png",
+      "altText": null,
+      "publishDate": "2010-06-27",
+      "sortIndex": 1277598272
+    },
+    {
+      "id": "abstrusegoose-303",
+      "title": "In the Neutral Zone",
+      "pageUrl": "https://abstrusegoose.com/303",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/clearly_HTML5_did_not_kill_Flash.png",
+      "altText": null,
+      "publishDate": "2010-06-24",
+      "sortIndex": 1277340204
+    },
+    {
+      "id": "abstrusegoose-302",
+      "title": "be excellent to each other",
+      "pageUrl": "https://abstrusegoose.com/302",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/yo_respek.png",
+      "altText": null,
+      "publishDate": "2010-06-21",
+      "sortIndex": 1277082136
+    },
+    {
+      "id": "abstrusegoose-301",
+      "title": "DSM IV",
+      "pageUrl": "https://abstrusegoose.com/301",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/antisocial_purrsonality_disorder.png",
+      "altText": null,
+      "publishDate": "2010-06-18",
+      "sortIndex": 1276824068
+    },
+    {
+      "id": "abstrusegoose-300",
+      "title": "Now and Then",
+      "pageUrl": "https://abstrusegoose.com/300",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/reverse_the_polarity.png",
+      "altText": null,
+      "publishDate": "2010-06-15",
+      "sortIndex": 1276566000
+    },
+    {
+      "id": "abstrusegoose-299",
+      "title": "demand curve",
+      "pageUrl": "https://abstrusegoose.com/299",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/self_esteem_is_insignificant_next_to_the_power_of_mass_deception.png",
+      "altText": null,
+      "publishDate": "2010-06-12",
+      "sortIndex": 1276307932
+    },
+    {
+      "id": "abstrusegoose-298",
+      "title": "FOR SCIENCE!",
+      "pageUrl": "https://abstrusegoose.com/298",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/la_petite_mort.png",
+      "altText": null,
+      "publishDate": "2010-06-09",
+      "sortIndex": 1276049864
+    },
+    {
+      "id": "abstrusegoose-297",
+      "title": "Superhero",
+      "pageUrl": "https://abstrusegoose.com/297",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/rooster_of_unusual_size.png",
+      "altText": null,
+      "publishDate": "2010-06-06",
+      "sortIndex": 1275791796
+    },
+    {
+      "id": "abstrusegoose-296",
+      "title": "Wizards - part 3",
+      "pageUrl": "https://abstrusegoose.com/296",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/Gand0phtCrack.png",
+      "altText": null,
+      "publishDate": "2010-06-03",
+      "sortIndex": 1275533728
+    },
+    {
+      "id": "abstrusegoose-295",
+      "title": "Something Borrowed, Something Blew",
+      "pageUrl": "https://abstrusegoose.com/295",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/last_chance.png",
+      "altText": null,
+      "publishDate": "2010-05-31",
+      "sortIndex": 1275275660
+    },
+    {
+      "id": "abstrusegoose-294",
+      "title": "Ouija",
+      "pageUrl": "https://abstrusegoose.com/294",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/mystifying_oracle.png",
+      "altText": null,
+      "publishDate": "2010-05-28",
+      "sortIndex": 1275017592
+    },
+    {
+      "id": "abstrusegoose-293",
+      "title": "Sunshine and Rainbows",
+      "pageUrl": "https://abstrusegoose.com/293",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/escalator_of_life_temporarily_stairs_sorry_for_the_convenience.png",
+      "altText": null,
+      "publishDate": "2010-05-25",
+      "sortIndex": 1274759524
+    },
+    {
+      "id": "abstrusegoose-291",
+      "title": "Astronaut",
+      "pageUrl": "https://abstrusegoose.com/291",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/but_we_already_have_secret_bases_on_Mars.png",
+      "altText": null,
+      "publishDate": "2010-05-19",
+      "sortIndex": 1274243388
+    },
+    {
+      "id": "abstrusegoose-289",
+      "title": "The Secret Lives of Cats",
+      "pageUrl": "https://abstrusegoose.com/289",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/oh_but_they_do_give_quite_alotta_fucks.png",
+      "altText": null,
+      "publishDate": "2010-05-13",
+      "sortIndex": 1273727252
+    },
+    {
+      "id": "abstrusegoose-288",
+      "title": "Harold",
+      "pageUrl": "https://abstrusegoose.com/288",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_still_reread_this_book_every_couple_of_months.png",
+      "altText": null,
+      "publishDate": "2010-05-10",
+      "sortIndex": 1273469184
+    },
+    {
+      "id": "abstrusegoose-287",
+      "title": "Elegant Proof",
+      "pageUrl": "https://abstrusegoose.com/287",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/this_is_what_my_room_looks_like_when_i_draw.png",
+      "altText": null,
+      "publishDate": "2010-05-07",
+      "sortIndex": 1273211116
+    },
+    {
+      "id": "abstrusegoose-286",
+      "title": "Common Descent",
+      "pageUrl": "https://abstrusegoose.com/286",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/good_night_till_it_be_morrow.png",
+      "altText": null,
+      "publishDate": "2010-05-04",
+      "sortIndex": 1272953048
+    },
+    {
+      "id": "abstrusegoose-285",
+      "title": "Die Traumdeutung",
+      "pageUrl": "https://abstrusegoose.com/285",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_am_taking_an_exam_naked.png",
+      "altText": null,
+      "publishDate": "2010-05-01",
+      "sortIndex": 1272694980
+    },
+    {
+      "id": "abstrusegoose-284",
+      "title": "College Friend",
+      "pageUrl": "https://abstrusegoose.com/284",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/do_NOT_get_sick_in_Arizona.png",
+      "altText": null,
+      "publishDate": "2010-04-28",
+      "sortIndex": 1272436912
+    },
+    {
+      "id": "abstrusegoose-283",
+      "title": "Puny Humans",
+      "pageUrl": "https://abstrusegoose.com/283",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/and_the_geeks_have_inherited.png",
+      "altText": null,
+      "publishDate": "2010-04-25",
+      "sortIndex": 1272178844
+    },
+    {
+      "id": "abstrusegoose-282",
+      "title": "it was a dark and stormy night...",
+      "pageUrl": "https://abstrusegoose.com/282",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/licentia_poetica.png",
+      "altText": null,
+      "publishDate": "2010-04-22",
+      "sortIndex": 1271920776
+    },
+    {
+      "id": "abstrusegoose-281",
+      "title": "A Mini Tutorial",
+      "pageUrl": "https://abstrusegoose.com/281",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/Thrilla_Killa_Klownz.png",
+      "altText": null,
+      "publishDate": "2010-04-19",
+      "sortIndex": 1271662708
+    },
+    {
+      "id": "abstrusegoose-280",
+      "title": "A Mathematical Theory of Communication",
+      "pageUrl": "https://abstrusegoose.com/280",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/quite_a_bit.png",
+      "altText": null,
+      "publishDate": "2010-04-16",
+      "sortIndex": 1271404640
+    },
+    {
+      "id": "abstrusegoose-279",
+      "title": "External Validation",
+      "pageUrl": "https://abstrusegoose.com/279",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/stop_driving_all_up_my_ass.png",
+      "altText": null,
+      "publishDate": "2010-04-13",
+      "sortIndex": 1271146572
+    },
+    {
+      "id": "abstrusegoose-278",
+      "title": "At the Bus Stop",
+      "pageUrl": "https://abstrusegoose.com/278",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/skynet_thinks_humans_are_adorable.png",
+      "altText": null,
+      "publishDate": "2010-04-10",
+      "sortIndex": 1270888504
+    },
+    {
+      "id": "abstrusegoose-277",
+      "title": "The Sum of All Knowledge",
+      "pageUrl": "https://abstrusegoose.com/277",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/sure_of_our_ignorance.png",
+      "altText": null,
+      "publishDate": "2010-04-07",
+      "sortIndex": 1270630436
+    },
+    {
+      "id": "abstrusegoose-276",
+      "title": "Atoms and the Void",
+      "pageUrl": "https://abstrusegoose.com/276",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/wretched_intellect.png",
+      "altText": null,
+      "publishDate": "2010-04-04",
+      "sortIndex": 1270372368
+    },
+    {
+      "id": "abstrusegoose-275",
+      "title": "World View",
+      "pageUrl": "https://abstrusegoose.com/275",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/all_i_see_are_equations.png",
+      "altText": null,
+      "publishDate": "2010-04-01",
+      "sortIndex": 1270114300
+    },
+    {
+      "id": "abstrusegoose-274",
+      "title": "Oxymoronic Incompossibility",
+      "pageUrl": "https://abstrusegoose.com/274",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/WARNING_just_reading_this_comic_could_make_you_stupider.png",
+      "altText": null,
+      "publishDate": "2010-03-29",
+      "sortIndex": 1269856232
+    },
+    {
+      "id": "abstrusegoose-273",
+      "title": "Criticism",
+      "pageUrl": "https://abstrusegoose.com/273",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/especially_true_for_youtube_comments.png",
+      "altText": null,
+      "publishDate": "2010-03-26",
+      "sortIndex": 1269598164
+    },
+    {
+      "id": "abstrusegoose-272",
+      "title": "Prerequisites",
+      "pageUrl": "https://abstrusegoose.com/272",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/prerequisite.png",
+      "altText": null,
+      "publishDate": "2010-03-23",
+      "sortIndex": 1269340096
+    },
+    {
+      "id": "abstrusegoose-271",
+      "title": "Victoria's Secret",
+      "pageUrl": "https://abstrusegoose.com/271",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_did_this_once_and_only_once.png",
+      "altText": null,
+      "publishDate": "2010-03-20",
+      "sortIndex": 1269082028
+    },
+    {
+      "id": "abstrusegoose-270",
+      "title": "Nature in the Park",
+      "pageUrl": "https://abstrusegoose.com/270",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/general_order_number_one.png",
+      "altText": null,
+      "publishDate": "2010-03-17",
+      "sortIndex": 1268823960
+    },
+    {
+      "id": "abstrusegoose-268",
+      "title": "Sleepless",
+      "pageUrl": "https://abstrusegoose.com/268",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/sheepless_in_seattle_groan.png",
+      "altText": null,
+      "publishDate": "2010-03-11",
+      "sortIndex": 1268307824
+    },
+    {
+      "id": "abstrusegoose-267",
+      "title": "Opportunity Cost",
+      "pageUrl": "https://abstrusegoose.com/267",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/this_all_takes_place_in_a_fraction_of_a_second.png",
+      "altText": null,
+      "publishDate": "2010-03-08",
+      "sortIndex": 1268049756
+    },
+    {
+      "id": "abstrusegoose-264",
+      "title": "iPad",
+      "pageUrl": "https://abstrusegoose.com/264",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/AAPL.png",
+      "altText": null,
+      "publishDate": "2010-02-27",
+      "sortIndex": 1267275552
+    },
+    {
+      "id": "abstrusegoose-263",
+      "title": "The Devil Went Down to Wall Street",
+      "pageUrl": "https://abstrusegoose.com/263",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_big_short.png",
+      "altText": null,
+      "publishDate": "2010-02-24",
+      "sortIndex": 1267017484
+    },
+    {
+      "id": "abstrusegoose-262",
+      "title": "root",
+      "pageUrl": "https://abstrusegoose.com/262",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/tcpdump.png",
+      "altText": null,
+      "publishDate": "2010-02-21",
+      "sortIndex": 1266759416
+    },
+    {
+      "id": "abstrusegoose-261",
+      "title": "The Smartest Man in Babylon",
+      "pageUrl": "https://abstrusegoose.com/261",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/in_the_beginning_was_the_command_line.png",
+      "altText": null,
+      "publishDate": "2010-02-18",
+      "sortIndex": 1266501348
+    },
+    {
+      "id": "abstrusegoose-260",
+      "title": "Diary of a Dumb Jock Kid",
+      "pageUrl": "https://abstrusegoose.com/260",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/dumb_jock_represent.png",
+      "altText": null,
+      "publishDate": "2010-02-15",
+      "sortIndex": 1266243280
+    },
+    {
+      "id": "abstrusegoose-259",
+      "title": "1040-HARD",
+      "pageUrl": "https://abstrusegoose.com/259",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/fedrul_gubment_be_scary_yo.png",
+      "altText": null,
+      "publishDate": "2010-02-12",
+      "sortIndex": 1265985212
+    },
+    {
+      "id": "abstrusegoose-258",
+      "title": "Pascal's Wager",
+      "pageUrl": "https://abstrusegoose.com/258",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/atheism_in_a_foxhole_takes_great_faith.png",
+      "altText": null,
+      "publishDate": "2010-02-09",
+      "sortIndex": 1265727144
+    },
+    {
+      "id": "abstrusegoose-257",
+      "title": "Pants",
+      "pageUrl": "https://abstrusegoose.com/257",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/wear_the_pants.png",
+      "altText": null,
+      "publishDate": "2010-02-06",
+      "sortIndex": 1265469076
+    },
+    {
+      "id": "abstrusegoose-256",
+      "title": "C Average",
+      "pageUrl": "https://abstrusegoose.com/256",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/work_hard_and_you_too_can_become_a_second_class_citizen.png",
+      "altText": null,
+      "publishDate": "2010-02-03",
+      "sortIndex": 1265211008
+    },
+    {
+      "id": "abstrusegoose-255",
+      "title": "Telegraphy",
+      "pageUrl": "https://abstrusegoose.com/255",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/what_hath_god_wrought.png",
+      "altText": null,
+      "publishDate": "2010-01-31",
+      "sortIndex": 1264952940
+    },
+    {
+      "id": "abstrusegoose-254",
+      "title": "Wizards - part 2",
+      "pageUrl": "https://abstrusegoose.com/254",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/improbable_possibilities_plausible_impossibilities.png",
+      "altText": null,
+      "publishDate": "2010-01-28",
+      "sortIndex": 1264694872
+    },
+    {
+      "id": "abstrusegoose-253",
+      "title": "Wizards",
+      "pageUrl": "https://abstrusegoose.com/253",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/munkres_power_activate.png",
+      "altText": null,
+      "publishDate": "2010-01-25",
+      "sortIndex": 1264436804
+    },
+    {
+      "id": "abstrusegoose-251",
+      "title": "all I see is code",
+      "pageUrl": "https://abstrusegoose.com/251",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_know_kung_fu_if_you_know_what_i_mean.png",
+      "altText": null,
+      "publishDate": "2010-01-19",
+      "sortIndex": 1263920668
+    },
+    {
+      "id": "abstrusegoose-250",
+      "title": "Reasonable Expectation",
+      "pageUrl": "https://abstrusegoose.com/250",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_saved_3_dollars_today.png",
+      "altText": null,
+      "publishDate": "2010-01-16",
+      "sortIndex": 1263662600
+    },
+    {
+      "id": "abstrusegoose-249",
+      "title": "How to Teach Yourself Programming",
+      "pageUrl": "https://abstrusegoose.com/249",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/ars_longa_vita_brevis.png",
+      "altText": null,
+      "publishDate": "2010-01-13",
+      "sortIndex": 1263404532
+    },
+    {
+      "id": "abstrusegoose-248",
+      "title": "It's Like Magic",
+      "pageUrl": "https://abstrusegoose.com/248",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/magic_does_exist.png",
+      "altText": null,
+      "publishDate": "2010-01-10",
+      "sortIndex": 1263146464
+    },
+    {
+      "id": "abstrusegoose-247",
+      "title": "Anatomy of a Traffic Jam",
+      "pageUrl": "https://abstrusegoose.com/247",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_SPECIAL_hell.png",
+      "altText": null,
+      "publishDate": "2010-01-07",
+      "sortIndex": 1262888396
+    },
+    {
+      "id": "abstrusegoose-246",
+      "title": "Cute Baby",
+      "pageUrl": "https://abstrusegoose.com/246",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/national_organization_for_men.png",
+      "altText": null,
+      "publishDate": "2010-01-04",
+      "sortIndex": 1262630328
+    },
+    {
+      "id": "abstrusegoose-245",
+      "title": "The Little Engine",
+      "pageUrl": "https://abstrusegoose.com/245",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/lil_engine_keeps_it_real.png",
+      "altText": null,
+      "publishDate": "2010-01-01",
+      "sortIndex": 1262372260
+    },
+    {
+      "id": "abstrusegoose-244",
+      "title": "The Creation - part 2",
+      "pageUrl": "https://abstrusegoose.com/244",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/this_sentence_is_false.png",
+      "altText": null,
+      "publishDate": "2009-12-29",
+      "sortIndex": 1262114192
+    },
+    {
+      "id": "abstrusegoose-243",
+      "title": "Earth Ink",
+      "pageUrl": "https://abstrusegoose.com/243",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/white_people_are_so_adorable.png",
+      "altText": null,
+      "publishDate": "2009-12-26",
+      "sortIndex": 1261856124
+    },
+    {
+      "id": "abstrusegoose-242",
+      "title": "Einstein's Love Equation",
+      "pageUrl": "https://abstrusegoose.com/242",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/homemade_valentines_card.png",
+      "altText": null,
+      "publishDate": "2009-12-23",
+      "sortIndex": 1261598056
+    },
+    {
+      "id": "abstrusegoose-240",
+      "title": "Many Worlds",
+      "pageUrl": "https://abstrusegoose.com/240",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/stop_being_a_chickenshit.png",
+      "altText": null,
+      "publishDate": "2009-12-17",
+      "sortIndex": 1261081920
+    },
+    {
+      "id": "abstrusegoose-239",
+      "title": "Wall Street",
+      "pageUrl": "https://abstrusegoose.com/239",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/kickin_ass_n_takin_names.png",
+      "altText": null,
+      "publishDate": "2009-12-14",
+      "sortIndex": 1260823852
+    },
+    {
+      "id": "abstrusegoose-238",
+      "title": "Rejecta Physica",
+      "pageUrl": "https://abstrusegoose.com/238",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_cooper_nowitzki_theorem.png",
+      "altText": null,
+      "publishDate": "2009-12-11",
+      "sortIndex": 1260565784
+    },
+    {
+      "id": "abstrusegoose-237",
+      "title": "Line",
+      "pageUrl": "https://abstrusegoose.com/237",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/zero_D_is_even_better.png",
+      "altText": null,
+      "publishDate": "2009-12-08",
+      "sortIndex": 1260307716
+    },
+    {
+      "id": "abstrusegoose-236",
+      "title": "Zoo",
+      "pageUrl": "https://abstrusegoose.com/236",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/nobody_gets_outta_here_sane.png",
+      "altText": null,
+      "publishDate": "2009-12-05",
+      "sortIndex": 1260049648
+    },
+    {
+      "id": "abstrusegoose-235",
+      "title": "The Creation",
+      "pageUrl": "https://abstrusegoose.com/235",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/God_is_one_strange_ol_josser.png",
+      "altText": null,
+      "publishDate": "2009-12-02",
+      "sortIndex": 1259791580
+    },
+    {
+      "id": "abstrusegoose-234",
+      "title": "A Love Story",
+      "pageUrl": "https://abstrusegoose.com/234",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/we_all_know_a_sheila.png",
+      "altText": null,
+      "publishDate": "2009-11-29",
+      "sortIndex": 1259533512
+    },
+    {
+      "id": "abstrusegoose-233",
+      "title": "reverse traceroute",
+      "pageUrl": "https://abstrusegoose.com/233",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/also_true_for_the_Enterprise_D.png",
+      "altText": null,
+      "publishDate": "2009-11-26",
+      "sortIndex": 1259275444
+    },
+    {
+      "id": "abstrusegoose-232",
+      "title": "30,001 BC",
+      "pageUrl": "https://abstrusegoose.com/232",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/ma_Spidey_senses_be_a_tinglin.png",
+      "altText": null,
+      "publishDate": "2009-11-23",
+      "sortIndex": 1259017376
+    },
+    {
+      "id": "abstrusegoose-231",
+      "title": "30,000 BC",
+      "pageUrl": "https://abstrusegoose.com/231",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/30000BC.png",
+      "altText": null,
+      "publishDate": "2009-11-20",
+      "sortIndex": 1258759308
+    },
+    {
+      "id": "abstrusegoose-230",
+      "title": "Obvious",
+      "pageUrl": "https://abstrusegoose.com/230",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/it_is_obvious.png",
+      "altText": null,
+      "publishDate": "2009-11-17",
+      "sortIndex": 1258501240
+    },
+    {
+      "id": "abstrusegoose-228",
+      "title": "Future Light Cone",
+      "pageUrl": "https://abstrusegoose.com/228",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/2010_light_cone.png",
+      "altText": null,
+      "publishDate": "2009-11-12",
+      "sortIndex": 1257985104
+    },
+    {
+      "id": "abstrusegoose-227",
+      "title": "the FM",
+      "pageUrl": "https://abstrusegoose.com/227",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_fucking_manual.png",
+      "altText": null,
+      "publishDate": "2009-11-09",
+      "sortIndex": 1257727036
+    },
+    {
+      "id": "abstrusegoose-225",
+      "title": "Nucleosynthesis",
+      "pageUrl": "https://abstrusegoose.com/225",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/oops_wrong_setting.png",
+      "altText": null,
+      "publishDate": "2009-11-03",
+      "sortIndex": 1257210900
+    },
+    {
+      "id": "abstrusegoose-224",
+      "title": "Target Demographic",
+      "pageUrl": "https://abstrusegoose.com/224",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/kicking_the_ball_in_your_own_goal.png",
+      "altText": null,
+      "publishDate": "2009-10-31",
+      "sortIndex": 1256952832
+    },
+    {
+      "id": "abstrusegoose-223",
+      "title": "Scandal",
+      "pageUrl": "https://abstrusegoose.com/223",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/scandal.png",
+      "altText": null,
+      "publishDate": "2009-10-28",
+      "sortIndex": 1256694764
+    },
+    {
+      "id": "abstrusegoose-221",
+      "title": "Truecolor",
+      "pageUrl": "https://abstrusegoose.com/221",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/truecolor.png",
+      "altText": null,
+      "publishDate": "2009-10-22",
+      "sortIndex": 1256178628
+    },
+    {
+      "id": "abstrusegoose-220",
+      "title": "Good News",
+      "pageUrl": "https://abstrusegoose.com/220",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/good_news.png",
+      "altText": null,
+      "publishDate": "2009-10-19",
+      "sortIndex": 1255920560
+    },
+    {
+      "id": "abstrusegoose-219",
+      "title": "The Ultimate",
+      "pageUrl": "https://abstrusegoose.com/219",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/already_obsolete.png",
+      "altText": null,
+      "publishDate": "2009-10-16",
+      "sortIndex": 1255662492
+    },
+    {
+      "id": "abstrusegoose-218",
+      "title": "y=e^x",
+      "pageUrl": "https://abstrusegoose.com/218",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/e_ta_duh_x.png",
+      "altText": null,
+      "publishDate": "2009-10-13",
+      "sortIndex": 1255404424
+    },
+    {
+      "id": "abstrusegoose-217",
+      "title": "Penrose Chess",
+      "pageUrl": "https://abstrusegoose.com/217",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/penrose_chess.png",
+      "altText": null,
+      "publishDate": "2009-10-10",
+      "sortIndex": 1255146356
+    },
+    {
+      "id": "abstrusegoose-216",
+      "title": "3.141592653589793...",
+      "pageUrl": "https://abstrusegoose.com/216",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/216.png",
+      "altText": null,
+      "publishDate": "2009-10-07",
+      "sortIndex": 1254888288
+    },
+    {
+      "id": "abstrusegoose-215",
+      "title": "Artificial",
+      "pageUrl": "https://abstrusegoose.com/215",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/artificial.png",
+      "altText": null,
+      "publishDate": "2009-10-04",
+      "sortIndex": 1254630220
+    },
+    {
+      "id": "abstrusegoose-213",
+      "title": "HP R2-D2",
+      "pageUrl": "https://abstrusegoose.com/213",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/HP_astromech_droid_model_R2_D2.png",
+      "altText": null,
+      "publishDate": "2009-09-28",
+      "sortIndex": 1254114084
+    },
+    {
+      "id": "abstrusegoose-212",
+      "title": "The Quiet One",
+      "pageUrl": "https://abstrusegoose.com/212",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/those_who_know.png",
+      "altText": null,
+      "publishDate": "2009-09-25",
+      "sortIndex": 1253856016
+    },
+    {
+      "id": "abstrusegoose-211",
+      "title": "Landscape",
+      "pageUrl": "https://abstrusegoose.com/211",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_dont_give_a_shit_about_your_mountain.png",
+      "altText": null,
+      "publishDate": "2009-09-22",
+      "sortIndex": 1253597948
+    },
+    {
+      "id": "abstrusegoose-210",
+      "title": "We Give Up",
+      "pageUrl": "https://abstrusegoose.com/210",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/we_give_up.png",
+      "altText": null,
+      "publishDate": "2009-09-19",
+      "sortIndex": 1253339880
+    },
+    {
+      "id": "abstrusegoose-209",
+      "title": "Law of Large Numbers",
+      "pageUrl": "https://abstrusegoose.com/209",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/work_within_the_law.png",
+      "altText": null,
+      "publishDate": "2009-09-16",
+      "sortIndex": 1253081812
+    },
+    {
+      "id": "abstrusegoose-208",
+      "title": "Molecule",
+      "pageUrl": "https://abstrusegoose.com/208",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/apocryphal_molecule.png",
+      "altText": null,
+      "publishDate": "2009-09-13",
+      "sortIndex": 1252823744
+    },
+    {
+      "id": "abstrusegoose-207",
+      "title": "THERE ARE FOUR LIGHTS!!!",
+      "pageUrl": "https://abstrusegoose.com/207",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/there_are_four_lights.png",
+      "altText": null,
+      "publishDate": "2009-09-10",
+      "sortIndex": 1252565676
+    },
+    {
+      "id": "abstrusegoose-206",
+      "title": "Rite of Passage",
+      "pageUrl": "https://abstrusegoose.com/206",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/computer_science_major.png",
+      "altText": null,
+      "publishDate": "2009-09-07",
+      "sortIndex": 1252307608
+    },
+    {
+      "id": "abstrusegoose-205",
+      "title": "Robots - part 2",
+      "pageUrl": "https://abstrusegoose.com/205",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/ignorance.png",
+      "altText": null,
+      "publishDate": "2009-09-04",
+      "sortIndex": 1252049540
+    },
+    {
+      "id": "abstrusegoose-204",
+      "title": "Robots",
+      "pageUrl": "https://abstrusegoose.com/204",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/hard_landing.png",
+      "altText": null,
+      "publishDate": "2009-09-01",
+      "sortIndex": 1251791472
+    },
+    {
+      "id": "abstrusegoose-203",
+      "title": "Lollipop",
+      "pageUrl": "https://abstrusegoose.com/203",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/you_did_WHAT_to_my_WHAT.png",
+      "altText": null,
+      "publishDate": "2009-08-29",
+      "sortIndex": 1251533404
+    },
+    {
+      "id": "abstrusegoose-202",
+      "title": "processes",
+      "pageUrl": "https://abstrusegoose.com/202",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/yes_my%20_brain_runs_windows.png",
+      "altText": null,
+      "publishDate": "2009-08-26",
+      "sortIndex": 1251275336
+    },
+    {
+      "id": "abstrusegoose-200",
+      "title": "for my last comic...",
+      "pageUrl": "https://abstrusegoose.com/200",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/too_literal.png",
+      "altText": null,
+      "publishDate": "2009-08-20",
+      "sortIndex": 1250759200
+    },
+    {
+      "id": "abstrusegoose-199",
+      "title": "MFVW",
+      "pageUrl": "https://abstrusegoose.com/199",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/you_have_a_gift_waiting_for_you.png",
+      "altText": null,
+      "publishDate": "2009-08-17",
+      "sortIndex": 1250501132
+    },
+    {
+      "id": "abstrusegoose-198",
+      "title": "Albert Einstein",
+      "pageUrl": "https://abstrusegoose.com/198",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/spacetime_is_intense.png",
+      "altText": null,
+      "publishDate": "2009-08-14",
+      "sortIndex": 1250243064
+    },
+    {
+      "id": "abstrusegoose-197",
+      "title": "Scenes From a Retirement Community",
+      "pageUrl": "https://abstrusegoose.com/197",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/fast_times_at_retirement_high.png",
+      "altText": null,
+      "publishDate": "2009-08-11",
+      "sortIndex": 1249984996
+    },
+    {
+      "id": "abstrusegoose-196",
+      "title": "Arf",
+      "pageUrl": "https://abstrusegoose.com/196",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/dotdash_dotdashdot_dotdotdashdot.png",
+      "altText": null,
+      "publishDate": "2009-08-08",
+      "sortIndex": 1249726928
+    },
+    {
+      "id": "abstrusegoose-193",
+      "title": "Two Blobs Get Philosophical Over a Campfire",
+      "pageUrl": "https://abstrusegoose.com/193",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/figure_and_ground.png",
+      "altText": null,
+      "publishDate": "2009-07-30",
+      "sortIndex": 1248952724
+    },
+    {
+      "id": "abstrusegoose-192",
+      "title": "Directions",
+      "pageUrl": "https://abstrusegoose.com/192",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/life_directions.png",
+      "altText": null,
+      "publishDate": "2009-07-27",
+      "sortIndex": 1248694656
+    },
+    {
+      "id": "abstrusegoose-191",
+      "title": "Graph",
+      "pageUrl": "https://abstrusegoose.com/191",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/obligatory_graph_comic.png",
+      "altText": null,
+      "publishDate": "2009-07-24",
+      "sortIndex": 1248436588
+    },
+    {
+      "id": "abstrusegoose-190",
+      "title": "Generations",
+      "pageUrl": "https://abstrusegoose.com/190",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/why_when_i_was_your_age.png",
+      "altText": null,
+      "publishDate": "2009-07-21",
+      "sortIndex": 1248178520
+    },
+    {
+      "id": "abstrusegoose-188",
+      "title": "Movie Critic",
+      "pageUrl": "https://abstrusegoose.com/188",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/saturday_is_movie_night_yo.png",
+      "altText": null,
+      "publishDate": "2009-07-15",
+      "sortIndex": 1247662384
+    },
+    {
+      "id": "abstrusegoose-186",
+      "title": "Bee",
+      "pageUrl": "https://abstrusegoose.com/186",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/supreme_fascist.png",
+      "altText": null,
+      "publishDate": "2009-07-09",
+      "sortIndex": 1247146248
+    },
+    {
+      "id": "abstrusegoose-184",
+      "title": "test your movie trivia",
+      "pageUrl": "https://abstrusegoose.com/184",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/mother_of_all_movies.png",
+      "altText": null,
+      "publishDate": "2009-07-03",
+      "sortIndex": 1246630112
+    },
+    {
+      "id": "abstrusegoose-183",
+      "title": "Illusion",
+      "pageUrl": "https://abstrusegoose.com/183",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/illusion.png",
+      "altText": null,
+      "publishDate": "2009-06-30",
+      "sortIndex": 1246372044
+    },
+    {
+      "id": "abstrusegoose-182",
+      "title": "Eye Doctor",
+      "pageUrl": "https://abstrusegoose.com/182",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/eye_doctor.png",
+      "altText": null,
+      "publishDate": "2009-06-27",
+      "sortIndex": 1246113976
+    },
+    {
+      "id": "abstrusegoose-181",
+      "title": "S-Matrix",
+      "pageUrl": "https://abstrusegoose.com/181",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/s_matrix.png",
+      "altText": null,
+      "publishDate": "2009-06-24",
+      "sortIndex": 1245855908
+    },
+    {
+      "id": "abstrusegoose-180",
+      "title": "just a reminder...",
+      "pageUrl": "https://abstrusegoose.com/180",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/reminder.png",
+      "altText": null,
+      "publishDate": "2009-06-21",
+      "sortIndex": 1245597840
+    },
+    {
+      "id": "abstrusegoose-179",
+      "title": "Still True",
+      "pageUrl": "https://abstrusegoose.com/179",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/still_true.png",
+      "altText": null,
+      "publishDate": "2009-06-18",
+      "sortIndex": 1245339772
+    },
+    {
+      "id": "abstrusegoose-178",
+      "title": "Young Couple in Love",
+      "pageUrl": "https://abstrusegoose.com/178",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/young_love.png",
+      "altText": null,
+      "publishDate": "2009-06-15",
+      "sortIndex": 1245081704
+    },
+    {
+      "id": "abstrusegoose-177",
+      "title": "Blip",
+      "pageUrl": "https://abstrusegoose.com/177",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/blip.png",
+      "altText": null,
+      "publishDate": "2009-06-12",
+      "sortIndex": 1244823636
+    },
+    {
+      "id": "abstrusegoose-176",
+      "title": "Story Line",
+      "pageUrl": "https://abstrusegoose.com/176",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/story_line.png",
+      "altText": null,
+      "publishDate": "2009-06-09",
+      "sortIndex": 1244565568
+    },
+    {
+      "id": "abstrusegoose-175",
+      "title": "Unification",
+      "pageUrl": "https://abstrusegoose.com/175",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/unification.png",
+      "altText": null,
+      "publishDate": "2009-06-06",
+      "sortIndex": 1244307500
+    },
+    {
+      "id": "abstrusegoose-173",
+      "title": "Hanging Out",
+      "pageUrl": "https://abstrusegoose.com/173",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/hanging_out.png",
+      "altText": null,
+      "publishDate": "2009-05-31",
+      "sortIndex": 1243791364
+    },
+    {
+      "id": "abstrusegoose-172",
+      "title": "Skydiving",
+      "pageUrl": "https://abstrusegoose.com/172",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/skydiving.png",
+      "altText": null,
+      "publishDate": "2009-05-28",
+      "sortIndex": 1243533296
+    },
+    {
+      "id": "abstrusegoose-171",
+      "title": "I, Cyborg",
+      "pageUrl": "https://abstrusegoose.com/171",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/I_cyborg.png",
+      "altText": null,
+      "publishDate": "2009-05-25",
+      "sortIndex": 1243275228
+    },
+    {
+      "id": "abstrusegoose-170",
+      "title": "Traveling",
+      "pageUrl": "https://abstrusegoose.com/170",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/long_distance_booty_call.png",
+      "altText": null,
+      "publishDate": "2009-05-22",
+      "sortIndex": 1243017160
+    },
+    {
+      "id": "abstrusegoose-169",
+      "title": "I Hate This",
+      "pageUrl": "https://abstrusegoose.com/169",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_hate_this.png",
+      "altText": null,
+      "publishDate": "2009-05-19",
+      "sortIndex": 1242759092
+    },
+    {
+      "id": "abstrusegoose-167",
+      "title": "Gracefully",
+      "pageUrl": "https://abstrusegoose.com/167",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/gracefully.png",
+      "altText": null,
+      "publishDate": "2009-05-13",
+      "sortIndex": 1242242956
+    },
+    {
+      "id": "abstrusegoose-166",
+      "title": "See Monkey Do",
+      "pageUrl": "https://abstrusegoose.com/166",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/see_monkey_do.png",
+      "altText": null,
+      "publishDate": "2009-05-10",
+      "sortIndex": 1241984888
+    },
+    {
+      "id": "abstrusegoose-165",
+      "title": "Ivory Tower",
+      "pageUrl": "https://abstrusegoose.com/165",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/ivory_tower.png",
+      "altText": null,
+      "publishDate": "2009-05-07",
+      "sortIndex": 1241726820
+    },
+    {
+      "id": "abstrusegoose-164",
+      "title": "Tragedy",
+      "pageUrl": "https://abstrusegoose.com/164",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/tragedy.png",
+      "altText": null,
+      "publishDate": "2009-05-04",
+      "sortIndex": 1241468752
+    },
+    {
+      "id": "abstrusegoose-163",
+      "title": "Electromagnetic Leak",
+      "pageUrl": "https://abstrusegoose.com/163",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/electromagnetic_leak.png",
+      "altText": null,
+      "publishDate": "2009-05-01",
+      "sortIndex": 1241210684
+    },
+    {
+      "id": "abstrusegoose-162",
+      "title": "To Sleep",
+      "pageUrl": "https://abstrusegoose.com/162",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/sleep.png",
+      "altText": null,
+      "publishDate": "2009-04-28",
+      "sortIndex": 1240952616
+    },
+    {
+      "id": "abstrusegoose-161",
+      "title": "Leaves of Three",
+      "pageUrl": "https://abstrusegoose.com/161",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/leaves_of_three.png",
+      "altText": null,
+      "publishDate": "2009-04-25",
+      "sortIndex": 1240694548
+    },
+    {
+      "id": "abstrusegoose-160",
+      "title": "First Draft",
+      "pageUrl": "https://abstrusegoose.com/160",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/lord_of_the_flies.png",
+      "altText": null,
+      "publishDate": "2009-04-22",
+      "sortIndex": 1240436480
+    },
+    {
+      "id": "abstrusegoose-159",
+      "title": "The Lathe of Heaven",
+      "pageUrl": "https://abstrusegoose.com/159",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/lathe_of_heaven.png",
+      "altText": null,
+      "publishDate": "2009-04-19",
+      "sortIndex": 1240178412
+    },
+    {
+      "id": "abstrusegoose-158",
+      "title": "Gagh",
+      "pageUrl": "https://abstrusegoose.com/158",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/gagh.png",
+      "altText": null,
+      "publishDate": "2009-04-16",
+      "sortIndex": 1239920344
+    },
+    {
+      "id": "abstrusegoose-157",
+      "title": "1600 A.D.",
+      "pageUrl": "https://abstrusegoose.com/157",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/1600AD.png",
+      "altText": null,
+      "publishDate": "2009-04-13",
+      "sortIndex": 1239662276
+    },
+    {
+      "id": "abstrusegoose-156",
+      "title": "Biologist",
+      "pageUrl": "https://abstrusegoose.com/156",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/high_energy_biology.png",
+      "altText": null,
+      "publishDate": "2009-04-10",
+      "sortIndex": 1239404208
+    },
+    {
+      "id": "abstrusegoose-155",
+      "title": "Turtles",
+      "pageUrl": "https://abstrusegoose.com/155",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/turtles.png",
+      "altText": null,
+      "publishDate": "2009-04-07",
+      "sortIndex": 1239146140
+    },
+    {
+      "id": "abstrusegoose-154",
+      "title": "Predator",
+      "pageUrl": "https://abstrusegoose.com/154",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/predator.png",
+      "altText": null,
+      "publishDate": "2009-04-04",
+      "sortIndex": 1238888072
+    },
+    {
+      "id": "abstrusegoose-153",
+      "title": "Doppelgänger",
+      "pageUrl": "https://abstrusegoose.com/153",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/doppelganger.png",
+      "altText": null,
+      "publishDate": "2009-04-01",
+      "sortIndex": 1238630004
+    },
+    {
+      "id": "abstrusegoose-151",
+      "title": "I Don't Get It",
+      "pageUrl": "https://abstrusegoose.com/151",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_dont_get_it.png",
+      "altText": null,
+      "publishDate": "2009-03-27",
+      "sortIndex": 1238113868
+    },
+    {
+      "id": "abstrusegoose-148",
+      "title": "The Game",
+      "pageUrl": "https://abstrusegoose.com/148",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/game.png",
+      "altText": null,
+      "publishDate": "2009-03-18",
+      "sortIndex": 1237339664
+    },
+    {
+      "id": "abstrusegoose-147",
+      "title": "Blueprint",
+      "pageUrl": "https://abstrusegoose.com/147",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/dream_home.png",
+      "altText": null,
+      "publishDate": "2009-03-15",
+      "sortIndex": 1237081596
+    },
+    {
+      "id": "abstrusegoose-146",
+      "title": "Touriste Amèricain",
+      "pageUrl": "https://abstrusegoose.com/146",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/touriste%20_americain.png",
+      "altText": null,
+      "publishDate": "2009-03-12",
+      "sortIndex": 1236823528
+    },
+    {
+      "id": "abstrusegoose-144",
+      "title": "Leibniz and Newton",
+      "pageUrl": "https://abstrusegoose.com/144",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/leibniz_newton.png",
+      "altText": null,
+      "publishDate": "2009-03-06",
+      "sortIndex": 1236307392
+    },
+    {
+      "id": "abstrusegoose-143",
+      "title": "Enter the Mathematician",
+      "pageUrl": "https://abstrusegoose.com/143",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/enter_the_mathematician.png",
+      "altText": null,
+      "publishDate": "2009-03-03",
+      "sortIndex": 1236049324
+    },
+    {
+      "id": "abstrusegoose-142",
+      "title": "Life Path Integral",
+      "pageUrl": "https://abstrusegoose.com/142",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/life_path_integral.png",
+      "altText": null,
+      "publishDate": "2009-02-28",
+      "sortIndex": 1235791256
+    },
+    {
+      "id": "abstrusegoose-141",
+      "title": "Cross",
+      "pageUrl": "https://abstrusegoose.com/141",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/cross.png",
+      "altText": null,
+      "publishDate": "2009-02-25",
+      "sortIndex": 1235533188
+    },
+    {
+      "id": "abstrusegoose-140",
+      "title": "Friends",
+      "pageUrl": "https://abstrusegoose.com/140",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/friends.png",
+      "altText": null,
+      "publishDate": "2009-02-22",
+      "sortIndex": 1235275120
+    },
+    {
+      "id": "abstrusegoose-139",
+      "title": "A Simple Puzzle 3",
+      "pageUrl": "https://abstrusegoose.com/139",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/simple_puzzle_3.png",
+      "altText": null,
+      "publishDate": "2009-02-19",
+      "sortIndex": 1235017052
+    },
+    {
+      "id": "abstrusegoose-138",
+      "title": "why are you reading this?",
+      "pageUrl": "https://abstrusegoose.com/138",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/why_are_you_reading_this.png",
+      "altText": null,
+      "publishDate": "2009-02-16",
+      "sortIndex": 1234758984
+    },
+    {
+      "id": "abstrusegoose-137",
+      "title": "The String Theory Landscape",
+      "pageUrl": "https://abstrusegoose.com/137",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/string_theory_landscape.png",
+      "altText": null,
+      "publishDate": "2009-02-13",
+      "sortIndex": 1234500916
+    },
+    {
+      "id": "abstrusegoose-136",
+      "title": "Technical Assistance",
+      "pageUrl": "https://abstrusegoose.com/136",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/technical_assistance.png",
+      "altText": null,
+      "publishDate": "2009-02-10",
+      "sortIndex": 1234242848
+    },
+    {
+      "id": "abstrusegoose-135",
+      "title": "My Million Dollar Idea",
+      "pageUrl": "https://abstrusegoose.com/135",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/my_million_dollar_idea.png",
+      "altText": null,
+      "publishDate": "2009-02-07",
+      "sortIndex": 1233984780
+    },
+    {
+      "id": "abstrusegoose-134",
+      "title": "Message",
+      "pageUrl": "https://abstrusegoose.com/134",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/ping.png",
+      "altText": null,
+      "publishDate": "2009-02-04",
+      "sortIndex": 1233726712
+    },
+    {
+      "id": "abstrusegoose-133",
+      "title": "Zornaholic",
+      "pageUrl": "https://abstrusegoose.com/133",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/zornaholic.png",
+      "altText": null,
+      "publishDate": "2009-02-01",
+      "sortIndex": 1233468644
+    },
+    {
+      "id": "abstrusegoose-132",
+      "title": "dis-disinhibition",
+      "pageUrl": "https://abstrusegoose.com/132",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/dis_disinhibition.png",
+      "altText": null,
+      "publishDate": "2009-01-29",
+      "sortIndex": 1233210576
+    },
+    {
+      "id": "abstrusegoose-131",
+      "title": "War Stories",
+      "pageUrl": "https://abstrusegoose.com/131",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/war_stories.png",
+      "altText": null,
+      "publishDate": "2009-01-26",
+      "sortIndex": 1232952508
+    },
+    {
+      "id": "abstrusegoose-130",
+      "title": "My Fellow Mathematicians and Physicists",
+      "pageUrl": "https://abstrusegoose.com/130",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/penrose.png",
+      "altText": null,
+      "publishDate": "2009-01-23",
+      "sortIndex": 1232694440
+    },
+    {
+      "id": "abstrusegoose-129",
+      "title": "Dear Mathematicians",
+      "pageUrl": "https://abstrusegoose.com/129",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/dear_mathematicians.png",
+      "altText": null,
+      "publishDate": "2009-01-20",
+      "sortIndex": 1232436372
+    },
+    {
+      "id": "abstrusegoose-128",
+      "title": "Dear Physicists",
+      "pageUrl": "https://abstrusegoose.com/128",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/dear_physicists.png",
+      "altText": null,
+      "publishDate": "2009-01-17",
+      "sortIndex": 1232178304
+    },
+    {
+      "id": "abstrusegoose-126",
+      "title": "A Simple Puzzle 2",
+      "pageUrl": "https://abstrusegoose.com/126",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/simple_puzzle2.png",
+      "altText": null,
+      "publishDate": "2009-01-11",
+      "sortIndex": 1231662168
+    },
+    {
+      "id": "abstrusegoose-125",
+      "title": "Gymnarchus niloticus",
+      "pageUrl": "https://abstrusegoose.com/125",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/gymnarchus_niloticus.png",
+      "altText": null,
+      "publishDate": "2009-01-08",
+      "sortIndex": 1231404100
+    },
+    {
+      "id": "abstrusegoose-124",
+      "title": "A Beautiful Theorem",
+      "pageUrl": "https://abstrusegoose.com/124",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/beautiful_theorem.png",
+      "altText": null,
+      "publishDate": "2009-01-05",
+      "sortIndex": 1231146032
+    },
+    {
+      "id": "abstrusegoose-123",
+      "title": "At the Bench",
+      "pageUrl": "https://abstrusegoose.com/123",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/mad_scientist.png",
+      "altText": null,
+      "publishDate": "2009-01-02",
+      "sortIndex": 1230887964
+    },
+    {
+      "id": "abstrusegoose-122",
+      "title": "Objective Observer",
+      "pageUrl": "https://abstrusegoose.com/122",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/objective_observer.png",
+      "altText": null,
+      "publishDate": "2008-12-30",
+      "sortIndex": 1230629896
+    },
+    {
+      "id": "abstrusegoose-121",
+      "title": "The Simply Connected Underwear Theorem",
+      "pageUrl": "https://abstrusegoose.com/121",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/simply_connected_underwear.png",
+      "altText": null,
+      "publishDate": "2008-12-27",
+      "sortIndex": 1230371828
+    },
+    {
+      "id": "abstrusegoose-120",
+      "title": "How Stuff Works",
+      "pageUrl": "https://abstrusegoose.com/120",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/how_stuff_works.png",
+      "altText": null,
+      "publishDate": "2008-12-24",
+      "sortIndex": 1230113760
+    },
+    {
+      "id": "abstrusegoose-119",
+      "title": "I know what you did last night",
+      "pageUrl": "https://abstrusegoose.com/119",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_know_what_you_did_last_night.png",
+      "altText": null,
+      "publishDate": "2008-12-21",
+      "sortIndex": 1229855692
+    },
+    {
+      "id": "abstrusegoose-118",
+      "title": "Dear Higgs Boson",
+      "pageUrl": "https://abstrusegoose.com/118",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/dear_higgs_boson.png",
+      "altText": null,
+      "publishDate": "2008-12-18",
+      "sortIndex": 1229597624
+    },
+    {
+      "id": "abstrusegoose-117",
+      "title": "Countably Infinite",
+      "pageUrl": "https://abstrusegoose.com/117",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/countably_infinite.png",
+      "altText": null,
+      "publishDate": "2008-12-15",
+      "sortIndex": 1229339556
+    },
+    {
+      "id": "abstrusegoose-116",
+      "title": "date +%s",
+      "pageUrl": "https://abstrusegoose.com/116",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/1234567890.png",
+      "altText": null,
+      "publishDate": "2008-12-12",
+      "sortIndex": 1229081488
+    },
+    {
+      "id": "abstrusegoose-115",
+      "title": "Is the Universe a Computer?",
+      "pageUrl": "https://abstrusegoose.com/115",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/is_the_universe_a_computer.png",
+      "altText": null,
+      "publishDate": "2008-12-09",
+      "sortIndex": 1228823420
+    },
+    {
+      "id": "abstrusegoose-114",
+      "title": "iScreener *",
+      "pageUrl": "https://abstrusegoose.com/114",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/iScreener.png",
+      "altText": null,
+      "publishDate": "2008-12-06",
+      "sortIndex": 1228565352
+    },
+    {
+      "id": "abstrusegoose-113",
+      "title": "Alice and Bob",
+      "pageUrl": "https://abstrusegoose.com/113",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/alice_and_bob.png",
+      "altText": null,
+      "publishDate": "2008-12-03",
+      "sortIndex": 1228307284
+    },
+    {
+      "id": "abstrusegoose-112",
+      "title": "At the Zoo",
+      "pageUrl": "https://abstrusegoose.com/112",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/at_the_zoo.png",
+      "altText": null,
+      "publishDate": "2008-11-30",
+      "sortIndex": 1228049216
+    },
+    {
+      "id": "abstrusegoose-111",
+      "title": "Confession",
+      "pageUrl": "https://abstrusegoose.com/111",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/confession.png",
+      "altText": null,
+      "publishDate": "2008-11-27",
+      "sortIndex": 1227791148
+    },
+    {
+      "id": "abstrusegoose-110",
+      "title": "Disclosure",
+      "pageUrl": "https://abstrusegoose.com/110",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/disclosure.png",
+      "altText": null,
+      "publishDate": "2008-11-24",
+      "sortIndex": 1227533080
+    },
+    {
+      "id": "abstrusegoose-109",
+      "title": "Unwritten",
+      "pageUrl": "https://abstrusegoose.com/109",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/unwritten.png",
+      "altText": null,
+      "publishDate": "2008-11-21",
+      "sortIndex": 1227275012
+    },
+    {
+      "id": "abstrusegoose-108",
+      "title": "The Secret Lives of Photons",
+      "pageUrl": "https://abstrusegoose.com/108",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/secret_lives_of_photons.png",
+      "altText": null,
+      "publishDate": "2008-11-18",
+      "sortIndex": 1227016944
+    },
+    {
+      "id": "abstrusegoose-107",
+      "title": "Practical Zen",
+      "pageUrl": "https://abstrusegoose.com/107",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/practical_zen.png",
+      "altText": null,
+      "publishDate": "2008-11-15",
+      "sortIndex": 1226758876
+    },
+    {
+      "id": "abstrusegoose-106",
+      "title": "Lie of Omission - Part 2",
+      "pageUrl": "https://abstrusegoose.com/106",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/lie_of_omission_2.png",
+      "altText": null,
+      "publishDate": "2008-11-12",
+      "sortIndex": 1226500808
+    },
+    {
+      "id": "abstrusegoose-105",
+      "title": "Pure Mathematics",
+      "pageUrl": "https://abstrusegoose.com/105",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/pure_mathematics.png",
+      "altText": null,
+      "publishDate": "2008-11-09",
+      "sortIndex": 1226242740
+    },
+    {
+      "id": "abstrusegoose-104",
+      "title": "Do you believe in God?",
+      "pageUrl": "https://abstrusegoose.com/104",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/do_you_believe_in_god.png",
+      "altText": null,
+      "publishDate": "2008-11-06",
+      "sortIndex": 1225984672
+    },
+    {
+      "id": "abstrusegoose-103",
+      "title": "Father Knows Best",
+      "pageUrl": "https://abstrusegoose.com/103",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/father_knows_best.png",
+      "altText": null,
+      "publishDate": "2008-11-03",
+      "sortIndex": 1225726604
+    },
+    {
+      "id": "abstrusegoose-102",
+      "title": "10 Kinds of People",
+      "pageUrl": "https://abstrusegoose.com/102",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/10_kinds_of_people.png",
+      "altText": null,
+      "publishDate": "2008-10-31",
+      "sortIndex": 1225468536
+    },
+    {
+      "id": "abstrusegoose-101",
+      "title": "some advice...",
+      "pageUrl": "https://abstrusegoose.com/101",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/some_advice.png",
+      "altText": null,
+      "publishDate": "2008-10-28",
+      "sortIndex": 1225210468
+    },
+    {
+      "id": "abstrusegoose-100",
+      "title": "The Pantheon",
+      "pageUrl": "https://abstrusegoose.com/100",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/pantheon.png",
+      "altText": null,
+      "publishDate": "2008-10-25",
+      "sortIndex": 1224952400
+    },
+    {
+      "id": "abstrusegoose-99",
+      "title": "Lie of Omission",
+      "pageUrl": "https://abstrusegoose.com/99",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/lie_of_omission.png",
+      "altText": null,
+      "publishDate": "2008-10-22",
+      "sortIndex": 1224694332
+    },
+    {
+      "id": "abstrusegoose-98",
+      "title": "Computer Programming 101",
+      "pageUrl": "https://abstrusegoose.com/98",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/computer_programming_101.png",
+      "altText": null,
+      "publishDate": "2008-10-19",
+      "sortIndex": 1224436264
+    },
+    {
+      "id": "abstrusegoose-97",
+      "title": "Happy Zeno Year",
+      "pageUrl": "https://abstrusegoose.com/97",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/happy_zeno_year.png",
+      "altText": null,
+      "publishDate": "2008-10-16",
+      "sortIndex": 1224178196
+    },
+    {
+      "id": "abstrusegoose-96",
+      "title": "ask a silly question...",
+      "pageUrl": "https://abstrusegoose.com/96",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/ask_a_silly_question.png",
+      "altText": null,
+      "publishDate": "2008-10-13",
+      "sortIndex": 1223920128
+    },
+    {
+      "id": "abstrusegoose-95",
+      "title": "Scientific Verification",
+      "pageUrl": "https://abstrusegoose.com/95",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/scientific_verification.png",
+      "altText": null,
+      "publishDate": "2008-10-10",
+      "sortIndex": 1223662060
+    },
+    {
+      "id": "abstrusegoose-94",
+      "title": "Holiday Tradition",
+      "pageUrl": "https://abstrusegoose.com/94",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/holiday_tradition.png",
+      "altText": null,
+      "publishDate": "2008-10-07",
+      "sortIndex": 1223403992
+    },
+    {
+      "id": "abstrusegoose-93",
+      "title": "Moment of Clarity",
+      "pageUrl": "https://abstrusegoose.com/93",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/moment_of_clarity.png",
+      "altText": null,
+      "publishDate": "2008-10-04",
+      "sortIndex": 1223145924
+    },
+    {
+      "id": "abstrusegoose-91",
+      "title": "The Butterfly Effect",
+      "pageUrl": "https://abstrusegoose.com/91",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/butterfly.png",
+      "altText": null,
+      "publishDate": "2008-09-28",
+      "sortIndex": 1222629788
+    },
+    {
+      "id": "abstrusegoose-90",
+      "title": "Gift Horse",
+      "pageUrl": "https://abstrusegoose.com/90",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/gift_horse.png",
+      "altText": null,
+      "publishDate": "2008-09-25",
+      "sortIndex": 1222371720
+    },
+    {
+      "id": "abstrusegoose-89",
+      "title": "The Purposeful Life",
+      "pageUrl": "https://abstrusegoose.com/89",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/purposeful_life.png",
+      "altText": null,
+      "publishDate": "2008-09-22",
+      "sortIndex": 1222113652
+    },
+    {
+      "id": "abstrusegoose-86",
+      "title": "You're a Good Man...",
+      "pageUrl": "https://abstrusegoose.com/86",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/youre_a_good_man.png",
+      "altText": null,
+      "publishDate": "2008-09-13",
+      "sortIndex": 1221339448
+    },
+    {
+      "id": "abstrusegoose-85",
+      "title": "The Mind of God",
+      "pageUrl": "https://abstrusegoose.com/85",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/mind_of_god.png",
+      "altText": null,
+      "publishDate": "2008-09-10",
+      "sortIndex": 1221081380
+    },
+    {
+      "id": "abstrusegoose-84",
+      "title": "Hand Turkey",
+      "pageUrl": "https://abstrusegoose.com/84",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/hand_turkey.png",
+      "altText": null,
+      "publishDate": "2008-09-07",
+      "sortIndex": 1220823312
+    },
+    {
+      "id": "abstrusegoose-81",
+      "title": "Batteries Included",
+      "pageUrl": "https://abstrusegoose.com/81",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/batteries_included.png",
+      "altText": null,
+      "publishDate": "2008-08-29",
+      "sortIndex": 1220049108
+    },
+    {
+      "id": "abstrusegoose-80",
+      "title": "All You Zombies",
+      "pageUrl": "https://abstrusegoose.com/80",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/all_you_zombies.png",
+      "altText": null,
+      "publishDate": "2008-08-26",
+      "sortIndex": 1219791040
+    },
+    {
+      "id": "abstrusegoose-79",
+      "title": "In the Beginning",
+      "pageUrl": "https://abstrusegoose.com/79",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/genesis_0_0.png",
+      "altText": null,
+      "publishDate": "2008-08-23",
+      "sortIndex": 1219532972
+    },
+    {
+      "id": "abstrusegoose-76",
+      "title": "A Simple Puzzle",
+      "pageUrl": "https://abstrusegoose.com/76",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/simple_puzzle.png",
+      "altText": null,
+      "publishDate": "2008-08-15",
+      "sortIndex": 1218758768
+    },
+    {
+      "id": "abstrusegoose-74",
+      "title": "Schrödinger's (emotional) Miscalculation - Part 3",
+      "pageUrl": "https://abstrusegoose.com/74",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/schrodinger_miscalc3.png",
+      "altText": null,
+      "publishDate": "2008-08-09",
+      "sortIndex": 1218242632
+    },
+    {
+      "id": "abstrusegoose-73",
+      "title": "True Things",
+      "pageUrl": "https://abstrusegoose.com/73",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/true_things.png",
+      "altText": null,
+      "publishDate": "2008-08-06",
+      "sortIndex": 1217984564
+    },
+    {
+      "id": "abstrusegoose-72",
+      "title": "The Belt Trick",
+      "pageUrl": "https://abstrusegoose.com/72",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/belt_trick.png",
+      "altText": null,
+      "publishDate": "2008-08-03",
+      "sortIndex": 1217726496
+    },
+    {
+      "id": "abstrusegoose-70",
+      "title": "I, Computer",
+      "pageUrl": "https://abstrusegoose.com/70",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_computer.png",
+      "altText": null,
+      "publishDate": "2008-07-28",
+      "sortIndex": 1217210360
+    },
+    {
+      "id": "abstrusegoose-69",
+      "title": "Blind Date - Part 3",
+      "pageUrl": "https://abstrusegoose.com/69",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/blind_date_p3.png",
+      "altText": null,
+      "publishDate": "2008-07-25",
+      "sortIndex": 1216952292
+    },
+    {
+      "id": "abstrusegoose-68",
+      "title": "Darmok",
+      "pageUrl": "https://abstrusegoose.com/68",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/darmok.png",
+      "altText": null,
+      "publishDate": "2008-07-22",
+      "sortIndex": 1216694224
+    },
+    {
+      "id": "abstrusegoose-67",
+      "title": "you're not as cool as you think",
+      "pageUrl": "https://abstrusegoose.com/67",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/ur_not_cool.png",
+      "altText": null,
+      "publishDate": "2008-07-19",
+      "sortIndex": 1216436156
+    },
+    {
+      "id": "abstrusegoose-66",
+      "title": "Cupcakes",
+      "pageUrl": "https://abstrusegoose.com/66",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/cupcakes.png",
+      "altText": null,
+      "publishDate": "2008-07-16",
+      "sortIndex": 1216178088
+    },
+    {
+      "id": "abstrusegoose-65",
+      "title": "The Cantor Madness",
+      "pageUrl": "https://abstrusegoose.com/65",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/cantor_madness.png",
+      "altText": null,
+      "publishDate": "2008-07-13",
+      "sortIndex": 1215920020
+    },
+    {
+      "id": "abstrusegoose-63",
+      "title": "NUM63R5",
+      "pageUrl": "https://abstrusegoose.com/63",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/NUM63R5.png",
+      "altText": null,
+      "publishDate": "2008-07-07",
+      "sortIndex": 1215403884
+    },
+    {
+      "id": "abstrusegoose-62",
+      "title": "Science is Supercool",
+      "pageUrl": "https://abstrusegoose.com/62",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/science_is_cool.png",
+      "altText": null,
+      "publishDate": "2008-07-04",
+      "sortIndex": 1215145816
+    },
+    {
+      "id": "abstrusegoose-61",
+      "title": "stop me if you've heard this one",
+      "pageUrl": "https://abstrusegoose.com/61",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/stop_me_if_youve_heard_this.png",
+      "altText": null,
+      "publishDate": "2008-07-01",
+      "sortIndex": 1214887748
+    },
+    {
+      "id": "abstrusegoose-60",
+      "title": "Free Pass",
+      "pageUrl": "https://abstrusegoose.com/60",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/free_pass.png",
+      "altText": null,
+      "publishDate": "2008-06-28",
+      "sortIndex": 1214629680
+    },
+    {
+      "id": "abstrusegoose-59",
+      "title": "All Good Things...",
+      "pageUrl": "https://abstrusegoose.com/59",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/all_good_things.png",
+      "altText": null,
+      "publishDate": "2008-06-25",
+      "sortIndex": 1214371612
+    },
+    {
+      "id": "abstrusegoose-57",
+      "title": "say what you mean",
+      "pageUrl": "https://abstrusegoose.com/57",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/say_what_you_mean.png",
+      "altText": null,
+      "publishDate": "2008-06-19",
+      "sortIndex": 1213855476
+    },
+    {
+      "id": "abstrusegoose-56",
+      "title": "Family Reunion",
+      "pageUrl": "https://abstrusegoose.com/56",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/family_reunion.png",
+      "altText": null,
+      "publishDate": "2008-06-16",
+      "sortIndex": 1213597408
+    },
+    {
+      "id": "abstrusegoose-55",
+      "title": "Fun with Statistics - Part 2",
+      "pageUrl": "https://abstrusegoose.com/55",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/fun_with_statistics2.png",
+      "altText": null,
+      "publishDate": "2008-06-13",
+      "sortIndex": 1213339340
+    },
+    {
+      "id": "abstrusegoose-54",
+      "title": "Fun with Statistics",
+      "pageUrl": "https://abstrusegoose.com/54",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/fun_with_statistics.png",
+      "altText": null,
+      "publishDate": "2008-06-10",
+      "sortIndex": 1213081272
+    },
+    {
+      "id": "abstrusegoose-53",
+      "title": "Qapla'!",
+      "pageUrl": "https://abstrusegoose.com/53",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/klingon_turing_test.png",
+      "altText": null,
+      "publishDate": "2008-06-07",
+      "sortIndex": 1212823204
+    },
+    {
+      "id": "abstrusegoose-51",
+      "title": "936 Little Blobs",
+      "pageUrl": "https://abstrusegoose.com/51",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/936_little_blobs.png",
+      "altText": null,
+      "publishDate": "2008-06-01",
+      "sortIndex": 1212307068
+    },
+    {
+      "id": "abstrusegoose-50",
+      "title": "The Alpha Male",
+      "pageUrl": "https://abstrusegoose.com/50",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/alpha_male.png",
+      "altText": null,
+      "publishDate": "2008-05-29",
+      "sortIndex": 1212049000
+    },
+    {
+      "id": "abstrusegoose-49",
+      "title": "Dear CERN",
+      "pageUrl": "https://abstrusegoose.com/49",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/dear_CERN.png",
+      "altText": null,
+      "publishDate": "2008-05-26",
+      "sortIndex": 1211790932
+    },
+    {
+      "id": "abstrusegoose-48",
+      "title": "It could've been worse",
+      "pageUrl": "https://abstrusegoose.com/48",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/it_couldve_been_worse.png",
+      "altText": null,
+      "publishDate": "2008-05-23",
+      "sortIndex": 1211532864
+    },
+    {
+      "id": "abstrusegoose-47",
+      "title": "A Wise Man Once Said...",
+      "pageUrl": "https://abstrusegoose.com/47",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/a_wise_man_once_said.png",
+      "altText": null,
+      "publishDate": "2008-05-20",
+      "sortIndex": 1211274796
+    },
+    {
+      "id": "abstrusegoose-45",
+      "title": "I never lose this game",
+      "pageUrl": "https://abstrusegoose.com/45",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_bet_i_can_make_you_cringe.png",
+      "altText": null,
+      "publishDate": "2008-05-14",
+      "sortIndex": 1210758660
+    },
+    {
+      "id": "abstrusegoose-44",
+      "title": "The Most Popular Girl in School",
+      "pageUrl": "https://abstrusegoose.com/44",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/popular_girl.png",
+      "altText": null,
+      "publishDate": "2008-05-11",
+      "sortIndex": 1210500592
+    },
+    {
+      "id": "abstrusegoose-43",
+      "title": "The Curve",
+      "pageUrl": "https://abstrusegoose.com/43",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_curve.png",
+      "altText": null,
+      "publishDate": "2008-05-08",
+      "sortIndex": 1210242524
+    },
+    {
+      "id": "abstrusegoose-42",
+      "title": "So Many Questions",
+      "pageUrl": "https://abstrusegoose.com/42",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/so_many_questions.png",
+      "altText": null,
+      "publishDate": "2008-05-05",
+      "sortIndex": 1209984456
+    },
+    {
+      "id": "abstrusegoose-41",
+      "title": "Today I Learned That...",
+      "pageUrl": "https://abstrusegoose.com/41",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/lower_standards.png",
+      "altText": null,
+      "publishDate": "2008-05-02",
+      "sortIndex": 1209726388
+    },
+    {
+      "id": "abstrusegoose-40",
+      "title": "LiveCommentJournal",
+      "pageUrl": "https://abstrusegoose.com/40",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/livecommentjournal.png",
+      "altText": null,
+      "publishDate": "2008-04-29",
+      "sortIndex": 1209468320
+    },
+    {
+      "id": "abstrusegoose-39",
+      "title": "The Exception",
+      "pageUrl": "https://abstrusegoose.com/39",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_exception.png",
+      "altText": null,
+      "publishDate": "2008-04-26",
+      "sortIndex": 1209210252
+    },
+    {
+      "id": "abstrusegoose-38",
+      "title": "Best Friends",
+      "pageUrl": "https://abstrusegoose.com/38",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/best_friends.png",
+      "altText": null,
+      "publishDate": "2008-04-23",
+      "sortIndex": 1208952184
+    },
+    {
+      "id": "abstrusegoose-37",
+      "title": "Closed Timelike Curveball",
+      "pageUrl": "https://abstrusegoose.com/37",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/closed_timelike_curveball.png",
+      "altText": null,
+      "publishDate": "2008-04-20",
+      "sortIndex": 1208694116
+    },
+    {
+      "id": "abstrusegoose-36",
+      "title": "An Elegant Weapon...",
+      "pageUrl": "https://abstrusegoose.com/36",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/elegant_weapon.png",
+      "altText": null,
+      "publishDate": "2008-04-17",
+      "sortIndex": 1208436048
+    },
+    {
+      "id": "abstrusegoose-35",
+      "title": "Particle in a Box",
+      "pageUrl": "https://abstrusegoose.com/35",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/particle_in_a_box.png",
+      "altText": null,
+      "publishDate": "2008-04-14",
+      "sortIndex": 1208177980
+    },
+    {
+      "id": "abstrusegoose-34",
+      "title": "Blind Date - Part 2",
+      "pageUrl": "https://abstrusegoose.com/34",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/blind_date2.png",
+      "altText": null,
+      "publishDate": "2008-04-11",
+      "sortIndex": 1207919912
+    },
+    {
+      "id": "abstrusegoose-33",
+      "title": "The Inequivalence Principle",
+      "pageUrl": "https://abstrusegoose.com/33",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/inequivalence_principle.png",
+      "altText": null,
+      "publishDate": "2008-04-08",
+      "sortIndex": 1207661844
+    },
+    {
+      "id": "abstrusegoose-31",
+      "title": "Veritas Vos Liberabit",
+      "pageUrl": "https://abstrusegoose.com/31",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/Veritas_Vos_Liberabit.png",
+      "altText": null,
+      "publishDate": "2008-04-02",
+      "sortIndex": 1207145708
+    },
+    {
+      "id": "abstrusegoose-30",
+      "title": "The Hottie",
+      "pageUrl": "https://abstrusegoose.com/30",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/for_the_kids.png",
+      "altText": null,
+      "publishDate": "2008-03-30",
+      "sortIndex": 1206887640
+    },
+    {
+      "id": "abstrusegoose-29",
+      "title": "NSFW",
+      "pageUrl": "https://abstrusegoose.com/29",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/nsfw_a_cautionary_tale.png",
+      "altText": null,
+      "publishDate": "2008-03-27",
+      "sortIndex": 1206629572
+    },
+    {
+      "id": "abstrusegoose-28",
+      "title": "Math vs Physics",
+      "pageUrl": "https://abstrusegoose.com/28",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/math_vs_physics.png",
+      "altText": null,
+      "publishDate": "2008-03-24",
+      "sortIndex": 1206371504
+    },
+    {
+      "id": "abstrusegoose-27",
+      "title": "Secrets and Lies",
+      "pageUrl": "https://abstrusegoose.com/27",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/secrets_and_lies.png",
+      "altText": null,
+      "publishDate": "2008-03-21",
+      "sortIndex": 1206113436
+    },
+    {
+      "id": "abstrusegoose-26",
+      "title": "Calc-zilla",
+      "pageUrl": "https://abstrusegoose.com/26",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/calczilla.png",
+      "altText": null,
+      "publishDate": "2008-03-18",
+      "sortIndex": 1205855368
+    },
+    {
+      "id": "abstrusegoose-24",
+      "title": "Out of the Closet",
+      "pageUrl": "https://abstrusegoose.com/24",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/bring_back_firefly.png",
+      "altText": null,
+      "publishDate": "2008-03-12",
+      "sortIndex": 1205339232
+    },
+    {
+      "id": "abstrusegoose-23",
+      "title": "Pi",
+      "pageUrl": "https://abstrusegoose.com/23",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/pi_A.png",
+      "altText": null,
+      "publishDate": "2008-03-09",
+      "sortIndex": 1205081164
+    },
+    {
+      "id": "abstrusegoose-21",
+      "title": "Life Imitates Art",
+      "pageUrl": "https://abstrusegoose.com/21",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/life_imitates_art.png",
+      "altText": null,
+      "publishDate": "2008-03-03",
+      "sortIndex": 1204565028
+    },
+    {
+      "id": "abstrusegoose-18",
+      "title": "I.I. Rabi's Question Answered?",
+      "pageUrl": "https://abstrusegoose.com/18",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/iirabi.png",
+      "altText": null,
+      "publishDate": "2008-02-23",
+      "sortIndex": 1203790824
+    },
+    {
+      "id": "abstrusegoose-17",
+      "title": "The Birth of ENIAC",
+      "pageUrl": "https://abstrusegoose.com/17",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_birth_of_ENIAC.png",
+      "altText": null,
+      "publishDate": "2008-02-20",
+      "sortIndex": 1203532756
+    },
+    {
+      "id": "abstrusegoose-16",
+      "title": "dckx",
+      "pageUrl": "https://abstrusegoose.com/16",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/dckx.png",
+      "altText": null,
+      "publishDate": "2008-02-17",
+      "sortIndex": 1203274688
+    },
+    {
+      "id": "abstrusegoose-15",
+      "title": "The Opportunist",
+      "pageUrl": "https://abstrusegoose.com/15",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/the_opportunist.png",
+      "altText": null,
+      "publishDate": "2008-02-14",
+      "sortIndex": 1203016620
+    },
+    {
+      "id": "abstrusegoose-14",
+      "title": "I Never",
+      "pageUrl": "https://abstrusegoose.com/14",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/i_never.png",
+      "altText": null,
+      "publishDate": "2008-02-11",
+      "sortIndex": 1202758552
+    },
+    {
+      "id": "abstrusegoose-13",
+      "title": "Ask Me Why",
+      "pageUrl": "https://abstrusegoose.com/13",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/superstitious.png",
+      "altText": null,
+      "publishDate": "2008-02-08",
+      "sortIndex": 1202500484
+    },
+    {
+      "id": "abstrusegoose-12",
+      "title": "Math Text",
+      "pageUrl": "https://abstrusegoose.com/12",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/math_text.png",
+      "altText": null,
+      "publishDate": "2008-02-05",
+      "sortIndex": 1202242416
+    },
+    {
+      "id": "abstrusegoose-11",
+      "title": "Ubuntu Sucks",
+      "pageUrl": "https://abstrusegoose.com/11",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/post_ubuntu_blues.png",
+      "altText": null,
+      "publishDate": "2008-02-02",
+      "sortIndex": 1201984348
+    },
+    {
+      "id": "abstrusegoose-10",
+      "title": "The Red Button",
+      "pageUrl": "https://abstrusegoose.com/10",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/redbutton.png",
+      "altText": null,
+      "publishDate": "2008-01-30",
+      "sortIndex": 1201726280
+    },
+    {
+      "id": "abstrusegoose-9",
+      "title": "Blind Date",
+      "pageUrl": "https://abstrusegoose.com/9",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/blind_date.png",
+      "altText": null,
+      "publishDate": "2008-01-27",
+      "sortIndex": 1201468212
+    },
+    {
+      "id": "abstrusegoose-8",
+      "title": "Arguing With a String Theorist",
+      "pageUrl": "https://abstrusegoose.com/8",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/angry_string_theorist.png",
+      "altText": null,
+      "publishDate": "2008-01-24",
+      "sortIndex": 1201210144
+    },
+    {
+      "id": "abstrusegoose-7",
+      "title": "Schrödinger's Miscalculation - Part 2",
+      "pageUrl": "https://abstrusegoose.com/7",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/schrodinger_miscalc2.png",
+      "altText": null,
+      "publishDate": "2008-01-21",
+      "sortIndex": 1200952076
+    },
+    {
+      "id": "abstrusegoose-6",
+      "title": "Schrödinger's Infinitesimal Miscalculation",
+      "pageUrl": "https://abstrusegoose.com/6",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/schrodinger_miscalc.png",
+      "altText": null,
+      "publishDate": "2008-01-18",
+      "sortIndex": 1200694008
+    },
+    {
+      "id": "abstrusegoose-5",
+      "title": "There is No Spoon",
+      "pageUrl": "https://abstrusegoose.com/5",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/nospoon.png",
+      "altText": null,
+      "publishDate": "2008-01-15",
+      "sortIndex": 1200435940
+    },
+    {
+      "id": "abstrusegoose-4",
+      "title": "LOLCAT Backlash",
+      "pageUrl": "https://abstrusegoose.com/4",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/LOLCAT_Backlash.png",
+      "altText": null,
+      "publishDate": "2008-01-12",
+      "sortIndex": 1200177872
+    },
+    {
+      "id": "abstrusegoose-3",
+      "title": "SETI Finally Receives a Signal",
+      "pageUrl": "https://abstrusegoose.com/3",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/SETI_gets_a_signalA.png",
+      "altText": null,
+      "publishDate": "2008-01-09",
+      "sortIndex": 1199919804
+    },
+    {
+      "id": "abstrusegoose-1",
+      "title": "Convergent Subsequence",
+      "pageUrl": "https://abstrusegoose.com/1",
+      "imageUrl": "https://raw.githubusercontent.com/s-macke/Abstruse-Goose-Archive/master/comics/conv_sub_panel_small.png",
+      "altText": null,
+      "publishDate": "2008-01-03",
+      "sortIndex": 1199403668
+    }
+  ]
+}

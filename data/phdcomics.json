@@ -1,0 +1,51 @@
+{
+  "source": "phdcomics",
+  "updatedAt": "2026-05-25T20:19:29Z",
+  "comics": [
+    {
+      "id": "phdcomics-comics.php?f=2051",
+      "title": "01/15/21 PHD comic: 'NEW BOOK! Out of Your Mind!'",
+      "pageUrl": "http://www.phdcomics.com/comics.php?f=2051",
+      "imageUrl": "https://www.phdcomics.com/comics/archive/phd011525s.gif",
+      "altText": null,
+      "publishDate": "2022-01-31",
+      "sortIndex": 1643657066
+    },
+    {
+      "id": "phdcomics-comics.php?f=2050",
+      "title": "08/31/23 PHD comic: 'New Book! Oliver's Great Big Universe!'",
+      "pageUrl": "http://www.phdcomics.com/comics.php?f=2050",
+      "imageUrl": "https://www.phdcomics.com/comics/archive/phd083123s.gif",
+      "altText": null,
+      "publishDate": "2021-12-14",
+      "sortIndex": 1639511583
+    },
+    {
+      "id": "phdcomics-comics.php?f=2049",
+      "title": "10/22/21 PHD comic: 'Current Status'",
+      "pageUrl": "http://www.phdcomics.com/comics.php?f=2049",
+      "imageUrl": "https://www.phdcomics.com/comics/archive/phd102221s.gif",
+      "altText": null,
+      "publishDate": "2021-10-25",
+      "sortIndex": 1635152987
+    },
+    {
+      "id": "phdcomics-comics.php?f=2048",
+      "title": "09/24/21 PHD comic: '...Said No Academic Ever.'",
+      "pageUrl": "http://www.phdcomics.com/comics.php?f=2048",
+      "imageUrl": "https://www.phdcomics.com/comics/archive/phd092421s.gif",
+      "altText": null,
+      "publishDate": "2021-09-27",
+      "sortIndex": 1632726266
+    },
+    {
+      "id": "phdcomics-comics.php?f=2047",
+      "title": "09/17/21 PHD comic: 'The COVID-19 Virus Explained'",
+      "pageUrl": "http://www.phdcomics.com/comics.php?f=2047",
+      "imageUrl": "https://www.phdcomics.com/comics/archive/phd091721s.gif",
+      "altText": null,
+      "publishDate": "2021-09-18",
+      "sortIndex": 1631988820
+    }
+  ]
+}

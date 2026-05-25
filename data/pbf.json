@@ -1,0 +1,96 @@
+{
+  "source": "pbf",
+  "updatedAt": "2026-05-25T19:17:08Z",
+  "comics": [
+    {
+      "id": "pbf-endgame",
+      "title": "Endgame",
+      "pageUrl": "https://pbfcomics.com/comics/endgame/",
+      "imageUrl": "https://pbfcomics.com/wp-content/uploads/2026/04/PBF-Endgame.png",
+      "altText": null,
+      "publishDate": "2026-04-02",
+      "sortIndex": 1775144819
+    },
+    {
+      "id": "pbf-buzz",
+      "title": "Buzz",
+      "pageUrl": "https://pbfcomics.com/comics/buzz/",
+      "imageUrl": "https://pbfcomics.com/wp-content/uploads/2026/01/PBF-Buzz-2.png",
+      "altText": null,
+      "publishDate": "2026-01-30",
+      "sortIndex": 1769793322
+    },
+    {
+      "id": "pbf-artist",
+      "title": "Artist",
+      "pageUrl": "https://pbfcomics.com/comics/artist/",
+      "imageUrl": "https://pbfcomics.com/wp-content/uploads/2026/01/PBF_Artist.png",
+      "altText": null,
+      "publishDate": "2026-01-21",
+      "sortIndex": 1769022956
+    },
+    {
+      "id": "pbf-hand-and-hand",
+      "title": "Hand and Hand",
+      "pageUrl": "https://pbfcomics.com/comics/hand-and-hand/",
+      "imageUrl": "https://pbfcomics.com/wp-content/uploads/2025/12/PBF-Hand_and_Hand.png",
+      "altText": null,
+      "publishDate": "2025-12-11",
+      "sortIndex": 1765423917
+    },
+    {
+      "id": "pbf-another-message",
+      "title": "Another Message",
+      "pageUrl": "https://pbfcomics.com/comics/another-message/",
+      "imageUrl": "https://pbfcomics.com/wp-content/uploads/2025/11/PBF-The_Message_II.png",
+      "altText": null,
+      "publishDate": "2025-11-21",
+      "sortIndex": 1763750319
+    },
+    {
+      "id": "pbf-the-message",
+      "title": "The Message",
+      "pageUrl": "https://pbfcomics.com/comics/the-message/",
+      "imageUrl": "https://pbfcomics.com/wp-content/uploads/2025/11/PBF-The-Message.png",
+      "altText": null,
+      "publishDate": "2025-11-03",
+      "sortIndex": 1762188853
+    },
+    {
+      "id": "pbf-the-craving",
+      "title": "The Craving",
+      "pageUrl": "https://pbfcomics.com/comics/the-craving/",
+      "imageUrl": "https://pbfcomics.com/wp-content/uploads/2025/10/PBF-The_Craving.png",
+      "altText": null,
+      "publishDate": "2025-10-06",
+      "sortIndex": 1759775062
+    },
+    {
+      "id": "pbf-getting-things-done",
+      "title": "Getting Things Done",
+      "pageUrl": "https://pbfcomics.com/comics/getting-things-done/",
+      "imageUrl": "https://pbfcomics.com/wp-content/uploads/2025/09/PBF-Getting_Things_Done.png",
+      "altText": null,
+      "publishDate": "2025-09-11",
+      "sortIndex": 1757553793
+    },
+    {
+      "id": "pbf-anniversary-trip",
+      "title": "Anniversary Trip",
+      "pageUrl": "https://pbfcomics.com/comics/anniversary-trip/",
+      "imageUrl": "https://pbfcomics.com/wp-content/uploads/2025/07/PBF-Anniversary-Trip.png",
+      "altText": null,
+      "publishDate": "2025-07-08",
+      "sortIndex": 1752000229
+    },
+    {
+      "id": "pbf-bright",
+      "title": "Bright",
+      "pageUrl": "https://pbfcomics.com/comics/bright/",
+      "imageUrl": "https://pbfcomics.com/wp-content/uploads/2025/05/PBF-Bright.png",
+      "altText": null,
+      "publishDate": "2025-05-15",
+      "sortIndex": 1747325064
+    }
+  ]
+}
