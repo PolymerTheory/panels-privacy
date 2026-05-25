@@ -9,4 +9,4 @@ Panels is a comic reader app. Here's what it does with your data:
 - **Google Sign-In** (optional): if you sign in, your Google account name is used only to identify your backup. No email is stored or shared.
 - **No ads, no tracking, no analytics** beyond crash reporting (Firebase Crashlytics).
 
-To delete your data: uninstall the app, or sign out and contact ___.
+To delete your data, go to Settings → Delete My Data inside the app.
