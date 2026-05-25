@@ -287,13 +287,15 @@ def smbc_extract_comic(html: str, page_url: str) -> dict | None:
         publish_date = None
 
     return {
-        "id":          f"smbc-{slug}",
-        "title":       title,
-        "pageUrl":     page_url,
-        "imageUrl":    image_url,
-        "altText":     alt_text,
-        "publishDate": publish_date,
-        "sortIndex":   sort_index,
+        "id":           f"smbc-{slug}",
+        "title":        title,
+        "pageUrl":      page_url,
+        "imageUrl":     image_url,
+        "altText":      alt_text,
+        "publishDate":  publish_date,
+        "sortIndex":    sort_index,
+        # The "after" bonus panel is on the same page — always set so the red button appears
+        "bonusPageUrl": page_url,
     }
 
 
