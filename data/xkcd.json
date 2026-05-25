@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-05-25T19:38:38Z",
+  "updatedAt": "2026-05-25T23:00:40Z",
   "comics": [
+    {
+      "id": "xkcd-3250",
+      "title": "Flag Design",
+      "pageUrl": "https://xkcd.com/3250/",
+      "imageUrl": "https://imgs.xkcd.com/comics/flag_design.png",
+      "altText": "Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.",
+      "publishDate": "2026-05-25",
+      "sortIndex": 1779667200
+    },
     {
       "id": "xkcd-3249",
       "title": "Neutrino Project",
