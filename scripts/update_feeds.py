@@ -768,9 +768,9 @@ def update_dinosaurcomics_archive():
             try:
                 sort_index = int(datetime.strptime(publish_date, "%Y-%m-%d").replace(tzinfo=timezone.utc).timestamp())
             except ValueError:
-                sort_index = 0
+                sort_index = n * 86400  # stable ordering when date is unparseable
         else:
-            sort_index = 0
+            sort_index = n * 86400  # qwantz filenames don't embed dates; use comic # as proxy
 
         alt_m = (re.search(r'class="comic"[^>]+alt="([^"]*)"', html)
                  or re.search(r'alt="([^"]*)"[^>]+class="comic"', html))
