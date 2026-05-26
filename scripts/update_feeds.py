@@ -690,36 +690,56 @@ def update_phdcomics_archive():
         if len(html) < 500:
             continue
 
-        img_m = (re.search(r'<img[^>]+id="comic"[^>]+src="([^"]+)"', html)
-                 or re.search(r'src="([^"]+)"[^>]+id="comic"', html))
+        # PhD Comics uses unquoted attributes: src=http://... (no quotes around the URL)
+        img_m = re.search(
+            r'\bsrc=(https?://[^\s>]+phdcomics\.com/comics/archive/[^\s>]+\.(?:gif|jpg|png|jpeg))',
+            html, re.IGNORECASE,
+        )
+        if not img_m:
+            # Fallback: any img with id=comic (handles future markup changes)
+            img_m = (re.search(r'<img[^>]+\bid=["\']?comic["\']?[^>]+\bsrc=["\']?([^"\'>\s]+)', html, re.IGNORECASE)
+                     or re.search(r'\bsrc=["\']?([^"\'>\s]+)["\']?[^>]+\bid=["\']?comic["\']?(?!\w)', html, re.IGNORECASE))
         image_url = img_m.group(1) if img_m else None
         if image_url:
+            # Normalise to https
             if image_url.startswith("//"):
                 image_url = "https:" + image_url
+            elif image_url.startswith("http://"):
+                image_url = "https://" + image_url[7:]
             elif not image_url.startswith("http"):
                 image_url = "https://phdcomics.com/" + image_url.lstrip("/")
 
         title_m = re.search(r"<title>[^:]+:\s*([^<|]+)", html)
         title = title_m.group(1).strip() if title_m else f"PhD Comics #{n}"
 
-        date_m = re.search(r"(\d{2})/(\d{2})/(\d{4})", html)
-        if date_m:
-            publish_date = f"{date_m.group(3)}-{date_m.group(1)}-{date_m.group(2)}"
-            try:
-                sort_index = int(datetime.strptime(publish_date, "%Y-%m-%d").replace(tzinfo=timezone.utc).timestamp())
-            except ValueError:
-                sort_index = n * 86400
-        else:
-            publish_date = None
-            sort_index = n * 86400  # stable ordering when date is missing
+        # Extract date from the image filename.
+        # PhD Comics filenames follow phd[MMDDYY][suffix].ext (e.g. phd091004s.gif = Sep 10, 2004).
+        # Early comics (#1-~10) use 4-digit filenames with no date; those fall back to n*86400.
+        # The page body dates are news-sidebar dates, not the comic's own date, so we never
+        # scrape them from the HTML body.
+        publish_date = None
+        sort_index   = n * 86400  # fallback: stable proxy ordering
+        if image_url:
+            fn_m = re.search(r'/phd(\d{2})(\d{2})(\d{2})[a-z]*\.', image_url, re.IGNORECASE)
+            if fn_m:
+                mm, dd, yy = int(fn_m.group(1)), int(fn_m.group(2)), int(fn_m.group(3))
+                year = 2000 + yy if yy < 70 else 1900 + yy
+                if 1 <= mm <= 12 and 1 <= dd <= 31:
+                    publish_date = f"{year}-{mm:02d}-{dd:02d}"
+                    try:
+                        sort_index = int(datetime.strptime(publish_date, "%Y-%m-%d").replace(tzinfo=timezone.utc).timestamp())
+                    except ValueError:
+                        pass
 
         if existing_entry:
-            # Repair existing entry: update imageUrl, sortIndex, and other fields
-            existing_entry["imageUrl"]    = image_url
-            existing_entry["sortIndex"]   = sort_index
-            existing_entry["publishDate"] = publish_date
-            existing_entry["title"]       = title
-            updated += 1
+            if image_url:
+                # Only repair if we actually got a valid imageUrl this time
+                existing_entry["imageUrl"]    = image_url
+                existing_entry["sortIndex"]   = sort_index
+                existing_entry["publishDate"] = publish_date
+                existing_entry["title"]       = title
+                updated += 1
+            # else: page had no image — leave entry unchanged, retry next run
         else:
             comics_by_id[comic_id] = {
                 "id":          comic_id,
