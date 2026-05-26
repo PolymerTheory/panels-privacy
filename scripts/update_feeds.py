@@ -530,6 +530,252 @@ def update_abstrusegoose():
     save_feed("abstrusegoose", list(comics_by_id.values()))
 
 
+# ── PBF Archive Walk ──────────────────────────────────────────────────────────
+
+def update_pbf_archive():
+    """
+    Walk PBF (pbfcomics.com) backwards via rel=prev links to build the full archive.
+
+    Each comic's page URL is used as the canonical key (more stable than image filename).
+    Date is extracted from the WordPress upload path (uploads/YYYY/MM/).
+    Stops when it hits MAX_CONSECUTIVE_KNOWN already-known pages in a row.
+
+    Safe to run repeatedly: incremental — stops as soon as it reaches known content.
+    Initial run fetches ~230 pages; subsequent runs are nearly instantaneous.
+    """
+    print("PBF (archive walk):")
+    existing = load_existing("pbf")
+    comics_by_id = {c["id"]: c for c in existing.get("comics", [])}
+    known_page_urls = {c["pageUrl"].rstrip("/") for c in comics_by_id.values()}
+
+    url = "https://pbfcomics.com/"
+    consecutive_known = 0
+    MAX_CONSECUTIVE_KNOWN = 5
+    added = 0
+
+    while url and consecutive_known < MAX_CONSECUTIVE_KNOWN:
+        html = fetch_text(url)
+        if not html:
+            break
+
+        # Comic image — prefer lazy-load data-src, fall back to src
+        img_m = re.search(
+            r'(?:data-src|src)="(https://pbfcomics\.com/wp-content/uploads/[^"]*PBF-[^"]+\.\w+)"',
+            html, re.IGNORECASE,
+        )
+        image_url = img_m.group(1) if img_m else None
+
+        # Title — WordPress <h1> with pbf-comic-title class, or <title> fallback
+        title_m = (re.search(r'<h1[^>]*class="[^"]*pbf-comic-title[^"]*"[^>]*>\s*([^<]+)', html)
+                   or re.search(r'<title>\s*([^|<]+)', html))
+        title = (title_m.group(1).strip()
+                 .replace("Perry Bible Fellowship", "").strip(" -|")
+                 if title_m else url.rstrip("/").rsplit("/", 1)[-1])
+
+        page_url = url.rstrip("/")
+        slug = page_url.rsplit("/", 1)[-1] or "home"
+        comic_id = f"pbf-{slug}"
+
+        # Date from /uploads/YYYY/MM/ in the image URL
+        date_m = re.search(r"/uploads/(\d{4})/(\d{2})/", image_url or "")
+        if date_m:
+            y, mo = int(date_m.group(1)), int(date_m.group(2))
+            sort_index = int(datetime(y, mo, 1, tzinfo=timezone.utc).timestamp())
+            publish_date = f"{y}-{mo:02d}-01"
+        else:
+            sort_index = 0
+            publish_date = None
+
+        if page_url in known_page_urls:
+            consecutive_known += 1
+        elif image_url:
+            comics_by_id[comic_id] = {
+                "id":          comic_id,
+                "title":       title or comic_id,
+                "pageUrl":     page_url,
+                "imageUrl":    image_url,
+                "altText":     None,
+                "publishDate": publish_date,
+                "sortIndex":   sort_index,
+            }
+            known_page_urls.add(page_url)
+            added += 1
+            consecutive_known = 0
+
+        # Older comic link: <a rel="prev" href="..."> or <link rel="prev" href="...">
+        prev_m = (re.search(r'<a\b[^>]*\brel="prev"[^>]*\bhref="([^"]+)"', html)
+                  or re.search(r'\bhref="([^"]+)"[^>]*\brel="prev"', html)
+                  or re.search(r'<link[^>]+rel="prev"[^>]+href="([^"]+)"', html))
+        url = prev_m.group(1) if prev_m else None
+        time.sleep(0.15)
+
+    print(f"  Archive walk: +{added} new (total {len(comics_by_id)})")
+    save_feed("pbf", list(comics_by_id.values()))
+
+
+# ── PhD Comics Archive Walk ───────────────────────────────────────────────────
+
+def update_phdcomics_archive():
+    """
+    Walk PhD Comics (phdcomics.com) by sequential comic ID: comicid=1 .. current_max.
+
+    Incremental: starts from max known ID + 1. On a fresh run this fetches all
+    ~2000+ comics; subsequent runs only pick up new strips (Jorge Cham posts infrequently).
+    """
+    print("PhD Comics (archive walk):")
+    existing = load_existing("phdcomics")
+    comics_by_id = {c["id"]: c for c in existing.get("comics", [])}
+
+    max_known = max(
+        (int(m.group(1)) for c in comics_by_id
+         if (m := re.search(r"phdcomics-(\d+)$", c))), default=0
+    )
+
+    home = fetch_text("https://phdcomics.com/comics.php")
+    current_max = max_known
+    if home:
+        m = re.search(r"comicid=(\d+)", home)
+        if m:
+            current_max = max(current_max, int(m.group(1)))
+
+    print(f"  Known: {len(comics_by_id)}, max_id={max_known}, site_max~{current_max}")
+
+    added = 0
+    for n in range(max_known + 1, current_max + 1):
+        url = f"https://phdcomics.com/comics/archive.php?comicid={n}"
+        html = fetch_text(url)
+        if not html:
+            time.sleep(0.5)
+            continue
+
+        # Guard against empty/redirect pages
+        if len(html) < 500:
+            continue
+
+        img_m = (re.search(r'<img[^>]+id="comic"[^>]+src="([^"]+)"', html)
+                 or re.search(r'src="([^"]+)"[^>]+id="comic"', html))
+        image_url = img_m.group(1) if img_m else None
+        if image_url:
+            if image_url.startswith("//"):
+                image_url = "https:" + image_url
+            elif not image_url.startswith("http"):
+                image_url = "https://phdcomics.com/" + image_url.lstrip("/")
+
+        title_m = re.search(r"<title>[^:]+:\s*([^<|]+)", html)
+        title = title_m.group(1).strip() if title_m else f"PhD Comics #{n}"
+
+        date_m = re.search(r"(\d{2})/(\d{2})/(\d{4})", html)
+        if date_m:
+            publish_date = f"{date_m.group(3)}-{date_m.group(1)}-{date_m.group(2)}"
+            try:
+                sort_index = int(datetime.strptime(publish_date, "%Y-%m-%d").replace(tzinfo=timezone.utc).timestamp())
+            except ValueError:
+                sort_index = n * 86400
+        else:
+            publish_date = None
+            sort_index = n * 86400  # stable ordering when date is missing
+
+        comic_id = f"phdcomics-{n}"
+        if comic_id not in comics_by_id:
+            comics_by_id[comic_id] = {
+                "id":          comic_id,
+                "title":       title,
+                "pageUrl":     url,
+                "imageUrl":    image_url,
+                "altText":     None,
+                "publishDate": publish_date,
+                "sortIndex":   sort_index,
+            }
+            added += 1
+
+        if n % 100 == 0:
+            print(f"  PhD Comics: {n}/{current_max}…")
+        time.sleep(0.15)
+
+    print(f"  Archive walk: +{added} new (total {len(comics_by_id)})")
+    save_feed("phdcomics", list(comics_by_id.values()))
+
+
+# ── Dinosaur Comics Archive Walk ──────────────────────────────────────────────
+
+def update_dinosaurcomics_archive():
+    """
+    Walk Dinosaur Comics (qwantz.com) by sequential comic number: comic=1 .. current_max.
+
+    Date is extracted from the image filename (dinosaur-comics-YYYY-MM-DD.png).
+    Alt text is also extracted (Ryan North writes great hover text).
+    Incremental: starts from max known ID + 1.
+    """
+    print("Dinosaur Comics (archive walk):")
+    existing = load_existing("dinosaurcomics")
+    comics_by_id = {c["id"]: c for c in existing.get("comics", [])}
+
+    max_known = max(
+        (int(m.group(1)) for c in comics_by_id
+         if (m := re.search(r"dinosaurcomics-(\d+)$", c))), default=0
+    )
+
+    home = fetch_text("https://qwantz.com/")
+    current_max = max_known
+    if home:
+        m = re.search(r"index\.php\?comic=(\d+)", home)
+        if m:
+            current_max = max(current_max, int(m.group(1)))
+
+    print(f"  Known: {len(comics_by_id)}, max_id={max_known}, site_max~{current_max}")
+
+    added = 0
+    for n in range(max_known + 1, current_max + 1):
+        url = f"https://qwantz.com/index.php?comic={n}"
+        html = fetch_text(url)
+        if not html:
+            time.sleep(0.5)
+            continue
+
+        img_m = (re.search(r'<img[^>]+src="(comics/[^"]+)"[^>]*class="comic"', html)
+                 or re.search(r'class="comic"[^>]+src="(comics/[^"]+)"', html)
+                 or re.search(r'<img[^>]+src="(comics/dinosaur[^"]+)"', html))
+        image_url = ("https://qwantz.com/" + img_m.group(1)) if img_m else None
+
+        date_m = re.search(r"(\d{4}-\d{2}-\d{2})", img_m.group(1) if img_m else "")
+        publish_date = date_m.group(1) if date_m else None
+        if publish_date:
+            try:
+                sort_index = int(datetime.strptime(publish_date, "%Y-%m-%d").replace(tzinfo=timezone.utc).timestamp())
+            except ValueError:
+                sort_index = 0
+        else:
+            sort_index = 0
+
+        alt_m = (re.search(r'class="comic"[^>]+alt="([^"]*)"', html)
+                 or re.search(r'alt="([^"]*)"[^>]+class="comic"', html))
+        alt_text = alt_m.group(1).strip() or None if alt_m else None
+
+        title_m = re.search(r"<title>([^<]+)</title>", html)
+        title = re.sub(r"\s*[-|].*$", "", title_m.group(1).strip()).strip() if title_m else ""
+        title = title or f"Dinosaur Comics #{n}"
+
+        comic_id = f"dinosaurcomics-{n}"
+        if comic_id not in comics_by_id:
+            comics_by_id[comic_id] = {
+                "id":          comic_id,
+                "title":       title,
+                "pageUrl":     url,
+                "imageUrl":    image_url,
+                "altText":     alt_text,
+                "publishDate": publish_date,
+                "sortIndex":   sort_index,
+            }
+            added += 1
+
+        if n % 100 == 0:
+            print(f"  Dinosaur Comics: {n}/{current_max}…")
+        time.sleep(0.15)
+
+    print(f"  Archive walk: +{added} new (total {len(comics_by_id)})")
+    save_feed("dinosaurcomics", list(comics_by_id.values()))
+
+
 # ── Source registry ───────────────────────────────────────────────────────────
 
 def update_all():
@@ -539,29 +785,11 @@ def update_all():
 
     update_smbc()
 
-    update_rss_source(
-        source_id    = "pbf",
-        display_name = "Perry Bible Fellowship",
-        feed_url     = "https://pbfcomics.com/feed/",
-    )
+    update_pbf_archive()
 
-    update_rss_source(
-        source_id    = "phdcomics",
-        display_name = "PhD Comics",
-        feed_url     = "https://phdcomics.com/gradfeed.php",
-        slug_fn      = lambda item: (re.search(r'comicid=(\d+)', item["link"] or "")
-                                     or type("", (), {"group": lambda s, n: None})()).group(1)
-                                    or item["link"].rstrip("/").rsplit("/", 1)[-1],
-    )
+    update_phdcomics_archive()
 
-    update_rss_source(
-        source_id    = "dinosaurcomics",
-        display_name = "Dinosaur Comics",
-        feed_url     = "https://www.qwantz.com/rssfeed.php",
-        slug_fn      = lambda item: (re.search(r'comic=(\d+)', item["link"] or "")
-                                     or type("", (), {"group": lambda s, n: None})()).group(1)
-                                    or item["link"].rstrip("/").rsplit("/", 1)[-1],
-    )
+    update_dinosaurcomics_archive()
 
     update_rss_source(
         source_id    = "commitstrip",
@@ -584,22 +812,10 @@ if __name__ == "__main__":
         fn_map = {
             "xkcd":           update_xkcd,
             "smbc":           update_smbc,
-            "pbf":            lambda: update_rss_source("pbf", "Perry Bible Fellowship", "https://pbfcomics.com/feed/"),
+            "pbf":            update_pbf_archive,
+            "phdcomics":      update_phdcomics_archive,
+            "dinosaurcomics": update_dinosaurcomics_archive,
             "abstrusegoose":  update_abstrusegoose,
-            "phdcomics":      lambda: update_rss_source(
-                                  "phdcomics", "PhD Comics",
-                                  "https://phdcomics.com/gradfeed.php",
-                                  slug_fn=lambda item: (re.search(r'comicid=(\d+)', item["link"] or "")
-                                                        or type("", (), {"group": lambda s, n: None})()).group(1)
-                                                       or item["link"].rstrip("/").rsplit("/", 1)[-1],
-                              ),
-            "dinosaurcomics": lambda: update_rss_source(
-                                  "dinosaurcomics", "Dinosaur Comics",
-                                  "https://www.qwantz.com/rssfeed.php",
-                                  slug_fn=lambda item: (re.search(r'comic=(\d+)', item["link"] or "")
-                                                        or type("", (), {"group": lambda s, n: None})()).group(1)
-                                                       or item["link"].rstrip("/").rsplit("/", 1)[-1],
-                              ),
             "commitstrip":    lambda: update_rss_source(
                                   "commitstrip", "CommitStrip",
                                   "https://www.commitstrip.com/en/feed/",
