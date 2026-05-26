@@ -670,8 +670,35 @@ def update_phdcomics_archive():
     )
     print(f"  Known: {len(comics_by_id)}, max_id={max_known}, site_max~{current_max}, missing_image={missing_image}")
 
+    # ── Smoke-test: probe a few pages before committing to the full run ───────
+    # If the regex can't find an image on any of the probe pages, the site markup
+    # has changed and we'd waste minutes scraping 2000+ pages uselessly.
+    if missing_image > 0:
+        probe_ids = [n for n in [10, 50, 200, 500, 1000] if n <= current_max]
+        probe_hits = 0
+        print(f"  Probing {len(probe_ids)} pages to validate regex before full run…")
+        for probe_n in probe_ids:
+            probe_html = fetch_text(f"https://phdcomics.com/comics/archive.php?comicid={probe_n}")
+            if probe_html and len(probe_html) >= 500:
+                m = re.search(
+                    r'\bsrc=(https?://[^\s>]+phdcomics\.com/comics/archive/[^\s>]+\.(?:gif|jpg|png|jpeg))',
+                    probe_html, re.IGNORECASE,
+                )
+                if not m:
+                    m = (re.search(r'<img[^>]+\bid=["\']?comic["\']?[^>]+\bsrc=["\']?([^"\'>\s]+)', probe_html, re.IGNORECASE)
+                         or re.search(r'\bsrc=["\']?([^"\'>\s]+)["\']?[^>]+\bid=["\']?comic["\']?(?!\w)', probe_html, re.IGNORECASE))
+                if m:
+                    probe_hits += 1
+            time.sleep(0.3)
+        if probe_hits == 0:
+            print(f"  ERROR: image regex matched 0/{len(probe_ids)} probe pages — site markup may have changed.")
+            print(f"  Aborting without modifying phdcomics.json.")
+            return
+        print(f"  Probe OK: {probe_hits}/{len(probe_ids)} pages matched. Starting full run…")
+
     added = 0
     updated = 0
+    consecutive_misses = 0   # track regex failures during the run
     for n in range(1, current_max + 1):
         comic_id = f"phdcomics-{n}"
         existing_entry = comics_by_id.get(comic_id)
@@ -739,8 +766,15 @@ def update_phdcomics_archive():
                 existing_entry["publishDate"] = publish_date
                 existing_entry["title"]       = title
                 updated += 1
-            # else: page had no image — leave entry unchanged, retry next run
+                consecutive_misses = 0
+            else:
+                # page had no image — leave entry unchanged, retry next run
+                consecutive_misses += 1
         else:
+            if image_url:
+                consecutive_misses = 0
+            else:
+                consecutive_misses += 1
             comics_by_id[comic_id] = {
                 "id":          comic_id,
                 "title":       title,
@@ -751,6 +785,12 @@ def update_phdcomics_archive():
                 "sortIndex":   sort_index,
             }
             added += 1
+
+        # Abort early if the regex stops working mid-run (site change / rate-limit)
+        if consecutive_misses >= 20:
+            print(f"  ERROR: image regex failed on {consecutive_misses} consecutive pages (last: #{n}).")
+            print(f"  Saving {updated} repaired + {added} new comics collected so far, then aborting.")
+            break
 
         if n % 100 == 0:
             print(f"  PhD Comics: {n}/{current_max}… (+{added} new, {updated} repaired)")
