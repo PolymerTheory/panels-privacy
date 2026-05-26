@@ -644,8 +644,9 @@ def update_phdcomics_archive():
     """
     Walk PhD Comics (phdcomics.com) by sequential comic ID: comicid=1 .. current_max.
 
-    Incremental: starts from max known ID + 1. On a fresh run this fetches all
-    ~2000+ comics; subsequent runs only pick up new strips (Jorge Cham posts infrequently).
+    Incremental: skips entries that already have imageUrl set. This means a fresh
+    run (or a repair run after a botched scrape) will fill in missing image URLs
+    without re-fetching comics that are already complete.
     """
     print("PhD Comics (archive walk):")
     existing = load_existing("phdcomics")
@@ -663,10 +664,22 @@ def update_phdcomics_archive():
         if m:
             current_max = max(current_max, int(m.group(1)))
 
-    print(f"  Known: {len(comics_by_id)}, max_id={max_known}, site_max~{current_max}")
+    # Count how many existing entries are missing imageUrl (need repair)
+    missing_image = sum(
+        1 for c in comics_by_id.values() if not c.get("imageUrl")
+    )
+    print(f"  Known: {len(comics_by_id)}, max_id={max_known}, site_max~{current_max}, missing_image={missing_image}")
 
     added = 0
-    for n in range(max_known + 1, current_max + 1):
+    updated = 0
+    for n in range(1, current_max + 1):
+        comic_id = f"phdcomics-{n}"
+        existing_entry = comics_by_id.get(comic_id)
+
+        # Skip entries that already have a valid imageUrl
+        if existing_entry and existing_entry.get("imageUrl"):
+            continue
+
         url = f"https://phdcomics.com/comics/archive.php?comicid={n}"
         html = fetch_text(url)
         if not html:
@@ -700,8 +713,14 @@ def update_phdcomics_archive():
             publish_date = None
             sort_index = n * 86400  # stable ordering when date is missing
 
-        comic_id = f"phdcomics-{n}"
-        if comic_id not in comics_by_id:
+        if existing_entry:
+            # Repair existing entry: update imageUrl, sortIndex, and other fields
+            existing_entry["imageUrl"]    = image_url
+            existing_entry["sortIndex"]   = sort_index
+            existing_entry["publishDate"] = publish_date
+            existing_entry["title"]       = title
+            updated += 1
+        else:
             comics_by_id[comic_id] = {
                 "id":          comic_id,
                 "title":       title,
@@ -714,10 +733,10 @@ def update_phdcomics_archive():
             added += 1
 
         if n % 100 == 0:
-            print(f"  PhD Comics: {n}/{current_max}…")
+            print(f"  PhD Comics: {n}/{current_max}… (+{added} new, {updated} repaired)")
         time.sleep(0.15)
 
-    print(f"  Archive walk: +{added} new (total {len(comics_by_id)})")
+    print(f"  Archive walk: +{added} new, {updated} repaired (total {len(comics_by_id)})")
     save_feed("phdcomics", list(comics_by_id.values()))
 
 
