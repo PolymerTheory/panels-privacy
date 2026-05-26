@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-05-26T13:23:46Z",
+  "updatedAt": "2026-05-26T15:24:09Z",
   "comics": [
+    {
+      "id": "smbc-gates-2",
+      "title": "Saturday Morning Breakfast Cereal - Gates",
+      "pageUrl": "https://www.smbc-comics.com/comic/gates-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1779672771-20260526 - edit.png",
+      "altText": null,
+      "publishDate": "2026-05-26",
+      "sortIndex": 1779808800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/gates-2"
+    },
     {
       "id": "smbc-bonzo",
       "title": "Saturday Morning Breakfast Cereal - Bonzo",
