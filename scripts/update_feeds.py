@@ -536,12 +536,14 @@ def update_pbf_archive():
     """
     Walk PBF (pbfcomics.com) backwards via rel=prev links to build the full archive.
 
-    Each comic's page URL is used as the canonical key (more stable than image filename).
-    Date is extracted from the WordPress upload path (uploads/YYYY/MM/).
-    Stops when it hits MAX_CONSECUTIVE_KNOWN already-known pages in a row.
+    Each comic page URL is the canonical key. Date is extracted from /uploads/YYYY/MM/.
+    Stops after MAX_CONSECUTIVE_KNOWN known pages in a row.
 
-    Safe to run repeatedly: incremental — stops as soon as it reaches known content.
-    Initial run fetches ~230 pages; subsequent runs are nearly instantaneous.
+    Image extraction uses the div#comic container so it works on both old-style
+    single-quoted lazy-load images (PBF001-Stiff_Breeze.png) and new-style double-quoted
+    ones (PBF-Endgame.png), without accidentally picking up sidebar thumbnails.
+
+    Safe to run repeatedly — pass an empty comics list to force a full re-crawl.
     """
     print("PBF (archive walk):")
     existing = load_existing("pbf")
@@ -558,25 +560,47 @@ def update_pbf_archive():
         if not html:
             break
 
-        # Comic image — prefer lazy-load data-src, fall back to src
-        img_m = re.search(
-            r'(?:data-src|src)="(https://pbfcomics\.com/wp-content/uploads/[^"]*PBF-[^"]+\.\w+)"',
-            html, re.IGNORECASE,
-        )
-        image_url = img_m.group(1) if img_m else None
+        # ── Comic image extraction ────────────────────────────────────────────
+        # Primary: search inside div#comic (avoids sidebar thumbnails entirely).
+        # The img uses data-src (lazy-load) or src, with single or double quotes.
+        # Old numbered comics (PBF001-…) use single quotes; new ones use double.
+        image_url = None
+        comic_marker = re.search(r'id=["\']comic["\']', html)
+        if comic_marker:
+            search_area = html[comic_marker.start():comic_marker.start() + 3000]
+            img_m = re.search(
+                r'(?:data-src|src)=["\']([^"\']+/wp-content/uploads/\d{4}/\d{2}/[^"\']+\.(?:png|jpg|gif|webp))["\']',
+                search_area, re.IGNORECASE,
+            )
+            if img_m and "thumb" not in img_m.group(1).lower():
+                image_url = img_m.group(1)
 
-        # Title — WordPress <h1> with pbf-comic-title class, or <title> fallback
+        # Fallback: scan full page but require YYYY/MM path and exclude thumbs
+        if not image_url:
+            img_m = re.search(
+                r'(?:data-src|src)=["\']([^"\']+/wp-content/uploads/\d{4}/\d{2}/PBF[^"\']+\.(?:png|jpg|gif|webp))["\']',
+                html, re.IGNORECASE,
+            )
+            if img_m and "thumb" not in img_m.group(1).lower():
+                image_url = img_m.group(1)
+
+        # ── Title ─────────────────────────────────────────────────────────────
         title_m = (re.search(r'<h1[^>]*class="[^"]*pbf-comic-title[^"]*"[^>]*>\s*([^<]+)', html)
                    or re.search(r'<title>\s*([^|<]+)', html))
         title = (title_m.group(1).strip()
                  .replace("Perry Bible Fellowship", "").strip(" -|")
-                 if title_m else url.rstrip("/").rsplit("/", 1)[-1])
+                 if title_m else "")
 
+        # ── ID / page URL ─────────────────────────────────────────────────────
         page_url = url.rstrip("/")
-        slug = page_url.rsplit("/", 1)[-1] or "home"
+        slug = page_url.rsplit("/", 1)[-1]
+        # For the homepage (slug is empty or the domain), fall back to image stem
+        if not slug or "." in slug:
+            import os as _os
+            slug = _os.path.splitext(_os.path.basename(image_url or ""))[0] or "home"
         comic_id = f"pbf-{slug}"
 
-        # Date from /uploads/YYYY/MM/ in the image URL
+        # ── Date ──────────────────────────────────────────────────────────────
         date_m = re.search(r"/uploads/(\d{4})/(\d{2})/", image_url or "")
         if date_m:
             y, mo = int(date_m.group(1)), int(date_m.group(2))
@@ -586,6 +610,7 @@ def update_pbf_archive():
             sort_index = 0
             publish_date = None
 
+        # ── Store / skip ──────────────────────────────────────────────────────
         if page_url in known_page_urls:
             consecutive_known += 1
         elif image_url:
@@ -602,10 +627,10 @@ def update_pbf_archive():
             added += 1
             consecutive_known = 0
 
-        # Older comic link: <a rel="prev" href="..."> or <link rel="prev" href="...">
-        prev_m = (re.search(r'<a\b[^>]*\brel="prev"[^>]*\bhref="([^"]+)"', html)
-                  or re.search(r'\bhref="([^"]+)"[^>]*\brel="prev"', html)
-                  or re.search(r'<link[^>]+rel="prev"[^>]+href="([^"]+)"', html))
+        # ── Next (older) page ─────────────────────────────────────────────────
+        prev_m = (re.search(r'<a\b[^>]*\brel=["\']prev["\'][^>]*\bhref=["\']([^"\']+)["\']', html)
+                  or re.search(r'\bhref=["\']([^"\']+)["\'][^>]*\brel=["\']prev["\']', html)
+                  or re.search(r'<link[^>]+rel=["\']prev["\'][^>]+href=["\']([^"\']+)["\']', html))
         url = prev_m.group(1) if prev_m else None
         time.sleep(0.15)
 
