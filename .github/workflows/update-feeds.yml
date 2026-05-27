@@ -42,5 +42,17 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: update comic feeds [skip ci]"
-            git push
+            # Retry push up to 3 times — GitHub occasionally returns
+            # "fatal error in commit_refs" due to transient backend issues.
+            for attempt in 1 2 3; do
+              echo "Push attempt $attempt…"
+              git push && break
+              if [ $attempt -lt 3 ]; then
+                echo "Push failed, retrying in 30s…"
+                sleep 30
+              else
+                echo "Push failed after 3 attempts"
+                exit 1
+              fi
+            done
           fi
