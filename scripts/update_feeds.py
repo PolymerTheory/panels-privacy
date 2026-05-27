@@ -395,7 +395,9 @@ def update_smbc():
         missing_date = [c for c in comics_by_id.values()
                         if not c.get("publishDate") and c.get("pageUrl")]
         if missing_date:
-            print(f"  SMBC_REPAIR_DATES: fetching dates for {len(missing_date)} comics…")
+            CHECKPOINT = 500   # save to disk every N comics so kill+restart is safe
+            print(f"  SMBC_REPAIR_DATES: fetching dates for {len(missing_date)} comics "
+                  f"(checkpoint every {CHECKPOINT})…")
             for i, comic in enumerate(missing_date, 1):
                 html = fetch_text(comic["pageUrl"])
                 if html:
@@ -403,7 +405,10 @@ def update_smbc():
                     if full and full.get("publishDate"):
                         comic["publishDate"] = full["publishDate"]
                         comic["sortIndex"]   = full["sortIndex"] or comic["sortIndex"]
-                if i % 200 == 0:
+                if i % CHECKPOINT == 0:
+                    save_feed("smbc", list(comics_by_id.values()))
+                    print(f"    …{i}/{len(missing_date)} dates fetched (checkpoint saved)")
+                elif i % 100 == 0:
                     print(f"    …{i}/{len(missing_date)} dates fetched")
                 time.sleep(0.25)
             print(f"  Date repair complete")
