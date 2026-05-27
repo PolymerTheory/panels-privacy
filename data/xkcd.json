@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-05-27T20:14:07Z",
+  "updatedAt": "2026-05-27T23:16:21Z",
   "comics": [
+    {
+      "id": "xkcd-3251",
+      "title": "Time Machine Conversation",
+      "pageUrl": "https://xkcd.com/3251/",
+      "imageUrl": "https://imgs.xkcd.com/comics/time_machine_conversation.png",
+      "altText": "It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.",
+      "publishDate": "2026-05-27",
+      "sortIndex": 1779840000
+    },
     {
       "id": "xkcd-3250",
       "title": "Flag Design",
