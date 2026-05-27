@@ -304,7 +304,9 @@ def update_smbc():
     existing = load_existing("smbc")
     comics_by_id = {c["id"]: c for c in existing.get("comics", [])}
 
-    # First fetch latest from RSS (fast, gets recent comics with correct data)
+    # First fetch latest from RSS (fast, gets recent comics with correct data).
+    # NOTE: the RSS feed does NOT include the img title attribute that SMBC uses
+    # as alt text — those are filled in by the page-fetch repair pass below.
     rss_text = fetch_text("https://www.smbc-comics.com/comic/rss")
     if rss_text:
         items = parse_rss(rss_text)
@@ -318,12 +320,16 @@ def update_smbc():
             epoch = rfc822_to_epoch(item["pubDate"])
             img = extract_img_src(item["description"]) or extract_img_src(item["contentEncoded"])
             alt = extract_img_title(item["description"])
+            # Strip the redundant "Saturday Morning Breakfast Cereal - " prefix so
+            # RSS-sourced titles are consistent with archive-sourced short titles.
+            rss_title = item["title"] or ""
+            short_title = re.sub(r"^Saturday Morning Breakfast Cereal\s*[-–]\s*", "", rss_title).strip()
             if comic_id not in comics_by_id:
                 if epoch is None:
                     continue
                 comics_by_id[comic_id] = {
                     "id":          comic_id,
-                    "title":       item["title"],
+                    "title":       short_title or rss_title,
                     "pageUrl":     link,
                     "imageUrl":    img,
                     "altText":     alt,
@@ -333,6 +339,25 @@ def update_smbc():
                 }
                 rss_added += 1
         print(f"  RSS: +{rss_added} new comics")
+
+    # ── Alt-text repair pass ──────────────────────────────────────────────────
+    # RSS doesn't carry the img title attribute (= SMBC alt text). Fetch the page
+    # for any comic that is still missing it and fill it in. Self-healing: once
+    # every comic has altText this list is empty and the loop is a no-op.
+    missing_alt = [c for c in comics_by_id.values() if not c.get("altText") and c.get("pageUrl")]
+    if missing_alt:
+        print(f"  Fetching pages for {len(missing_alt)} comics missing altText…")
+        for comic in missing_alt:
+            html = fetch_text(comic["pageUrl"])
+            if html:
+                full = smbc_extract_comic(html, comic["pageUrl"])
+                if full:
+                    if full.get("altText"):
+                        comic["altText"] = full["altText"]
+                    # Also backfill imageUrl if we only had an RSS thumbnail
+                    if full.get("imageUrl") and not comic.get("imageUrl"):
+                        comic["imageUrl"] = full["imageUrl"]
+            time.sleep(0.25)
 
     # Walk backwards to fill archive gaps
     # Find the oldest comic currently in DB to start walking from
