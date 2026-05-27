@@ -275,16 +275,28 @@ def smbc_extract_comic(html: str, page_url: str) -> dict | None:
     title = page_title.group(1).strip() if page_title else page_url.rstrip("/").rsplit("/", 1)[-1]
 
     slug = page_url.rstrip("/").rsplit("/", 1)[-1]
-    # Parse date slug (YYYY-MM-DD) for sortIndex
-    date_m = re.search(r"(\d{4})-(\d{2})-(\d{2})", slug)
-    if date_m:
-        y, mo, d = int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3))
-        sort_index = int(datetime(y, mo, d, tzinfo=timezone.utc).timestamp())
-        publish_date = f"{y}-{mo:02d}-{d:02d}"
-    else:
-        # Non-date slug — use a stable hash offset so order is preserved across runs
-        sort_index = None
-        publish_date = None
+
+    # Try the page's cc-publishtime element first ("Posted Month D, YYYY at …")
+    pub_m = re.search(r'cc-publishtime[^>]*>\s*Posted\s+(\w+ \d{1,2},?\s+\d{4})', html)
+    if pub_m:
+        try:
+            dt = datetime.strptime(pub_m.group(1).replace(",", "").strip(), "%B %d %Y")
+            publish_date = dt.strftime("%Y-%m-%d")
+            sort_index   = int(dt.replace(tzinfo=timezone.utc).timestamp())
+        except ValueError:
+            pub_m = None
+
+    if not pub_m:
+        # Fall back to date slug (YYYY-MM-DD) — used by very early SMBC strips
+        date_m = re.search(r"(\d{4})-(\d{2})-(\d{2})", slug)
+        if date_m:
+            y, mo, d = int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3))
+            sort_index   = int(datetime(y, mo, d, tzinfo=timezone.utc).timestamp())
+            publish_date = f"{y}-{mo:02d}-{d:02d}"
+        else:
+            # Non-date slug with no page date — sortIndex filled in by caller
+            sort_index   = None
+            publish_date = None
 
     return {
         "id":           f"smbc-{slug}",
@@ -340,6 +352,20 @@ def update_smbc():
                 rss_added += 1
         print(f"  RSS: +{rss_added} new comics")
 
+    # ── Title normalisation (no network) ────────────────────────────────────────
+    # Strip "Saturday Morning Breakfast Cereal - " prefix from existing entries;
+    # RSS-sourced titles had this prefix but archive-sourced ones don't.
+    SMBC_PREFIX = re.compile(r"^Saturday Morning Breakfast Cereal\s*[-–]\s*", re.IGNORECASE)
+    normalised = 0
+    for comic in comics_by_id.values():
+        t = comic.get("title", "")
+        stripped = SMBC_PREFIX.sub("", t).strip()
+        if stripped != t:
+            comic["title"] = stripped
+            normalised += 1
+    if normalised:
+        print(f"  Normalised {normalised} titles (stripped SMBC prefix)")
+
     # ── Alt-text repair pass ──────────────────────────────────────────────────
     # RSS doesn't carry the img title attribute (= SMBC alt text). Fetch the page
     # for any comic that is still missing it and fill it in. Self-healing: once
@@ -354,10 +380,33 @@ def update_smbc():
                 if full:
                     if full.get("altText"):
                         comic["altText"] = full["altText"]
-                    # Also backfill imageUrl if we only had an RSS thumbnail
                     if full.get("imageUrl") and not comic.get("imageUrl"):
                         comic["imageUrl"] = full["imageUrl"]
+                    if full.get("publishDate") and not comic.get("publishDate"):
+                        comic["publishDate"] = full["publishDate"]
+                        comic["sortIndex"]   = full["sortIndex"] or comic["sortIndex"]
             time.sleep(0.25)
+
+    # ── Date repair pass (opt-in, slow) ──────────────────────────────────────
+    # Set SMBC_REPAIR_DATES=1 to fetch pages for all comics missing publishDate.
+    # ~7700 pages at 0.25 s each takes roughly 30-40 minutes. Run once to backfill
+    # the archive; after that this list stays empty and the env var has no effect.
+    if os.environ.get("SMBC_REPAIR_DATES"):
+        missing_date = [c for c in comics_by_id.values()
+                        if not c.get("publishDate") and c.get("pageUrl")]
+        if missing_date:
+            print(f"  SMBC_REPAIR_DATES: fetching dates for {len(missing_date)} comics…")
+            for i, comic in enumerate(missing_date, 1):
+                html = fetch_text(comic["pageUrl"])
+                if html:
+                    full = smbc_extract_comic(html, comic["pageUrl"])
+                    if full and full.get("publishDate"):
+                        comic["publishDate"] = full["publishDate"]
+                        comic["sortIndex"]   = full["sortIndex"] or comic["sortIndex"]
+                if i % 200 == 0:
+                    print(f"    …{i}/{len(missing_date)} dates fetched")
+                time.sleep(0.25)
+            print(f"  Date repair complete")
 
     # Walk backwards to fill archive gaps
     # Find the oldest comic currently in DB to start walking from
