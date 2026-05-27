@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-05-27T12:20:27Z",
+  "updatedAt": "2026-05-27T17:18:32Z",
   "comics": [
+    {
+      "id": "smbc-ai-17",
+      "title": "AI",
+      "pageUrl": "https://www.smbc-comics.com/comic/ai-17",
+      "imageUrl": "https://www.smbc-comics.com/comics/1779842282-20260527 - edit.png",
+      "altText": "This is one of those jokes you make, then realize people in the field have probably been saying it verbatim for 20 years.",
+      "publishDate": "2026-05-27",
+      "sortIndex": 1779895200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/ai-17"
+    },
     {
       "id": "smbc-gates-2",
       "title": "Gates",
