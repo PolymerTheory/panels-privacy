@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-05-28T11:40:50Z",
+  "updatedAt": "2026-05-28T15:51:35Z",
   "comics": [
+    {
+      "id": "smbc-meaning-8",
+      "title": "Meaning",
+      "pageUrl": "https://www.smbc-comics.com/comic/meaning-8",
+      "imageUrl": "https://www.smbc-comics.com/comics/1779842329-20260528.png",
+      "altText": "Having a purpose was your first mistake. Wanting it to have meaning was a mental health calamity.",
+      "publishDate": "2026-05-28",
+      "sortIndex": 1779981600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/meaning-8"
+    },
     {
       "id": "smbc-ai-17",
       "title": "AI",
