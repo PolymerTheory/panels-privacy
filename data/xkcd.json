@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-05-29T15:27:05Z",
+  "updatedAt": "2026-05-29T18:31:46Z",
   "comics": [
+    {
+      "id": "xkcd-3252",
+      "title": "Ancestral Genomes",
+      "pageUrl": "https://xkcd.com/3252/",
+      "imageUrl": "https://imgs.xkcd.com/comics/ancestral_genomes.png",
+      "altText": "SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.",
+      "publishDate": "2026-05-29",
+      "sortIndex": 1780012800
+    },
     {
       "id": "xkcd-3251",
       "title": "Time Machine Conversation",
