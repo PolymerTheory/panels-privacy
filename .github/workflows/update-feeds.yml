@@ -11,6 +11,10 @@ on:
         description: 'Max SMBC pages to walk per run (use 2000+ for initial backfill)'
         required: false
         default: '200'
+      commitstrip_max_fetch:
+        description: 'Max CommitStrip post pages to fetch per run (use 2000+ to fill archive quickly)'
+        required: false
+        default: '200'
 
 jobs:
   update:
@@ -30,6 +34,7 @@ jobs:
       - name: Update comic feeds
         env:
           SMBC_MAX_WALK: ${{ github.event.inputs.smbc_max_walk || '200' }}
+          COMMITSTRIP_MAX_FETCH: ${{ github.event.inputs.commitstrip_max_fetch || '200' }}
         run: python scripts/update_feeds.py
 
       - name: Commit and push updated data
