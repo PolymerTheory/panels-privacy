@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-05-29T11:28:29Z",
+  "updatedAt": "2026-05-29T15:27:06Z",
   "comics": [
+    {
+      "id": "smbc-debunking",
+      "title": "Debunking",
+      "pageUrl": "https://www.smbc-comics.com/comic/debunking",
+      "imageUrl": "https://www.smbc-comics.com/comics/1779933574-20260529.png",
+      "altText": "I find cheese really good for when I have a stomach-wants-cheese, or when my head feels a little cheese-wanty.",
+      "publishDate": "2026-05-29",
+      "sortIndex": 1780068000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/debunking"
+    },
     {
       "id": "smbc-meaning-8",
       "title": "Meaning",
