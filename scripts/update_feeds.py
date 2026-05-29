@@ -959,6 +959,168 @@ def update_dinosaurcomics_archive():
     save_feed("dinosaurcomics", list(comics_by_id.values()))
 
 
+# ── CommitStrip ───────────────────────────────────────────────────────────────
+
+def update_commitstrip():
+    """
+    CommitStrip English edition.
+
+    The RSS feed at /en/feed/ only returns the last ~10 items and stopped updating
+    after Dec 2022 (CommitStrip stopped publishing English content after that date;
+    the French edition is still active). The archive walk below captures the full
+    English back-catalogue (~200+ strips dating to ~2012).
+
+    Strategy:
+    1. Walk paginated English archive pages (/en/ and /en/page/N/) newest-first.
+    2. Collect post URLs from each page (listing page thumbnails are template images,
+       not the real comics — every new post requires a visit to the post page itself).
+    3. Stop after MAX_CONSECUTIVE_KNOWN_PAGES pages contain only already-known URLs.
+    """
+    print("CommitStrip (archive walk):")
+    existing = load_existing("commitstrip")
+    comics_by_id = {c["id"]: c for c in existing.get("comics", [])}
+
+    MAX_CONSECUTIVE_KNOWN = 3   # stop after N pages with nothing new
+    MAX_PAGES             = 300  # safety ceiling
+    MAX_POST_FETCH        = int(os.environ.get("COMMITSTRIP_MAX_FETCH", "200"))
+
+    page              = 1
+    consecutive_known = 0
+    added             = 0
+    post_fetches      = 0   # throttle individual-page fetches per run
+
+    while page <= MAX_PAGES and consecutive_known < MAX_CONSECUTIVE_KNOWN:
+        archive_url = ("https://www.commitstrip.com/en/"
+                       if page == 1
+                       else f"https://www.commitstrip.com/en/page/{page}/")
+        html = fetch_text(archive_url)
+        if not html:
+            print(f"  WARN: could not fetch page {page}, stopping")
+            break
+
+        # Collect unique date-format post URLs from the archive listing page.
+        # Each URL looks like https://www.commitstrip.com/YYYY/MM/DD/slug/
+        raw_links = re.findall(
+            r'href="(https://www\.commitstrip\.com/(\d{4}/\d{2}/\d{2}/[^/"]+)/?")',
+            html,
+        )
+        # Deduplicate (links appear twice: thumbnail and title)
+        seen = set()
+        post_urls = []
+        for full_url, path in raw_links:
+            if path not in seen:
+                seen.add(path)
+                post_urls.append((full_url.rstrip("/"), path))
+
+        if not post_urls:
+            print(f"  No date-format links on page {page}, stopping")
+            break
+
+        new_on_page = 0
+        for post_url, url_path in post_urls:
+            slug     = url_path.rsplit("/", 1)[-1]
+            comic_id = f"commitstrip-{slug}"
+            if comic_id in comics_by_id:
+                continue
+
+            # Date from URL path
+            date_m = re.match(r"(\d{4})/(\d{2})/(\d{2})/", url_path)
+            if not date_m:
+                continue
+            y, mo, d   = int(date_m.group(1)), int(date_m.group(2)), int(date_m.group(3))
+            pub_date   = f"{y}-{mo:02d}-{d:02d}"
+            sort_index = int(datetime(y, mo, d, tzinfo=timezone.utc).timestamp())
+
+            if post_fetches >= MAX_POST_FETCH:
+                # Store a placeholder so the URL is known; repair pass fills imageUrl later.
+                comics_by_id[comic_id] = {
+                    "id": comic_id, "title": slug.replace("-", " ").title(),
+                    "pageUrl": post_url, "imageUrl": None, "altText": None,
+                    "publishDate": pub_date, "sortIndex": sort_index,
+                }
+                new_on_page += 1
+                added += 1
+                continue
+
+            # Fetch individual post page for the real comic image.
+            post_html = fetch_text(post_url)
+            post_fetches += 1
+            image_url = title = None
+            if post_html:
+                img_m = re.search(
+                    r'src="(https://www\.commitstrip\.com/wp-content/uploads/[^"]+\.(?:jpg|jpeg|png|gif|webp))"',
+                    post_html, re.IGNORECASE,
+                )
+                image_url = img_m.group(1) if img_m else None
+                # Title: <h1 class="entry-title"> or <title> stripped of site name
+                t_m = (re.search(r'<h1[^>]*class="[^"]*entry-title[^"]*"[^>]*>\s*([^<]+)', post_html)
+                       or re.search(r'<title>([^|<]+)', post_html))
+                if t_m:
+                    title = re.sub(r"\s*\|\s*.*$", "", t_m.group(1).strip()).strip()
+            if not title:
+                title = slug.replace("-", " ").title()
+
+            # Skip posts with no image (e.g. the 2024 "Hello World" announcement)
+            if not image_url:
+                continue
+
+            comics_by_id[comic_id] = {
+                "id":          comic_id,
+                "title":       title,
+                "pageUrl":     post_url,
+                "imageUrl":    image_url,
+                "altText":     None,
+                "publishDate": pub_date,
+                "sortIndex":   sort_index,
+            }
+            new_on_page += 1
+            added += 1
+            time.sleep(0.25)
+
+        if new_on_page == 0:
+            consecutive_known += 1
+        else:
+            consecutive_known = 0
+
+        if page % 5 == 0 or new_on_page > 0:
+            print(f"  Page {page}: +{new_on_page} (total {len(comics_by_id)}, fetches={post_fetches})")
+        page += 1
+        time.sleep(0.3)
+
+    print(f"  Archive walk done. Added {added} new comics (total {len(comics_by_id)}).")
+
+    # ── Repair pass: fill in imageUrl for placeholder entries ─────────────────
+    # Comics discovered by URL-walk but not yet fetched have imageUrl=None.
+    # Fetch up to MAX_POST_FETCH of them (oldest-first so the archive fills
+    # in gradually with each daily run).
+    need_image = sorted(
+        [c for c in comics_by_id.values() if not c.get("imageUrl")],
+        key=lambda c: c.get("sortIndex", 0),
+    )
+    remaining_fetches = max(0, MAX_POST_FETCH - post_fetches)
+    repaired = 0
+    for comic in need_image[:remaining_fetches]:
+        post_html = fetch_text(comic["pageUrl"])
+        if post_html:
+            img_m = re.search(
+                r'src="(https://www\.commitstrip\.com/wp-content/uploads/[^"]+\.(?:jpg|jpeg|png|gif|webp))"',
+                post_html, re.IGNORECASE,
+            )
+            if img_m:
+                comics_by_id[comic["id"]]["imageUrl"] = img_m.group(1)
+                repaired += 1
+            t_m = re.search(r'<h1[^>]*class="[^"]*entry-title[^"]*"[^>]*>\s*([^<]+)', post_html)
+            if t_m:
+                comics_by_id[comic["id"]]["title"] = t_m.group(1).strip()
+        time.sleep(0.25)
+    if repaired:
+        print(f"  Repair pass: filled imageUrl for {repaired} comics ({len(need_image) - repaired} still pending)")
+    if need_image:
+        print(f"  Note: {len(need_image) - repaired} comics still lack images — will fill on future runs")
+
+    save_feed("commitstrip", list(comics_by_id.values()))
+
+
 # ── Source registry ───────────────────────────────────────────────────────────
 
 def update_all():
@@ -974,13 +1136,7 @@ def update_all():
 
     update_dinosaurcomics_archive()
 
-    update_rss_source(
-        source_id    = "commitstrip",
-        display_name = "CommitStrip",
-        feed_url     = "https://www.commitstrip.com/en/feed/",
-        image_fn     = lambda item: (extract_img_src(item["contentEncoded"])
-                                     or extract_img_src(item["description"])),
-    )
+    update_commitstrip()
 
     update_abstrusegoose()
 
@@ -999,12 +1155,7 @@ if __name__ == "__main__":
             "phdcomics":      update_phdcomics_archive,
             "dinosaurcomics": update_dinosaurcomics_archive,
             "abstrusegoose":  update_abstrusegoose,
-            "commitstrip":    lambda: update_rss_source(
-                                  "commitstrip", "CommitStrip",
-                                  "https://www.commitstrip.com/en/feed/",
-                                  image_fn=lambda item: (extract_img_src(item["contentEncoded"])
-                                                         or extract_img_src(item["description"])),
-                              ),
+            "commitstrip":    update_commitstrip,
         }
         for s in sources:
             if s in fn_map:
