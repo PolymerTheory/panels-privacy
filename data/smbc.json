@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-05-30T15:05:38Z",
+  "updatedAt": "2026-05-30T17:02:53Z",
   "comics": [
+    {
+      "id": "smbc-free-4",
+      "title": "Free",
+      "pageUrl": "https://www.smbc-comics.com/comic/free-4",
+      "imageUrl": "https://www.smbc-comics.com/comics/1780099563-20260530.png",
+      "altText": "Really should've asked about the ship label before he got in.",
+      "publishDate": "2026-05-30",
+      "sortIndex": 1780154400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/free-4"
+    },
     {
       "id": "smbc-debunking",
       "title": "Debunking",
