@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-01T09:30:58Z",
+  "updatedAt": "2026-06-01T15:56:14Z",
   "comics": [
+    {
+      "id": "smbc-shorthand",
+      "title": "Shorthand",
+      "pageUrl": "https://www.smbc-comics.com/comic/shorthand",
+      "imageUrl": "https://www.smbc-comics.com/comics/1780279940-20260601.png",
+      "altText": "SMBC will be at Davos this year, if someone at Davos looks at it on their phone.",
+      "publishDate": "2026-06-01",
+      "sortIndex": 1780327800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/shorthand"
+    },
     {
       "id": "smbc-prophecy",
       "title": "Prophecy",
