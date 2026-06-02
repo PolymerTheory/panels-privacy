@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-02T14:01:31Z",
+  "updatedAt": "2026-06-02T19:40:06Z",
   "comics": [
+    {
+      "id": "smbc-marshmallow",
+      "title": "Marshmallow",
+      "pageUrl": "https://www.smbc-comics.com/comic/marshmallow",
+      "imageUrl": "https://www.smbc-comics.com/comics/1780286961-20260602.png",
+      "altText": "A note of appreciation to the 4 of you who started laughing on the first panel.",
+      "publishDate": "2026-06-02",
+      "sortIndex": 1780413600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/marshmallow"
+    },
     {
       "id": "smbc-shorthand",
       "title": "Shorthand",
