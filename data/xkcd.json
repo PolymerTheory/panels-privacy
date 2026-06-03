@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-06-03T19:48:30Z",
+  "updatedAt": "2026-06-03T22:27:41Z",
   "comics": [
+    {
+      "id": "xkcd-3254",
+      "title": "Detector",
+      "pageUrl": "https://xkcd.com/3254/",
+      "imageUrl": "https://imgs.xkcd.com/comics/detector.png",
+      "altText": "No other experiment has a lower false negative rate.",
+      "publishDate": "2026-06-03",
+      "sortIndex": 1780444800
+    },
     {
       "id": "xkcd-3253",
       "title": "Sunbeam",
