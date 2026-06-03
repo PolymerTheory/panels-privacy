@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-03T14:28:11Z",
+  "updatedAt": "2026-06-03T19:48:30Z",
   "comics": [
+    {
+      "id": "smbc-speech",
+      "title": "Speech",
+      "pageUrl": "https://www.smbc-comics.com/comic/speech",
+      "imageUrl": "https://www.smbc-comics.com/comics/1780287005-20260603.png",
+      "altText": "Just a reminder that I am available for commencement speeches, birthdays, and Bar Mitzvahs.",
+      "publishDate": "2026-06-03",
+      "sortIndex": 1780500000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/speech"
+    },
     {
       "id": "smbc-marshmallow",
       "title": "Marshmallow",
