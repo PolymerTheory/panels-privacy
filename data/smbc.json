@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-04T12:44:00Z",
+  "updatedAt": "2026-06-04T16:53:44Z",
   "comics": [
+    {
+      "id": "smbc-gland",
+      "title": "Gland",
+      "pageUrl": "https://www.smbc-comics.com/comic/gland",
+      "imageUrl": "https://www.smbc-comics.com/comics/1780287055-20260604.png",
+      "altText": "If you disagree, find me a recent source specifically proving Descartes wrong.",
+      "publishDate": "2026-06-04",
+      "sortIndex": 1780586400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/gland"
+    },
     {
       "id": "smbc-speech",
       "title": "Speech",
