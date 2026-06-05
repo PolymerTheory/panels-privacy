@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-06-05T12:36:31Z",
+  "updatedAt": "2026-06-05T16:29:10Z",
   "comics": [
+    {
+      "id": "xkcd-3255",
+      "title": "Planetary Science",
+      "pageUrl": "https://xkcd.com/3255/",
+      "imageUrl": "https://imgs.xkcd.com/comics/planetary_science.png",
+      "altText": "The research was overseen by the Institutional Review Board, which is what I named my surfboard.",
+      "publishDate": "2026-06-05",
+      "sortIndex": 1780617600
+    },
     {
       "id": "xkcd-3254",
       "title": "Detector",

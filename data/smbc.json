@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-05T12:36:32Z",
+  "updatedAt": "2026-06-05T16:29:11Z",
   "comics": [
+    {
+      "id": "smbc-proof-5",
+      "title": "Proof",
+      "pageUrl": "https://www.smbc-comics.com/comic/proof-5",
+      "imageUrl": "https://www.smbc-comics.com/comics/1780608554-20260605.png",
+      "altText": "This sort of thing is why I will likely never write fantasy.",
+      "publishDate": "2026-06-05",
+      "sortIndex": 1780672800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/proof-5"
+    },
     {
       "id": "smbc-gland",
       "title": "Gland",
