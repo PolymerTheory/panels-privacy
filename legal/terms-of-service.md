@@ -22,7 +22,7 @@ All comic content displayed in the App is the property of the respective creator
 
 Viewing a comic in the App may count as a pageview on the creator's own site (comics opened in browser do count; cached images viewed offline do not).
 
-If you are a creator and want your content removed, email **polymertheory@gmail.com** and it will be removed promptly.
+If you are a creator and want your content removed, email **tueftlerapps@gmail.com** and it will be removed promptly.
 
 ---
 
@@ -52,4 +52,4 @@ These Terms are governed by the laws of the jurisdiction in which I reside, with
 
 ## Contact
 
-Russell Spencer — **polymertheory@gmail.com**
+Russell Spencer — **tueftlerapps@gmail.com**

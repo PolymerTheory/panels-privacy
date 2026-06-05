@@ -34,22 +34,11 @@ Panels is a webcomic reader app developed by Russell Spencer ("I", "me"). This p
 
 ---
 
-## Optional ads
-
-Panels includes a **voluntary, user-initiated** rewarded ad (Settings → Support → Watch an Ad). No ads play automatically. If you choose to watch an ad:
-
-- Google AdMob may use your device's advertising ID to serve the ad.
-- You can reset or opt out of personalised ads in your device settings (Settings → Google → Ads).
-- If you never tap "Watch an Ad", AdMob collects nothing from you.
-
----
-
 ## Third-party services
 
 | Service | Purpose | Privacy policy |
 |---------|---------|----------------|
 | **Firebase (Google)** | Authentication, cloud read-state sync, crash reporting | [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy) |
-| **Google AdMob** | Optional voluntary rewarded ads (user-initiated only) | [policies.google.com/privacy](https://policies.google.com/privacy) |
 | **GitHub** | Hosts the comic manifest files the app downloads | [docs.github.com/site-policy/privacy-policies](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) |
 
 Comic images are loaded directly from the original publishers' servers (smbc-comics.com, xkcd.com, etc.). Those requests are subject to each publisher's own privacy policy.
@@ -74,10 +63,10 @@ You can:
 
 ## Comic content
 
-Panels displays comics via RSS feeds and publicly available image URLs. All comic content is the property of the respective creators. If you are a creator and would like your work removed from this app, please contact **polymertheory@gmail.com** and it will be done promptly.
+Panels displays comics via RSS feeds and publicly available image URLs. All comic content is the property of the respective creators. If you are a creator and would like your work removed from this app, please contact **tueftlerapps@gmail.com** and it will be done promptly.
 
 ---
 
 ## Contact
 
-Russell Spencer — **polymertheory@gmail.com**
+Russell Spencer — **tueftlerapps@gmail.com**
