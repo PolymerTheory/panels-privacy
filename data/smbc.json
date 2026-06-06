@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-06T15:14:29Z",
+  "updatedAt": "2026-06-06T17:12:54Z",
   "comics": [
+    {
+      "id": "smbc-yes",
+      "title": "Yes",
+      "pageUrl": "https://www.smbc-comics.com/comic/yes",
+      "imageUrl": "https://www.smbc-comics.com/comics/1780608620-20260606.png",
+      "altText": "This is one of those jokes where the moment I finish drawing it I realize someone has probably already done it. But then, given that this is recursive, there's at least some layer of Doom on Doom that has not yet been achieved.",
+      "publishDate": "2026-06-06",
+      "sortIndex": 1780759200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/yes"
+    },
     {
       "id": "smbc-proof-5",
       "title": "Proof",
