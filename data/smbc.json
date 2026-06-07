@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-07T13:50:10Z",
+  "updatedAt": "2026-06-07T15:23:40Z",
   "comics": [
+    {
+      "id": "smbc-consciousness-10",
+      "title": "Consciousness",
+      "pageUrl": "https://www.smbc-comics.com/comic/consciousness-10",
+      "imageUrl": "https://www.smbc-comics.com/comics/1780787893-20260607.png",
+      "altText": "From an idea in Aguera y Arcas' recent book What is Intelligence?",
+      "publishDate": "2026-06-07",
+      "sortIndex": 1780845600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/consciousness-10"
+    },
     {
       "id": "smbc-yes",
       "title": "Yes",
