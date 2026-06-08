@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-08T14:06:09Z",
+  "updatedAt": "2026-06-08T18:25:11Z",
   "comics": [
+    {
+      "id": "smbc-gold-5",
+      "title": "Gold",
+      "pageUrl": "https://www.smbc-comics.com/comic/gold-5",
+      "imageUrl": "https://www.smbc-comics.com/comics/1780787940-20260608.png",
+      "altText": "I contend that SMBC remains the comic with the funniest jokes about commodity pricing.",
+      "publishDate": "2026-06-08",
+      "sortIndex": 1780932000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/gold-5"
+    },
     {
       "id": "smbc-consciousness-10",
       "title": "Consciousness",
