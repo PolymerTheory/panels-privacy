@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-06-08T21:49:08Z",
+  "updatedAt": "2026-06-08T23:11:21Z",
   "comics": [
+    {
+      "id": "xkcd-3256",
+      "title": "Nostalgia Content",
+      "pageUrl": "https://xkcd.com/3256/",
+      "imageUrl": "https://imgs.xkcd.com/comics/nostalgia_content.png",
+      "altText": "Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.",
+      "publishDate": "2026-06-08",
+      "sortIndex": 1780876800
+    },
     {
       "id": "xkcd-3255",
       "title": "Planetary Science",
