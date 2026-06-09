@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-09T14:48:30Z",
+  "updatedAt": "2026-06-09T18:03:53Z",
   "comics": [
+    {
+      "id": "smbc-creative-3",
+      "title": "Creative",
+      "pageUrl": "https://www.smbc-comics.com/comic/creative-3",
+      "imageUrl": "https://www.smbc-comics.com/comics/1780969351-20260609.png",
+      "altText": "C'monnnnn hatemail.",
+      "publishDate": "2026-06-09",
+      "sortIndex": 1781018400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/creative-3"
+    },
     {
       "id": "smbc-gold-5",
       "title": "Gold",
