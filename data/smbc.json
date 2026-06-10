@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-10T12:56:36Z",
+  "updatedAt": "2026-06-10T16:57:56Z",
   "comics": [
+    {
+      "id": "smbc-surveil",
+      "title": "Surveil",
+      "pageUrl": "https://www.smbc-comics.com/comic/surveil",
+      "imageUrl": "https://www.smbc-comics.com/comics/1780969413-20260610.png",
+      "altText": "I don't know if it's happened yet, but you can bet in the next few years someone will start fitting people out to collect sex training data.",
+      "publishDate": "2026-06-10",
+      "sortIndex": 1781104800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/surveil"
+    },
     {
       "id": "smbc-creative-3",
       "title": "Creative",
