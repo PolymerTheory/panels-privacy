@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-06-10T23:24:34Z",
+  "updatedAt": "2026-06-11T03:53:17Z",
   "comics": [
+    {
+      "id": "xkcd-3257",
+      "title": "Beam Pipe",
+      "pageUrl": "https://xkcd.com/3257/",
+      "imageUrl": "https://imgs.xkcd.com/comics/beam_pipe.png",
+      "altText": "'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom",
+      "publishDate": "2026-06-10",
+      "sortIndex": 1781049600
+    },
     {
       "id": "xkcd-3256",
       "title": "Nostalgia Content",
