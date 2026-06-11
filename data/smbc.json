@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-11T13:58:16Z",
+  "updatedAt": "2026-06-11T17:39:38Z",
   "comics": [
+    {
+      "id": "smbc-huh-2",
+      "title": "Huh",
+      "pageUrl": "https://www.smbc-comics.com/comic/huh-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1780969506-20260611.png",
+      "altText": "Once I realized this, all those inept AI laundry-folding videos became hilarious.",
+      "publishDate": "2026-06-11",
+      "sortIndex": 1781191200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/huh-2"
+    },
     {
       "id": "smbc-surveil",
       "title": "Surveil",
