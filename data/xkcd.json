@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-06-12T20:09:14Z",
+  "updatedAt": "2026-06-12T23:15:47Z",
   "comics": [
+    {
+      "id": "xkcd-3258",
+      "title": "Plate Flip",
+      "pageUrl": "https://xkcd.com/3258/",
+      "imageUrl": "https://imgs.xkcd.com/comics/plate_flip.png",
+      "altText": "It's great for exfoliating your skin, bones, houses, cities, landscape, etc.",
+      "publishDate": "2026-06-12",
+      "sortIndex": 1781222400
+    },
     {
       "id": "xkcd-3257",
       "title": "Beam Pipe",
