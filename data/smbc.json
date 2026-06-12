@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-12T12:53:20Z",
+  "updatedAt": "2026-06-12T16:43:39Z",
   "comics": [
+    {
+      "id": "smbc-time-7",
+      "title": "Time",
+      "pageUrl": "https://www.smbc-comics.com/comic/time-7",
+      "imageUrl": "https://www.smbc-comics.com/comics/1781057264-20260612.png",
+      "altText": "All-loving God my ass.",
+      "publishDate": "2026-06-12",
+      "sortIndex": 1781277600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/time-7"
+    },
     {
       "id": "smbc-huh-2",
       "title": "Huh",
