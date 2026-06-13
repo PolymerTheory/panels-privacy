@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-13T13:57:45Z",
+  "updatedAt": "2026-06-13T15:43:55Z",
   "comics": [
+    {
+      "id": "smbc-summary-2",
+      "title": "Summary",
+      "pageUrl": "https://www.smbc-comics.com/comic/summary-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1781314254-20260613.png",
+      "altText": "I posted this as a joke about a script I shouldn't do, and bluesky economists pressured me into making it.",
+      "publishDate": "2026-06-13",
+      "sortIndex": 1781364000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/summary-2"
+    },
     {
       "id": "smbc-time-7",
       "title": "Time",
