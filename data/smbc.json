@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-13T15:43:55Z",
+  "updatedAt": "2026-06-13T17:21:30Z",
   "comics": [
+    {
+      "id": "smbc-upcoming-book-signings",
+      "title": "Upcoming Book Signings",
+      "pageUrl": "https://www.smbc-comics.com/comic/upcoming-book-signings",
+      "imageUrl": "https://www.smbc-comics.com/comics/1781226681-comicplaceholder-small.png",
+      "altText": "Mark your calendars!",
+      "publishDate": "2026-06-13",
+      "sortIndex": 1781366400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/upcoming-book-signings"
+    },
     {
       "id": "smbc-summary-2",
       "title": "Summary",
