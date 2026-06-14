@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-14T14:10:59Z",
+  "updatedAt": "2026-06-14T17:20:07Z",
   "comics": [
+    {
+      "id": "smbc-proof-6",
+      "title": "Proof",
+      "pageUrl": "https://www.smbc-comics.com/comic/proof-6",
+      "imageUrl": "https://www.smbc-comics.com/comics/1781226968-20260614.png",
+      "altText": "The notebook has feedback from a nurse, cowboy, and plumber.",
+      "publishDate": "2026-06-14",
+      "sortIndex": 1781450400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/proof-6"
+    },
     {
       "id": "smbc-upcoming-book-signings",
       "title": "Upcoming Book Signings",
