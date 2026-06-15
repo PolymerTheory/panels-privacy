@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-15T12:11:14Z",
+  "updatedAt": "2026-06-15T18:24:57Z",
   "comics": [
+    {
+      "id": "smbc-duck-2",
+      "title": "Duck",
+      "pageUrl": "https://www.smbc-comics.com/comic/duck-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1781314358-20260615.png",
+      "altText": "Idiot drawn to look like me because I am the idiot.",
+      "publishDate": "2026-06-15",
+      "sortIndex": 1781536800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/duck-2"
+    },
     {
       "id": "smbc-proof-6",
       "title": "Proof",

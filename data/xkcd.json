@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-06-15T12:11:14Z",
+  "updatedAt": "2026-06-15T18:24:57Z",
   "comics": [
+    {
+      "id": "xkcd-3259",
+      "title": "Tethys",
+      "pageUrl": "https://xkcd.com/3259/",
+      "imageUrl": "https://imgs.xkcd.com/comics/tethys.png",
+      "altText": "In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.",
+      "publishDate": "2026-06-15",
+      "sortIndex": 1781481600
+    },
     {
       "id": "xkcd-3258",
       "title": "Plate Flip",
