@@ -1,7 +1,27 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-16T09:32:48Z",
+  "updatedAt": "2026-06-16T15:09:59Z",
   "comics": [
+    {
+      "id": "smbc-sawyer",
+      "title": "Sawyer",
+      "pageUrl": "https://www.smbc-comics.com/comic/sawyer",
+      "imageUrl": "https://www.smbc-comics.com/comics/1781614380-sawyerlaunchletter.png",
+      "altText": "<3<3<3",
+      "publishDate": "2026-06-16",
+      "sortIndex": 1781614484,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/sawyer"
+    },
+    {
+      "id": "smbc-bunker",
+      "title": "Bunker",
+      "pageUrl": "https://www.smbc-comics.com/comic/bunker",
+      "imageUrl": "https://www.smbc-comics.com/comics/1781314410-20260616.png",
+      "altText": "We're going to build a recursively self-improving god-like machine intelligence that wants to destroy humanity, but it's OK because I have a hole.",
+      "publishDate": "2026-06-16",
+      "sortIndex": 1781614380,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/bunker"
+    },
     {
       "id": "smbc-duck-2",
       "title": "Duck",
