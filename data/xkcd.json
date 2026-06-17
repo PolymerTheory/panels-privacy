@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-06-17T15:26:04Z",
+  "updatedAt": "2026-06-17T18:14:45Z",
   "comics": [
+    {
+      "id": "xkcd-3260",
+      "title": "Messi",
+      "pageUrl": "https://xkcd.com/3260/",
+      "imageUrl": "https://imgs.xkcd.com/comics/messi.png",
+      "altText": "Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.",
+      "publishDate": "2026-06-17",
+      "sortIndex": 1781654400
+    },
     {
       "id": "xkcd-3259",
       "title": "Tethys",

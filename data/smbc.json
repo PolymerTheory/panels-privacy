@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-17T15:26:04Z",
+  "updatedAt": "2026-06-17T18:14:46Z",
   "comics": [
+    {
+      "id": "smbc-deal",
+      "title": "Deal",
+      "pageUrl": "https://www.smbc-comics.com/comic/deal",
+      "imageUrl": "https://www.smbc-comics.com/comics/1781661979-20260617.png",
+      "altText": "Later the drug dealer gets nostalgic about how in the 90s economy you could give out the first one free.",
+      "publishDate": "2026-06-17",
+      "sortIndex": 1781710200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/deal"
+    },
     {
       "id": "smbc-sawyer",
       "title": "Sawyer",
