@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-18T12:50:36Z",
+  "updatedAt": "2026-06-18T16:55:49Z",
   "comics": [
+    {
+      "id": "smbc-spooky-3",
+      "title": "Spooky",
+      "pageUrl": "https://www.smbc-comics.com/comic/spooky-3",
+      "imageUrl": "https://www.smbc-comics.com/comics/1781743636-20260618.png",
+      "altText": "Kelly told me this one was too weird, so please make it popular so she has to roll her eyes.",
+      "publishDate": "2026-06-18",
+      "sortIndex": 1781796000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/spooky-3"
+    },
     {
       "id": "smbc-deal",
       "title": "Deal",
