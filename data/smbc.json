@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-19T15:16:16Z",
+  "updatedAt": "2026-06-19T17:56:30Z",
   "comics": [
+    {
+      "id": "smbc-gwas",
+      "title": "GWAS",
+      "pageUrl": "https://www.smbc-comics.com/comic/gwas",
+      "imageUrl": "https://www.smbc-comics.com/comics/1781743854-20260619.png",
+      "altText": "Unfortunately, so much mitochondrial energy flowed to the dong that all the cognitive stats selected for got blocked.",
+      "publishDate": "2026-06-19",
+      "sortIndex": 1781882400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/gwas"
+    },
     {
       "id": "smbc-spooky-3",
       "title": "Spooky",
