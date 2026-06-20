@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-20T14:00:40Z",
+  "updatedAt": "2026-06-20T17:25:45Z",
   "comics": [
+    {
+      "id": "smbc-ubi",
+      "title": "UBI",
+      "pageUrl": "https://www.smbc-comics.com/comic/ubi",
+      "imageUrl": "https://www.smbc-comics.com/comics/1781743829-20260620.png",
+      "altText": "The good news is everyone has job security in the post-scarcity world.",
+      "publishDate": "2026-06-20",
+      "sortIndex": 1781968800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/ubi"
+    },
     {
       "id": "smbc-gwas",
       "title": "GWAS",
