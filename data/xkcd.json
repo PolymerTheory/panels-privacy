@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-06-19T22:56:13Z",
+  "updatedAt": "2026-06-20T03:34:36Z",
   "comics": [
+    {
+      "id": "xkcd-3261",
+      "title": "Side Effect",
+      "pageUrl": "https://xkcd.com/3261/",
+      "imageUrl": "https://imgs.xkcd.com/comics/side_effect.png",
+      "altText": "Brace yourself--the chirp gets pretty weird.",
+      "publishDate": "2026-06-19",
+      "sortIndex": 1781827200
+    },
     {
       "id": "xkcd-3260",
       "title": "Messi",
