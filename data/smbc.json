@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-21T12:09:36Z",
+  "updatedAt": "2026-06-21T15:49:51Z",
   "comics": [
+    {
+      "id": "smbc-ginge",
+      "title": "Ginge",
+      "pageUrl": "https://www.smbc-comics.com/comic/ginge",
+      "imageUrl": "https://www.smbc-comics.com/comics/1781743897-20260621.png",
+      "altText": "They later left because the flesh-trees made everyone uncomfortable.",
+      "publishDate": "2026-06-21",
+      "sortIndex": 1782055200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/ginge"
+    },
     {
       "id": "smbc-ubi",
       "title": "UBI",
