@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-22T11:51:36Z",
+  "updatedAt": "2026-06-22T16:54:34Z",
   "comics": [
+    {
+      "id": "smbc-she",
+      "title": "She",
+      "pageUrl": "https://www.smbc-comics.com/comic/she",
+      "imageUrl": "https://www.smbc-comics.com/comics/1782076832-20260622-edit.png",
+      "altText": "There should be a movie that, at the end, says that the lesson is that it is good to have the type of friend and kinship network favored by recently evolved East African apes.",
+      "publishDate": "2026-06-22",
+      "sortIndex": 1782141600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/she"
+    },
     {
       "id": "smbc-ginge",
       "title": "Ginge",
