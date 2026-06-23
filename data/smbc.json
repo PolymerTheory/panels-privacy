@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-23T14:45:59Z",
+  "updatedAt": "2026-06-23T17:52:51Z",
   "comics": [
+    {
+      "id": "smbc-spiraling",
+      "title": "Spiraling",
+      "pageUrl": "https://www.smbc-comics.com/comic/spiraling",
+      "imageUrl": "https://www.smbc-comics.com/comics/1782077132-20260623.png",
+      "altText": "We were both spiraling, kids, when we found each other.",
+      "publishDate": "2026-06-23",
+      "sortIndex": 1782228000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/spiraling"
+    },
     {
       "id": "smbc-she",
       "title": "She",
