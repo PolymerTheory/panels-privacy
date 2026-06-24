@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-24T14:27:01Z",
+  "updatedAt": "2026-06-24T17:53:31Z",
   "comics": [
+    {
+      "id": "smbc-comedy-2",
+      "title": "Comedy",
+      "pageUrl": "https://www.smbc-comics.com/comic/comedy-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1782175517-20260624.png",
+      "altText": "This is officially a dare, standup comics.",
+      "publishDate": "2026-06-24",
+      "sortIndex": 1782315000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/comedy-2"
+    },
     {
       "id": "smbc-spiraling",
       "title": "Spiraling",
