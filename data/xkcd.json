@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-06-25T03:27:44Z",
+  "updatedAt": "2026-06-25T07:41:03Z",
   "comics": [
+    {
+      "id": "xkcd-3263",
+      "title": "Baryon Asymmetry",
+      "pageUrl": "https://xkcd.com/3263/",
+      "imageUrl": "https://imgs.xkcd.com/comics/baryon_asymmetry.png",
+      "altText": "Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?",
+      "publishDate": "2026-06-24",
+      "sortIndex": 1782259200
+    },
     {
       "id": "xkcd-3262",
       "title": "Sports Commentary",
