@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-25T14:30:45Z",
+  "updatedAt": "2026-06-25T18:08:41Z",
   "comics": [
+    {
+      "id": "smbc-agency",
+      "title": "Agency",
+      "pageUrl": "https://www.smbc-comics.com/comic/agency",
+      "imageUrl": "https://www.smbc-comics.com/comics/1782175610-20260625.png",
+      "altText": "I've been doing jokes about robots being better than humans for 20 years, but just lately I got told I do too much AI propaganda.",
+      "publishDate": "2026-06-25",
+      "sortIndex": 1782401400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/agency"
+    },
     {
       "id": "smbc-comedy-2",
       "title": "Comedy",
