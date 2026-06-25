@@ -69,4 +69,4 @@ Panels displays comics via RSS feeds and publicly available image URLs. All comi
 
 ## Contact
 
-Russell Spencer — **tueftlerapps@gmail.com**
+**tueftlerapps@gmail.com**
