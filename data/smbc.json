@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-26T14:22:09Z",
+  "updatedAt": "2026-06-26T17:46:37Z",
   "comics": [
+    {
+      "id": "smbc-milgram",
+      "title": "Milgram",
+      "pageUrl": "https://www.smbc-comics.com/comic/milgram",
+      "imageUrl": "https://www.smbc-comics.com/comics/1782416796-20260626 - Copy.png",
+      "altText": "Come across this while reading Melanie Mitchell's delightful book, Complexity - A Guided Tour.",
+      "publishDate": "2026-06-26",
+      "sortIndex": 1782487200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/milgram"
+    },
     {
       "id": "smbc-agency",
       "title": "Agency",
