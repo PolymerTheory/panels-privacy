@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-27T15:14:28Z",
+  "updatedAt": "2026-06-27T17:08:47Z",
   "comics": [
+    {
+      "id": "smbc-mission",
+      "title": "Mission",
+      "pageUrl": "https://www.smbc-comics.com/comic/mission",
+      "imageUrl": "https://www.smbc-comics.com/comics/1782416846-20260627.png",
+      "altText": "Created after watching my CTO brother struggle to make an iPhone transmit live video to a Windows desktop for over an hour.",
+      "publishDate": "2026-06-27",
+      "sortIndex": 1782573600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/mission"
+    },
     {
       "id": "smbc-milgram",
       "title": "Milgram",
