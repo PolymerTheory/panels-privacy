@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-28T15:16:50Z",
+  "updatedAt": "2026-06-28T17:09:59Z",
   "comics": [
+    {
+      "id": "smbc-protocol-2",
+      "title": "Protocol",
+      "pageUrl": "https://www.smbc-comics.com/comic/protocol-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1782416890-20260628.png",
+      "altText": "This is why there are tons of fantasy books about alchemists and NOTHING about chemists.",
+      "publishDate": "2026-06-28",
+      "sortIndex": 1782660000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/protocol-2"
+    },
     {
       "id": "smbc-mission",
       "title": "Mission",
