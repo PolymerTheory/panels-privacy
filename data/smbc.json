@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-29T14:02:45Z",
+  "updatedAt": "2026-06-29T18:11:54Z",
   "comics": [
+    {
+      "id": "smbc-minos",
+      "title": "Minos",
+      "pageUrl": "https://www.smbc-comics.com/comic/minos",
+      "imageUrl": "https://www.smbc-comics.com/comics/1782692310-20260629.png",
+      "altText": "Pretty sure Midas would've gotten plenty of action too.",
+      "publishDate": "2026-06-29",
+      "sortIndex": 1782746400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/minos"
+    },
     {
       "id": "smbc-protocol-2",
       "title": "Protocol",

@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-06-29T14:02:45Z",
+  "updatedAt": "2026-06-29T18:11:53Z",
   "comics": [
+    {
+      "id": "xkcd-3265",
+      "title": "Asteroid Threat",
+      "pageUrl": "https://xkcd.com/3265/",
+      "imageUrl": "https://imgs.xkcd.com/comics/asteroid_threat.png",
+      "altText": "Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.",
+      "publishDate": "2026-06-29",
+      "sortIndex": 1782691200
+    },
     {
       "id": "xkcd-3264",
       "title": "720 Ollie",
