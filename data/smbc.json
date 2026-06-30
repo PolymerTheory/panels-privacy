@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-06-30T14:16:02Z",
+  "updatedAt": "2026-06-30T17:52:11Z",
   "comics": [
+    {
+      "id": "smbc-uncanny-3",
+      "title": "Uncanny",
+      "pageUrl": "https://www.smbc-comics.com/comic/uncanny-3",
+      "imageUrl": "https://www.smbc-comics.com/comics/1782692356-20260630.png",
+      "altText": "It's not an uncanny valley, it's an uncanny mountain that you're afraid to climb.",
+      "publishDate": "2026-06-30",
+      "sortIndex": 1782832800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/uncanny-3"
+    },
     {
       "id": "smbc-minos",
       "title": "Minos",
