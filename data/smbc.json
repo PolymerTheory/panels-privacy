@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-02T13:57:26Z",
+  "updatedAt": "2026-07-02T16:06:41Z",
   "comics": [
+    {
+      "id": "smbc-adult-3",
+      "title": "Adult",
+      "pageUrl": "https://www.smbc-comics.com/comic/adult-3",
+      "imageUrl": "https://www.smbc-comics.com/comics/1782855084-20260702.png",
+      "altText": "They still scrape parmesan on it till you say when, though.",
+      "publishDate": "2026-07-02",
+      "sortIndex": 1783005600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/adult-3"
+    },
     {
       "id": "smbc-app-6",
       "title": "App",
