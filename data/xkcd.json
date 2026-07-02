@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-07-01T23:14:00Z",
+  "updatedAt": "2026-07-02T03:28:42Z",
   "comics": [
+    {
+      "id": "xkcd-3266",
+      "title": "Holes",
+      "pageUrl": "https://xkcd.com/3266/",
+      "imageUrl": "https://imgs.xkcd.com/comics/holes.png",
+      "altText": "If you're thinking 'Wait, a giant crystal cave in Mexico? What's that?' then I'm SO excited for the image search you're about to do.",
+      "publishDate": "2026-07-01",
+      "sortIndex": 1782864000
+    },
     {
       "id": "xkcd-3265",
       "title": "Asteroid Threat",
