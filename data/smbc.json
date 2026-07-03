@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-03T14:01:00Z",
+  "updatedAt": "2026-07-03T17:24:18Z",
   "comics": [
+    {
+      "id": "smbc-percent-2",
+      "title": "Percent",
+      "pageUrl": "https://www.smbc-comics.com/comic/percent-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1783019248-20260703.png",
+      "altText": "Later he starts adding quest items she doesn't want, but feels compelled to earn.",
+      "publishDate": "2026-07-03",
+      "sortIndex": 1783092000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/percent-2"
+    },
     {
       "id": "smbc-adult-3",
       "title": "Adult",
