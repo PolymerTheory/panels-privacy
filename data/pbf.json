@@ -1,11 +1,20 @@
 {
   "source": "pbf",
-  "updatedAt": "2026-07-03T17:24:20Z",
+  "updatedAt": "2026-07-03T19:19:52Z",
   "comics": [
     {
       "id": "pbf-PBF-Endgame",
       "title": "Endgame",
       "pageUrl": "https://pbfcomics.com",
+      "imageUrl": "https://pbfcomics.com/wp-content/uploads/2026/04/PBF-Endgame.png",
+      "altText": null,
+      "publishDate": "2026-04-01",
+      "sortIndex": 1775001600
+    },
+    {
+      "id": "pbf-endgame",
+      "title": "Endgame",
+      "pageUrl": "https://pbfcomics.com/comics/endgame",
       "imageUrl": "https://pbfcomics.com/wp-content/uploads/2026/04/PBF-Endgame.png",
       "altText": null,
       "publishDate": "2026-04-01",
