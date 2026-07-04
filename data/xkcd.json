@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-07-04T02:47:29Z",
+  "updatedAt": "2026-07-04T06:45:47Z",
   "comics": [
+    {
+      "id": "xkcd-3267",
+      "title": "Types of Tornado Alert",
+      "pageUrl": "https://xkcd.com/3267/",
+      "imageUrl": "https://imgs.xkcd.com/comics/types_of_tornado_alert.png",
+      "altText": "I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.",
+      "publishDate": "2026-07-03",
+      "sortIndex": 1783036800
+    },
     {
       "id": "xkcd-3266",
       "title": "Holes",
