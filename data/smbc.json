@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-05T15:11:46Z",
+  "updatedAt": "2026-07-05T17:08:27Z",
   "comics": [
+    {
+      "id": "smbc-memory-4",
+      "title": "Memory",
+      "pageUrl": "https://www.smbc-comics.com/comic/memory-4",
+      "imageUrl": "https://www.smbc-comics.com/comics/1783226823-20260705.png",
+      "altText": "The sad part is he just keeps pressing the button till be random luck the robot confesses.",
+      "publishDate": "2026-07-05",
+      "sortIndex": 1783264800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/memory-4"
+    },
     {
       "id": "smbc-typical",
       "title": "Typical",
