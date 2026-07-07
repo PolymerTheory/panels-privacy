@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-07-06T23:05:38Z",
+  "updatedAt": "2026-07-07T02:57:58Z",
   "comics": [
+    {
+      "id": "xkcd-3268",
+      "title": "Offside",
+      "pageUrl": "https://xkcd.com/3268/",
+      "imageUrl": "https://imgs.xkcd.com/comics/offside.png",
+      "altText": "The arbiter gave my knight a red card for capturing with cleats up :(",
+      "publishDate": "2026-07-06",
+      "sortIndex": 1783296000
+    },
     {
       "id": "xkcd-3267",
       "title": "Types of Tornado Alert",
