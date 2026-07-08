@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-08T14:02:03Z",
+  "updatedAt": "2026-07-08T17:27:46Z",
   "comics": [
+    {
+      "id": "smbc-four-3",
+      "title": "Four",
+      "pageUrl": "https://www.smbc-comics.com/comic/four-3",
+      "imageUrl": "https://www.smbc-comics.com/comics/1783368346-20260708.png",
+      "altText": "Readers are encouraged to try to beat this, and fail.",
+      "publishDate": "2026-07-08",
+      "sortIndex": 1783524000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/four-3"
+    },
     {
       "id": "smbc-turing",
       "title": "Turing",
