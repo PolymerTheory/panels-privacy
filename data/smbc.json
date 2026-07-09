@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-09T14:55:49Z",
+  "updatedAt": "2026-07-09T17:54:24Z",
   "comics": [
+    {
+      "id": "smbc-zod",
+      "title": "Zod",
+      "pageUrl": "https://www.smbc-comics.com/comic/zod",
+      "imageUrl": "https://www.smbc-comics.com/comics/1783535367-20260709.png",
+      "altText": "I recently rewatched the 80s Superman movies, and it's really unclear to me why they will not Kneel Before Zod.",
+      "publishDate": "2026-07-09",
+      "sortIndex": 1783610400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/zod"
+    },
     {
       "id": "smbc-four-3",
       "title": "Four",
