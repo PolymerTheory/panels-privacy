@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-10T14:23:05Z",
+  "updatedAt": "2026-07-10T17:46:30Z",
   "comics": [
+    {
+      "id": "smbc-final",
+      "title": "Final",
+      "pageUrl": "https://www.smbc-comics.com/comic/final",
+      "imageUrl": "https://www.smbc-comics.com/comics/1783647793-20260710.png",
+      "altText": "It ends up okay when she two-hands his butt right before the world is annihilated.",
+      "publishDate": "2026-07-10",
+      "sortIndex": 1783696800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/final"
+    },
     {
       "id": "smbc-zod",
       "title": "Zod",
