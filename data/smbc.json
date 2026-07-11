@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-11T14:51:54Z",
+  "updatedAt": "2026-07-11T16:56:27Z",
   "comics": [
+    {
+      "id": "smbc-dadalus",
+      "title": "Dadalus",
+      "pageUrl": "https://www.smbc-comics.com/comic/dadalus",
+      "imageUrl": "https://www.smbc-comics.com/comics/1783714459-20260711.png",
+      "altText": "Disobey God and get drowned immediately is really more of an Abrahamic religion thing.",
+      "publishDate": "2026-07-11",
+      "sortIndex": 1783783200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/dadalus"
+    },
     {
       "id": "smbc-final",
       "title": "Final",
