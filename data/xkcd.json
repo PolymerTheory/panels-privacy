@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-07-14T02:23:24Z",
+  "updatedAt": "2026-07-14T06:09:25Z",
   "comics": [
+    {
+      "id": "xkcd-3271",
+      "title": "The Princess and the Pea",
+      "pageUrl": "https://xkcd.com/3271/",
+      "imageUrl": "https://imgs.xkcd.com/comics/the_princess_and_the_pea.png",
+      "altText": "Once we've fully explored this space, we can start varying the number of princesses.",
+      "publishDate": "2026-07-13",
+      "sortIndex": 1783900800
+    },
     {
       "id": "xkcd-3270",
       "title": "Toasting Marshmallows",
