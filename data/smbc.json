@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-14T15:22:23Z",
+  "updatedAt": "2026-07-14T17:13:02Z",
   "comics": [
+    {
+      "id": "smbc-communication-2",
+      "title": "Communication",
+      "pageUrl": "https://www.smbc-comics.com/comic/communication-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1783978253-20260714.png",
+      "altText": "They can also communicate via quantum superposition, but it's way less interesting.",
+      "publishDate": "2026-07-14",
+      "sortIndex": 1784043000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/communication-2"
+    },
     {
       "id": "smbc-evolution-10",
       "title": "Evolution",
