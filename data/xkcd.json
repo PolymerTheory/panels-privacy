@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-07-15T22:56:52Z",
+  "updatedAt": "2026-07-16T02:28:51Z",
   "comics": [
+    {
+      "id": "xkcd-3272",
+      "title": "Time Change",
+      "pageUrl": "https://xkcd.com/3272/",
+      "imageUrl": "https://imgs.xkcd.com/comics/time_change.png",
+      "altText": "All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.",
+      "publishDate": "2026-07-15",
+      "sortIndex": 1784073600
+    },
     {
       "id": "xkcd-3271",
       "title": "The Princess and the Pea",
