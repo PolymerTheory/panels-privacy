@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-16T13:46:52Z",
+  "updatedAt": "2026-07-16T15:37:51Z",
   "comics": [
+    {
+      "id": "smbc-misery",
+      "title": "Misery",
+      "pageUrl": "https://www.smbc-comics.com/comic/misery",
+      "imageUrl": "https://www.smbc-comics.com/comics/1784157176-20260716.png",
+      "altText": "Genuinely, putting artists in charge of depicting the good life has been a catastrophe.",
+      "publishDate": "2026-07-16",
+      "sortIndex": 1784215200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/misery"
+    },
     {
       "id": "smbc-pac",
       "title": "Pac",
