@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-17T15:11:31Z",
+  "updatedAt": "2026-07-17T17:09:45Z",
   "comics": [
+    {
+      "id": "smbc-subjective",
+      "title": "Subjective",
+      "pageUrl": "https://www.smbc-comics.com/comic/subjective",
+      "imageUrl": "https://www.smbc-comics.com/comics/1784250964-20260718.png",
+      "altText": "You occasionally, by accident, get fleeting glimpses of the truth, and then you ascribe them to muses and fairies and shit.",
+      "publishDate": "2026-07-17",
+      "sortIndex": 1784301600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/subjective"
+    },
     {
       "id": "smbc-misery",
       "title": "Misery",
