@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-18T14:51:00Z",
+  "updatedAt": "2026-07-18T16:56:39Z",
   "comics": [
+    {
+      "id": "smbc-list-2",
+      "title": "List",
+      "pageUrl": "https://www.smbc-comics.com/comic/list-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1784305213-20260718.png",
+      "altText": "What a strange coincidence the way this keeps happening every day.",
+      "publishDate": "2026-07-18",
+      "sortIndex": 1784388000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/list-2"
+    },
     {
       "id": "smbc-subjective",
       "title": "Subjective",
