@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-19T14:53:54Z",
+  "updatedAt": "2026-07-19T16:56:37Z",
   "comics": [
+    {
+      "id": "smbc-poof",
+      "title": "Poof",
+      "pageUrl": "https://www.smbc-comics.com/comic/poof",
+      "imageUrl": "https://www.smbc-comics.com/comics/1784307717-20260719-edit.png",
+      "altText": "Actually, things were at their best during the last year of my life when I had no responsibilities.",
+      "publishDate": "2026-07-19",
+      "sortIndex": 1784474400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/poof"
+    },
     {
       "id": "smbc-list-2",
       "title": "List",
