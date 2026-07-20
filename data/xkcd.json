@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-07-20T14:02:38Z",
+  "updatedAt": "2026-07-20T18:00:56Z",
   "comics": [
+    {
+      "id": "xkcd-3274",
+      "title": "Arthurian Connector",
+      "pageUrl": "https://xkcd.com/3274/",
+      "imageUrl": "https://imgs.xkcd.com/comics/arthurian_connector.png",
+      "altText": "Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord.",
+      "publishDate": "2026-07-20",
+      "sortIndex": 1784505600
+    },
     {
       "id": "xkcd-3273",
       "title": "Latitude and Longitude",

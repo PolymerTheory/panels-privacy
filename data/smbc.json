@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-20T14:02:38Z",
+  "updatedAt": "2026-07-20T18:00:57Z",
   "comics": [
+    {
+      "id": "smbc-sword-3",
+      "title": "Sword",
+      "pageUrl": "https://www.smbc-comics.com/comic/sword-3",
+      "imageUrl": "https://www.smbc-comics.com/comics/1784518178-20260720.png",
+      "altText": "Suddenly terrified that Matthew Wills already did this joke at some point.",
+      "publishDate": "2026-07-20",
+      "sortIndex": 1784561400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/sword-3"
+    },
     {
       "id": "smbc-poof",
       "title": "Poof",
