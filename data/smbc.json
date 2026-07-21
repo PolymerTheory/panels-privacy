@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-21T13:45:41Z",
+  "updatedAt": "2026-07-21T15:41:48Z",
   "comics": [
+    {
+      "id": "smbc-crawl",
+      "title": "Crawl",
+      "pageUrl": "https://www.smbc-comics.com/comic/crawl",
+      "imageUrl": "https://www.smbc-comics.com/comics/1784595902-20260721.png",
+      "altText": "I once joked about this back when twitter existed and a Twitter Dominatrix told me that she'd done it plenty of times. ",
+      "publishDate": "2026-07-21",
+      "sortIndex": 1784647200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/crawl"
+    },
     {
       "id": "smbc-sword-3",
       "title": "Sword",
