@@ -1,7 +1,16 @@
 {
   "source": "pbf",
-  "updatedAt": "2026-07-21T02:32:53Z",
+  "updatedAt": "2026-07-21T06:26:43Z",
   "comics": [
+    {
+      "id": "pbf-big-fish",
+      "title": "Big Fish",
+      "pageUrl": "https://pbfcomics.com/comics/big-fish",
+      "imageUrl": "https://pbfcomics.com/wp-content/uploads/2026/07/PBF-Big_Fish.png",
+      "altText": null,
+      "publishDate": "2026-07-01",
+      "sortIndex": 1782864000
+    },
     {
       "id": "pbf-PBF-Endgame",
       "title": "Endgame",
