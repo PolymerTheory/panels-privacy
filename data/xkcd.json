@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-07-22T15:40:13Z",
+  "updatedAt": "2026-07-22T17:17:00Z",
   "comics": [
+    {
+      "id": "xkcd-3275",
+      "title": "Calibration Nobel",
+      "pageUrl": "https://xkcd.com/3275/",
+      "imageUrl": "https://imgs.xkcd.com/comics/calibration_nobel.png",
+      "altText": "We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular.",
+      "publishDate": "2026-07-22",
+      "sortIndex": 1784678400
+    },
     {
       "id": "xkcd-3274",
       "title": "Arthurian Connector",
