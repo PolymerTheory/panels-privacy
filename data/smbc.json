@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-22T13:49:13Z",
+  "updatedAt": "2026-07-22T15:40:14Z",
   "comics": [
+    {
+      "id": "smbc-bully-2",
+      "title": "Bully",
+      "pageUrl": "https://www.smbc-comics.com/comic/bully-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1784663157-20260722.png",
+      "altText": "And now I bully you with a wall of text.",
+      "publishDate": "2026-07-22",
+      "sortIndex": 1784733600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/bully-2"
+    },
     {
       "id": "smbc-crawl",
       "title": "Crawl",
