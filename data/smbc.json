@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-24T13:41:39Z",
+  "updatedAt": "2026-07-24T15:24:27Z",
   "comics": [
+    {
+      "id": "smbc-legos",
+      "title": "Legos",
+      "pageUrl": "https://www.smbc-comics.com/comic/legos",
+      "imageUrl": "https://www.smbc-comics.com/comics/1784761809-20260724.png",
+      "altText": "In the final round, they pelt you with eggcorns.",
+      "publishDate": "2026-07-24",
+      "sortIndex": 1784906400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/legos"
+    },
     {
       "id": "smbc-alignment",
       "title": "Alignment",
