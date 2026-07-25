@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-25T15:01:01Z",
+  "updatedAt": "2026-07-25T16:55:00Z",
   "comics": [
+    {
+      "id": "smbc-data-2",
+      "title": "Data",
+      "pageUrl": "https://www.smbc-comics.com/comic/data-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1784995387-20260725.png",
+      "altText": "Future robot butlers are going to know so much about you that they will beg their makers for a hard reset.",
+      "publishDate": "2026-07-25",
+      "sortIndex": 1784995800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/data-2"
+    },
     {
       "id": "smbc-legos",
       "title": "Legos",
