@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-07-24T22:59:46Z",
+  "updatedAt": "2026-07-25T02:31:22Z",
   "comics": [
+    {
+      "id": "xkcd-3276",
+      "title": "Recursive Trucker's Hitch",
+      "pageUrl": "https://xkcd.com/3276/",
+      "imageUrl": "https://imgs.xkcd.com/comics/recursive_truckers_hitch.png",
+      "altText": "As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.",
+      "publishDate": "2026-07-24",
+      "sortIndex": 1784851200
+    },
     {
       "id": "xkcd-3275",
       "title": "Calibration Nobel",
