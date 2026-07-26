@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-26T15:03:36Z",
+  "updatedAt": "2026-07-26T16:58:13Z",
   "comics": [
+    {
+      "id": "smbc-dance-4",
+      "title": "Dance",
+      "pageUrl": "https://www.smbc-comics.com/comic/dance-4",
+      "imageUrl": "https://www.smbc-comics.com/comics/1784999731-20260726.png",
+      "altText": "And don't get me started on the transphobic twist.",
+      "publishDate": "2026-07-26",
+      "sortIndex": 1785079200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/dance-4"
+    },
     {
       "id": "smbc-data-2",
       "title": "Data",
