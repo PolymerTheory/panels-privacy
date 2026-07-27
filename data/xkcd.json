@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-07-27T14:30:10Z",
+  "updatedAt": "2026-07-27T17:41:11Z",
   "comics": [
+    {
+      "id": "xkcd-3277",
+      "title": "Forth",
+      "pageUrl": "https://xkcd.com/3277/",
+      "imageUrl": "https://imgs.xkcd.com/comics/forth.png",
+      "altText": "I NOTATION POLISH REVERSE ❤️",
+      "publishDate": "2026-07-27",
+      "sortIndex": 1785110400
+    },
     {
       "id": "xkcd-3276",
       "title": "Recursive Trucker's Hitch",

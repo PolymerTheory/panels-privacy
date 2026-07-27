@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-27T14:30:10Z",
+  "updatedAt": "2026-07-27T17:41:12Z",
   "comics": [
+    {
+      "id": "smbc-taxonomy-2",
+      "title": "Taxonomy",
+      "pageUrl": "https://www.smbc-comics.com/comic/taxonomy-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1784999773-20260727.png",
+      "altText": "The key is to keep saying 'strictly speaking' over and over.",
+      "publishDate": "2026-07-27",
+      "sortIndex": 1785165600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/taxonomy-2"
+    },
     {
       "id": "smbc-dance-4",
       "title": "Dance",
