@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-28T14:03:00Z",
+  "updatedAt": "2026-07-28T17:25:01Z",
   "comics": [
+    {
+      "id": "smbc-codebase",
+      "title": "Codebase",
+      "pageUrl": "https://www.smbc-comics.com/comic/codebase",
+      "imageUrl": "https://www.smbc-comics.com/comics/1785184164-20260728.png",
+      "altText": "And when Babbage arrived the whole thing was actually running on a series of Pascalines.",
+      "publishDate": "2026-07-28",
+      "sortIndex": 1785252000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/codebase"
+    },
     {
       "id": "smbc-taxonomy-2",
       "title": "Taxonomy",
