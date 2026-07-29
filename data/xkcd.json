@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-07-29T17:12:49Z",
+  "updatedAt": "2026-07-29T19:13:18Z",
   "comics": [
+    {
+      "id": "xkcd-3278",
+      "title": "Vera Rubin Observatory",
+      "pageUrl": "https://xkcd.com/3278/",
+      "imageUrl": "https://imgs.xkcd.com/comics/vera_rubin_observatory.png",
+      "altText": "'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.",
+      "publishDate": "2026-07-29",
+      "sortIndex": 1785283200
+    },
     {
       "id": "xkcd-3277",
       "title": "Forth",
