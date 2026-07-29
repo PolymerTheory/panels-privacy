@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-29T14:06:48Z",
+  "updatedAt": "2026-07-29T17:12:49Z",
   "comics": [
+    {
+      "id": "smbc-hashtag",
+      "title": "Hashtag",
+      "pageUrl": "https://www.smbc-comics.com/comic/hashtag",
+      "imageUrl": "https://www.smbc-comics.com/comics/1785184202-20260729.png",
+      "altText": "I can barely enjoy Amleth anymore.",
+      "publishDate": "2026-07-29",
+      "sortIndex": 1785338400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/hashtag"
+    },
     {
       "id": "smbc-codebase",
       "title": "Codebase",
