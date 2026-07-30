@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-07-30T13:56:45Z",
+  "updatedAt": "2026-07-30T15:51:53Z",
   "comics": [
+    {
+      "id": "smbc-crank",
+      "title": "Crank",
+      "pageUrl": "https://www.smbc-comics.com/comic/crank",
+      "imageUrl": "https://www.smbc-comics.com/comics/1785374027-20260730.png",
+      "altText": "The crank doesn't actually do anything, but it makes the humans happy.",
+      "publishDate": "2026-07-30",
+      "sortIndex": 1785424843,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/crank"
+    },
     {
       "id": "smbc-hashtag",
       "title": "Hashtag",
