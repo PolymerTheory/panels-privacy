@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-07-31T14:02:07Z",
+  "updatedAt": "2026-07-31T17:27:03Z",
   "comics": [
+    {
+      "id": "xkcd-3279",
+      "title": "Main Span",
+      "pageUrl": "https://xkcd.com/3279/",
+      "imageUrl": "https://imgs.xkcd.com/comics/main_span.png",
+      "altText": "Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?",
+      "publishDate": "2026-07-31",
+      "sortIndex": 1785456000
+    },
     {
       "id": "xkcd-3278",
       "title": "Vera Rubin Observatory",
