@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-01T14:58:53Z",
+  "updatedAt": "2026-08-01T16:57:39Z",
   "comics": [
+    {
+      "id": "smbc-doc",
+      "title": "Doc",
+      "pageUrl": "https://www.smbc-comics.com/comic/doc",
+      "imageUrl": "https://www.smbc-comics.com/comics/1785531427-20260801.png",
+      "altText": "The weird part is that they're in a Burger King.",
+      "publishDate": "2026-08-01",
+      "sortIndex": 1785597600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/doc"
+    },
     {
       "id": "smbc-ev-2",
       "title": "EV",
