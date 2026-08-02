@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-02T15:00:10Z",
+  "updatedAt": "2026-08-02T16:56:04Z",
   "comics": [
+    {
+      "id": "smbc-prompt-2",
+      "title": "Prompt",
+      "pageUrl": "https://www.smbc-comics.com/comic/prompt-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1785531473-20260802.png",
+      "altText": "Hope you like malicious compliance!",
+      "publishDate": "2026-08-02",
+      "sortIndex": 1785684000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/prompt-2"
+    },
     {
       "id": "smbc-doc",
       "title": "Doc",
