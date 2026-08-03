@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-03T14:35:12Z",
+  "updatedAt": "2026-08-03T17:49:14Z",
   "comics": [
+    {
+      "id": "smbc-proof-7",
+      "title": "Proof",
+      "pageUrl": "https://www.smbc-comics.com/comic/proof-7",
+      "imageUrl": "https://www.smbc-comics.com/comics/1785717195-20260803.png",
+      "altText": "Also you can solve the halting problem by just checking the state at infinity.",
+      "publishDate": "2026-08-03",
+      "sortIndex": 1785770400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/proof-7"
+    },
     {
       "id": "smbc-prompt-2",
       "title": "Prompt",
