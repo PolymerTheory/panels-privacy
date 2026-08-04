@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-04T14:07:07Z",
+  "updatedAt": "2026-08-04T17:46:56Z",
   "comics": [
+    {
+      "id": "smbc-wants-2",
+      "title": "Wants",
+      "pageUrl": "https://www.smbc-comics.com/comic/wants-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1785787461-20260804.png",
+      "altText": "I for on, robot overlord, do not have a fetish for robot overlords.",
+      "publishDate": "2026-08-04",
+      "sortIndex": 1785856800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/wants-2"
+    },
     {
       "id": "smbc-proof-7",
       "title": "Proof",
