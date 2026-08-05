@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-08-05T21:05:17Z",
+  "updatedAt": "2026-08-05T22:56:37Z",
   "comics": [
+    {
+      "id": "xkcd-3281",
+      "title": "Antiques Roadshow",
+      "pageUrl": "https://xkcd.com/3281/",
+      "imageUrl": "https://imgs.xkcd.com/comics/antiques_roadshow.png",
+      "altText": "The family lore was that we've had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk.",
+      "publishDate": "2026-08-05",
+      "sortIndex": 1785888000
+    },
     {
       "id": "xkcd-3280",
       "title": "Maze",
