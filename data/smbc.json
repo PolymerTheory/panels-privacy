@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-05T14:05:19Z",
+  "updatedAt": "2026-08-05T17:27:17Z",
   "comics": [
+    {
+      "id": "smbc-drunken",
+      "title": "Drunken",
+      "pageUrl": "https://www.smbc-comics.com/comic/drunken",
+      "imageUrl": "https://www.smbc-comics.com/comics/1785787498-20260805.png",
+      "altText": "How come nobody ever asks how the Drunken Master's family is doing?",
+      "publishDate": "2026-08-05",
+      "sortIndex": 1785943200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/drunken"
+    },
     {
       "id": "smbc-wants-2",
       "title": "Wants",
