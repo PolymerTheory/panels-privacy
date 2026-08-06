@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-06T14:04:21Z",
+  "updatedAt": "2026-08-06T23:56:24Z",
   "comics": [
+    {
+      "id": "smbc-butling",
+      "title": "Butling",
+      "pageUrl": "https://www.smbc-comics.com/comic/butling",
+      "imageUrl": "https://www.smbc-comics.com/comics/1785959087-20260806.png",
+      "altText": "If there are ever time travelers from the Regency period they will be so confused by our robot butler discourse.",
+      "publishDate": "2026-08-06",
+      "sortIndex": 1786029600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/butling"
+    },
     {
       "id": "smbc-drunken",
       "title": "Drunken",
