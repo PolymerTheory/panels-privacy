@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-07T14:50:57Z",
+  "updatedAt": "2026-08-07T16:52:31Z",
   "comics": [
+    {
+      "id": "smbc-paracosm",
+      "title": "Paracosm",
+      "pageUrl": "https://www.smbc-comics.com/comic/paracosm",
+      "imageUrl": "https://www.smbc-comics.com/comics/1785959130-20260807.png",
+      "altText": "Don't care if you like it; this comic was an excuse to say Paracosm.",
+      "publishDate": "2026-08-07",
+      "sortIndex": 1786116000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/paracosm"
+    },
     {
       "id": "smbc-butling",
       "title": "Butling",
