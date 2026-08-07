@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-08-07T16:52:30Z",
+  "updatedAt": "2026-08-07T18:53:35Z",
   "comics": [
+    {
+      "id": "xkcd-3282",
+      "title": "Trick Play",
+      "pageUrl": "https://xkcd.com/3282/",
+      "imageUrl": "https://imgs.xkcd.com/comics/trick_play.png",
+      "altText": "I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.",
+      "publishDate": "2026-08-07",
+      "sortIndex": 1786060800
+    },
     {
       "id": "xkcd-3281",
       "title": "Antiques Roadshow",
