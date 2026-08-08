@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-08T14:30:12Z",
+  "updatedAt": "2026-08-08T16:31:05Z",
   "comics": [
+    {
+      "id": "smbc-fur",
+      "title": "Fur",
+      "pageUrl": "https://www.smbc-comics.com/comic/fur",
+      "imageUrl": "https://www.smbc-comics.com/comics/1785959172-20260808.png",
+      "altText": "My first introduction to this actually really phenomenon was Acerfur. Ever after, whenever an online discussion of Lean gets too technical, I realize every avatar is in a fursuit.",
+      "publishDate": "2026-08-08",
+      "sortIndex": 1786202400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/fur"
+    },
     {
       "id": "smbc-paracosm",
       "title": "Paracosm",
