@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-08-10T11:06:24Z",
+  "updatedAt": "2026-08-10T13:03:37Z",
   "comics": [
+    {
+      "id": "xkcd-3283",
+      "title": "Size and Lifespan",
+      "pageUrl": "https://xkcd.com/3283/",
+      "imageUrl": "https://imgs.xkcd.com/comics/size_and_lifespan.png",
+      "altText": "With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.",
+      "publishDate": "2026-08-10",
+      "sortIndex": 1786320000
+    },
     {
       "id": "xkcd-3282",
       "title": "Trick Play",
