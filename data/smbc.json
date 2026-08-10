@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-10T14:56:09Z",
+  "updatedAt": "2026-08-10T16:52:24Z",
   "comics": [
+    {
+      "id": "smbc-quantum-7",
+      "title": "Quantum",
+      "pageUrl": "https://www.smbc-comics.com/comic/quantum-7",
+      "imageUrl": "https://www.smbc-comics.com/comics/1786329312-20260810.png",
+      "altText": "I await your hatemail telling me I too am wrong.",
+      "publishDate": "2026-08-10",
+      "sortIndex": 1786375200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/quantum-7"
+    },
     {
       "id": "smbc-simulation-6",
       "title": "Simulation",
