@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-11T14:55:02Z",
+  "updatedAt": "2026-08-11T16:55:38Z",
   "comics": [
+    {
+      "id": "smbc-brave",
+      "title": "Brave",
+      "pageUrl": "https://www.smbc-comics.com/comic/brave",
+      "imageUrl": "https://www.smbc-comics.com/comics/1786402084-20260811.png",
+      "altText": "The only thing more overrated than truth is beauty.",
+      "publishDate": "2026-08-11",
+      "sortIndex": 1786461600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/brave"
+    },
     {
       "id": "smbc-quantum-7",
       "title": "Quantum",
