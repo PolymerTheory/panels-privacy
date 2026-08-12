@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-12T14:54:48Z",
+  "updatedAt": "2026-08-12T16:54:58Z",
   "comics": [
+    {
+      "id": "smbc-priority-2",
+      "title": "Priority",
+      "pageUrl": "https://www.smbc-comics.com/comic/priority-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1786485004-20260812.png",
+      "altText": "Hoping this will cause someone to surface an off-brand SMBC author from the midcentury USSR.",
+      "publishDate": "2026-08-12",
+      "sortIndex": 1786548000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/priority-2"
+    },
     {
       "id": "smbc-brave",
       "title": "Brave",
