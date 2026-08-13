@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-13T14:55:20Z",
+  "updatedAt": "2026-08-13T16:54:27Z",
   "comics": [
+    {
+      "id": "smbc-scale",
+      "title": "Scale",
+      "pageUrl": "https://www.smbc-comics.com/comic/scale",
+      "imageUrl": "https://www.smbc-comics.com/comics/1786562758-20260813.png",
+      "altText": "I started reading in population ethics recently and let me tell you there is undug philosophical gold.",
+      "publishDate": "2026-08-13",
+      "sortIndex": 1786634400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/scale"
+    },
     {
       "id": "smbc-priority-2",
       "title": "Priority",
