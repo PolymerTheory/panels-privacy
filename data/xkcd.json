@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-08-12T22:37:50Z",
+  "updatedAt": "2026-08-13T01:50:28Z",
   "comics": [
+    {
+      "id": "xkcd-3284",
+      "title": "Geology Building",
+      "pageUrl": "https://xkcd.com/3284/",
+      "imageUrl": "https://imgs.xkcd.com/comics/geology_building.png",
+      "altText": "The administration thinks it's weird, but the geologists say it looks normal.",
+      "publishDate": "2026-08-12",
+      "sortIndex": 1786492800
+    },
     {
       "id": "xkcd-3283",
       "title": "Size and Lifespan",
