@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-08-15T02:49:53Z",
+  "updatedAt": "2026-08-15T04:28:13Z",
   "comics": [
+    {
+      "id": "xkcd-3285",
+      "title": "Accretionary Arc",
+      "pageUrl": "https://xkcd.com/3285/",
+      "imageUrl": "https://imgs.xkcd.com/comics/accretionary_arc.png",
+      "altText": "The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.",
+      "publishDate": "2026-08-14",
+      "sortIndex": 1786665600
+    },
     {
       "id": "xkcd-3284",
       "title": "Geology Building",
