@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-15T14:20:09Z",
+  "updatedAt": "2026-08-15T16:21:37Z",
   "comics": [
+    {
+      "id": "smbc-r",
+      "title": "R",
+      "pageUrl": "https://www.smbc-comics.com/comic/r",
+      "imageUrl": "https://www.smbc-comics.com/comics/1786761424-20260815.png",
+      "altText": "As he walks away she begins frantically calling out symbols in the hope that one will reach him.",
+      "publishDate": "2026-08-15",
+      "sortIndex": 1786807200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/r"
+    },
     {
       "id": "smbc-case",
       "title": "Case",
