@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-16T14:20:03Z",
+  "updatedAt": "2026-08-16T16:21:52Z",
   "comics": [
+    {
+      "id": "smbc-gathered",
+      "title": "Gathered",
+      "pageUrl": "https://www.smbc-comics.com/comic/gathered",
+      "imageUrl": "https://www.smbc-comics.com/comics/1786761474-20260816.png",
+      "altText": "People who want to defund universities don't appreciate the role they play in keeping rogue ethicists out of your backyard.",
+      "publishDate": "2026-08-16",
+      "sortIndex": 1786893600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/gathered"
+    },
     {
       "id": "smbc-r",
       "title": "R",
