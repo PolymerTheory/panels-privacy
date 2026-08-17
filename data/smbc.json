@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-17T14:25:22Z",
+  "updatedAt": "2026-08-17T16:24:45Z",
   "comics": [
+    {
+      "id": "smbc-eulogy-2",
+      "title": "Eulogy",
+      "pageUrl": "https://www.smbc-comics.com/comic/eulogy-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1786936686-20260817.png",
+      "altText": "YOU HAVE OFFICIALLY BEEN DARED",
+      "publishDate": "2026-08-17",
+      "sortIndex": 1786980000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/eulogy-2"
+    },
     {
       "id": "smbc-gathered",
       "title": "Gathered",
