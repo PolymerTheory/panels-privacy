@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-18T14:31:26Z",
+  "updatedAt": "2026-08-18T16:28:42Z",
   "comics": [
+    {
+      "id": "smbc-genie-4",
+      "title": "Genie",
+      "pageUrl": "https://www.smbc-comics.com/comic/genie-4",
+      "imageUrl": "https://www.smbc-comics.com/comics/1787015498-20260818.png",
+      "altText": "If a creature gives you a wish, wish to not regret the wish. Trust me, you won't regret it.",
+      "publishDate": "2026-08-18",
+      "sortIndex": 1787067000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/genie-4"
+    },
     {
       "id": "smbc-eulogy-2",
       "title": "Eulogy",
