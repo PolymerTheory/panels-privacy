@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-19T14:31:19Z",
+  "updatedAt": "2026-08-19T16:29:02Z",
   "comics": [
+    {
+      "id": "smbc-me",
+      "title": "Me",
+      "pageUrl": "https://www.smbc-comics.com/comic/me",
+      "imageUrl": "https://www.smbc-comics.com/comics/1787015995-20260819.png",
+      "altText": "I was trying to figure out why cavemen sometimes do and sometimes don't drop prepositions. Anyone have a theory?",
+      "publishDate": "2026-08-19",
+      "sortIndex": 1787152800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/me"
+    },
     {
       "id": "smbc-genie-4",
       "title": "Genie",
