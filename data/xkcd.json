@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-08-19T01:08:01Z",
+  "updatedAt": "2026-08-19T02:55:19Z",
   "comics": [
+    {
+      "id": "xkcd-3286",
+      "title": "Particle Physics Equipment",
+      "pageUrl": "https://xkcd.com/3286/",
+      "imageUrl": "https://imgs.xkcd.com/comics/particle_physics_equipment.png",
+      "altText": "The one that sounds like the oracle at the center of the galaxy where the hero travels to hear a prophecy is probably Brookhaven National Laboratory's now-dismantled COSMOTRON.",
+      "publishDate": "2026-08-17",
+      "sortIndex": 1786924800
+    },
     {
       "id": "xkcd-3285",
       "title": "Accretionary Arc",
