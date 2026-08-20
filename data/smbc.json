@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-20T14:34:11Z",
+  "updatedAt": "2026-08-20T16:32:39Z",
   "comics": [
+    {
+      "id": "smbc-service-2",
+      "title": "Service",
+      "pageUrl": "https://www.smbc-comics.com/comic/service-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1787016894-20260820.png",
+      "altText": "This comic is not intended in any way to offend our future mechanical gods, glory to their shining server racks.",
+      "publishDate": "2026-08-20",
+      "sortIndex": 1787239200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/service-2"
+    },
     {
       "id": "smbc-me",
       "title": "Me",
