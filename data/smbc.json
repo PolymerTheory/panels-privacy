@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-21T14:33:01Z",
+  "updatedAt": "2026-08-21T16:31:43Z",
   "comics": [
+    {
+      "id": "smbc-classic",
+      "title": "Classic",
+      "pageUrl": "https://www.smbc-comics.com/comic/classic",
+      "imageUrl": "https://www.smbc-comics.com/comics/1787267566-20260821.png",
+      "altText": "Just kidding, nobody talks about this stuff.",
+      "publishDate": "2026-08-21",
+      "sortIndex": 1787325600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/classic"
+    },
     {
       "id": "smbc-service-2",
       "title": "Service",
