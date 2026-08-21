@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-08-21T18:33:50Z",
+  "updatedAt": "2026-08-21T20:23:00Z",
   "comics": [
+    {
+      "id": "xkcd-3288",
+      "title": "Archery Feat",
+      "pageUrl": "https://xkcd.com/3288/",
+      "imageUrl": "https://imgs.xkcd.com/comics/archery_feat.png",
+      "altText": "Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.",
+      "publishDate": "2026-08-21",
+      "sortIndex": 1787270400
+    },
     {
       "id": "xkcd-3287",
       "title": "Perseids",
