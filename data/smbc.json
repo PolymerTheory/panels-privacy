@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-22T14:19:07Z",
+  "updatedAt": "2026-08-22T16:20:51Z",
   "comics": [
+    {
+      "id": "smbc-chromo",
+      "title": "Chromo",
+      "pageUrl": "https://www.smbc-comics.com/comic/chromo",
+      "imageUrl": "https://www.smbc-comics.com/comics/1787378196-20260822.png",
+      "altText": "Physicists are always complaining about latinate terms in biology, and then they pull this shit.",
+      "publishDate": "2026-08-22",
+      "sortIndex": 1787412000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/chromo"
+    },
     {
       "id": "smbc-classic",
       "title": "Classic",
