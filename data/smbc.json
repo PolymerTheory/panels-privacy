@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-23T14:21:01Z",
+  "updatedAt": "2026-08-23T16:22:11Z",
   "comics": [
+    {
+      "id": "smbc-beyond-2",
+      "title": "Beyond",
+      "pageUrl": "https://www.smbc-comics.com/comic/beyond-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1787446901-20260823.png",
+      "altText": "How about a rhombus of moral concern? Let's not be too ambitious.",
+      "publishDate": "2026-08-23",
+      "sortIndex": 1787498400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/beyond-2"
+    },
     {
       "id": "smbc-chromo",
       "title": "Chromo",
