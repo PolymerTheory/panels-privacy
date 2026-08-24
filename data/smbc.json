@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-24T14:39:16Z",
+  "updatedAt": "2026-08-24T16:34:58Z",
   "comics": [
+    {
+      "id": "smbc-demon",
+      "title": "Demon",
+      "pageUrl": "https://www.smbc-comics.com/comic/demon",
+      "imageUrl": "https://www.smbc-comics.com/comics/1787446945-20260824.png",
+      "altText": "Theory: Gettier's big discovery came while accidentally reading Descartes backwards.",
+      "publishDate": "2026-08-24",
+      "sortIndex": 1787584800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/demon"
+    },
     {
       "id": "smbc-beyond-2",
       "title": "Beyond",
