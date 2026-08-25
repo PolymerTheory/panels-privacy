@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-25T14:42:26Z",
+  "updatedAt": "2026-08-25T16:34:49Z",
   "comics": [
+    {
+      "id": "smbc-jedi",
+      "title": "Jedi",
+      "pageUrl": "https://www.smbc-comics.com/comic/jedi",
+      "imageUrl": "https://www.smbc-comics.com/comics/1787609246-20260825.png",
+      "altText": "Later he returns as Darth Flation.",
+      "publishDate": "2026-08-25",
+      "sortIndex": 1787671200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/jedi"
+    },
     {
       "id": "smbc-demon",
       "title": "Demon",
