@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-08-25T01:09:27Z",
+  "updatedAt": "2026-08-25T02:56:40Z",
   "comics": [
+    {
+      "id": "xkcd-3289",
+      "title": "Highway Signs",
+      "pageUrl": "https://xkcd.com/3289/",
+      "imageUrl": "https://imgs.xkcd.com/comics/highway_signs.png",
+      "altText": "Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1.",
+      "publishDate": "2026-08-24",
+      "sortIndex": 1787529600
+    },
     {
       "id": "xkcd-3288",
       "title": "Archery Feat",
