@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-08-26T19:45:44Z",
+  "updatedAt": "2026-08-26T22:43:16Z",
   "comics": [
+    {
+      "id": "xkcd-3290",
+      "title": "Trade",
+      "pageUrl": "https://xkcd.com/3290/",
+      "imageUrl": "https://imgs.xkcd.com/comics/trade.png",
+      "altText": "\"You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we're the dominant limbs and stop hogging the oxygen, that running advantage won't be around for long.\"",
+      "publishDate": "2026-08-26",
+      "sortIndex": 1787702400
+    },
     {
       "id": "xkcd-3289",
       "title": "Highway Signs",
