@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-26T14:42:04Z",
+  "updatedAt": "2026-08-26T16:46:31Z",
   "comics": [
+    {
+      "id": "smbc-psy",
+      "title": "Psy",
+      "pageUrl": "https://www.smbc-comics.com/comic/psy",
+      "imageUrl": "https://www.smbc-comics.com/comics/1787609283-20260826.png",
+      "altText": "This is of course an SMBC psyop.",
+      "publishDate": "2026-08-26",
+      "sortIndex": 1787757600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/psy"
+    },
     {
       "id": "smbc-jedi",
       "title": "Jedi",
