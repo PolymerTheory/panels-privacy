@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-27T07:23:49Z",
+  "updatedAt": "2026-08-27T18:50:35Z",
   "comics": [
+    {
+      "id": "smbc-satan-2",
+      "title": "Satan",
+      "pageUrl": "https://www.smbc-comics.com/comic/satan-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1787776608-20260827.png",
+      "altText": "And look where he put the anus. I mean it's right in the middle of the action. This guy is brilliant!",
+      "publishDate": "2026-08-27",
+      "sortIndex": 1787844000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/satan-2"
+    },
     {
       "id": "smbc-psy",
       "title": "Psy",
