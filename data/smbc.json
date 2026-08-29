@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-29T10:48:13Z",
+  "updatedAt": "2026-08-29T16:13:40Z",
   "comics": [
+    {
+      "id": "smbc-echo",
+      "title": "Echo",
+      "pageUrl": "https://www.smbc-comics.com/comic/echo",
+      "imageUrl": "https://www.smbc-comics.com/comics/1787948076-20260829.png",
+      "altText": "This is but one entry in my future guide to sex.",
+      "publishDate": "2026-08-29",
+      "sortIndex": 1788016800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/echo"
+    },
     {
       "id": "smbc-experience-7",
       "title": "Experience",
