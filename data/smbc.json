@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-30T14:40:26Z",
+  "updatedAt": "2026-08-30T19:02:38Z",
   "comics": [
+    {
+      "id": "smbc-secret",
+      "title": "Secret",
+      "pageUrl": "https://www.smbc-comics.com/comic/secret",
+      "imageUrl": "https://www.smbc-comics.com/comics/1788050865-20260830.png",
+      "altText": "The good news is you can put beer back there.",
+      "publishDate": "2026-08-30",
+      "sortIndex": 1788103200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/secret"
+    },
     {
       "id": "smbc-echo",
       "title": "Echo",
