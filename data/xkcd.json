@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-08-31T18:47:04Z",
+  "updatedAt": "2026-08-31T23:37:04Z",
   "comics": [
+    {
+      "id": "xkcd-3292",
+      "title": "Geology Class",
+      "pageUrl": "https://xkcd.com/3292/",
+      "imageUrl": "https://imgs.xkcd.com/comics/geology_class.png",
+      "altText": "The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates.",
+      "publishDate": "2026-08-31",
+      "sortIndex": 1788134400
+    },
     {
       "id": "xkcd-3291",
       "title": "Launchpad",
