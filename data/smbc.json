@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-08-31T10:32:54Z",
+  "updatedAt": "2026-08-31T18:47:05Z",
   "comics": [
+    {
+      "id": "smbc-royal",
+      "title": "Royal",
+      "pageUrl": "https://www.smbc-comics.com/comic/royal",
+      "imageUrl": "https://www.smbc-comics.com/comics/1788113889-20260831.png",
+      "altText": "Later he regrets strangling the jester.",
+      "publishDate": "2026-08-31",
+      "sortIndex": 1788189600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/royal"
+    },
     {
       "id": "smbc-secret",
       "title": "Secret",
