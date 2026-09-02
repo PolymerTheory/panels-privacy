@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-09-02T19:13:02Z",
+  "updatedAt": "2026-09-02T22:22:28Z",
   "comics": [
+    {
+      "id": "xkcd-3293",
+      "title": "Handedness",
+      "pageUrl": "https://xkcd.com/3293/",
+      "imageUrl": "https://imgs.xkcd.com/comics/handedness.png",
+      "altText": "A 'left-handed specialist' is a physicist who studies the weak interaction.",
+      "publishDate": "2026-09-02",
+      "sortIndex": 1788307200
+    },
     {
       "id": "xkcd-3292",
       "title": "Geology Class",
