@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-02T14:05:18Z",
+  "updatedAt": "2026-09-02T19:13:04Z",
   "comics": [
+    {
+      "id": "smbc-dilemma-5",
+      "title": "Dilemma",
+      "pageUrl": "https://www.smbc-comics.com/comic/dilemma-5",
+      "imageUrl": "https://www.smbc-comics.com/comics/1788222449-20260902.png",
+      "altText": "Honestly, you can just assume eating ten as a given and move on.",
+      "publishDate": "2026-09-02",
+      "sortIndex": 1788362400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/dilemma-5"
+    },
     {
       "id": "smbc-philosophy-6",
       "title": "Philosophy",
