@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-03T14:09:01Z",
+  "updatedAt": "2026-09-03T19:05:48Z",
   "comics": [
+    {
+      "id": "smbc-meaning-9",
+      "title": "Meaning",
+      "pageUrl": "https://www.smbc-comics.com/comic/meaning-9",
+      "imageUrl": "https://www.smbc-comics.com/comics/1788389671-20260903.png",
+      "altText": "Is it the thong? Is the problem that I use a thong?",
+      "publishDate": "2026-09-03",
+      "sortIndex": 1788448800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/meaning-9"
+    },
     {
       "id": "smbc-dilemma-5",
       "title": "Dilemma",
