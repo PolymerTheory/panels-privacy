@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-09-04T14:00:22Z",
+  "updatedAt": "2026-09-04T18:48:42Z",
   "comics": [
+    {
+      "id": "xkcd-3294",
+      "title": "Asteroid Mission",
+      "pageUrl": "https://xkcd.com/3294/",
+      "imageUrl": "https://imgs.xkcd.com/comics/asteroid_mission.png",
+      "altText": "Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.",
+      "publishDate": "2026-09-04",
+      "sortIndex": 1788480000
+    },
     {
       "id": "xkcd-3293",
       "title": "Handedness",

@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-04T14:00:23Z",
+  "updatedAt": "2026-09-04T18:48:43Z",
   "comics": [
+    {
+      "id": "smbc-money",
+      "title": "Money",
+      "pageUrl": "https://www.smbc-comics.com/comic/money",
+      "imageUrl": "https://www.smbc-comics.com/comics/1788389708-20260904.png",
+      "altText": "It's the ones who go on TV that you really need to look out for.",
+      "publishDate": "2026-09-04",
+      "sortIndex": 1788535200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/money"
+    },
     {
       "id": "smbc-meaning-9",
       "title": "Meaning",
