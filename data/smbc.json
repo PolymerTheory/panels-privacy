@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-05T13:14:55Z",
+  "updatedAt": "2026-09-05T16:32:27Z",
   "comics": [
+    {
+      "id": "smbc-imagine-2",
+      "title": "Imagine",
+      "pageUrl": "https://www.smbc-comics.com/comic/imagine-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1788486090-20260905.png",
+      "altText": "They actually say modulus, but journalists dumb it down.",
+      "publishDate": "2026-09-05",
+      "sortIndex": 1788621600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/imagine-2"
+    },
     {
       "id": "smbc-money",
       "title": "Money",
