@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-06T13:24:11Z",
+  "updatedAt": "2026-09-06T16:42:16Z",
   "comics": [
+    {
+      "id": "smbc-seized",
+      "title": "Seized",
+      "pageUrl": "https://www.smbc-comics.com/comic/seized",
+      "imageUrl": "https://www.smbc-comics.com/comics/1788659223-20260906.png",
+      "altText": "Please let Professor Sykes know there's a free bad caricature available for him.",
+      "publishDate": "2026-09-06",
+      "sortIndex": 1788708000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/seized"
+    },
     {
       "id": "smbc-imagine-2",
       "title": "Imagine",
