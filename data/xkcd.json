@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-09-07T15:30:23Z",
+  "updatedAt": "2026-09-07T19:35:32Z",
   "comics": [
+    {
+      "id": "xkcd-3295",
+      "title": "Semaphore",
+      "pageUrl": "https://xkcd.com/3295/",
+      "imageUrl": "https://imgs.xkcd.com/comics/semaphore.png",
+      "altText": "The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage.",
+      "publishDate": "2026-09-07",
+      "sortIndex": 1788739200
+    },
     {
       "id": "xkcd-3294",
       "title": "Asteroid Mission",
