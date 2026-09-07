@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-07T08:55:41Z",
+  "updatedAt": "2026-09-07T15:30:24Z",
   "comics": [
+    {
+      "id": "smbc-conscious-9",
+      "title": "Conscious",
+      "pageUrl": "https://www.smbc-comics.com/comic/conscious-9",
+      "imageUrl": "https://www.smbc-comics.com/comics/1788659266-20260907.png",
+      "altText": "There should be a version of the Chinese Room where the guy inside has to speak French and has to remember those classes he cheated on in high school.",
+      "publishDate": "2026-09-07",
+      "sortIndex": 1788794400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/conscious-9"
+    },
     {
       "id": "smbc-seized",
       "title": "Seized",
