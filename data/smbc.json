@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-09T14:09:57Z",
+  "updatedAt": "2026-09-09T19:04:47Z",
   "comics": [
+    {
+      "id": "smbc-club-2",
+      "title": "Club",
+      "pageUrl": "https://www.smbc-comics.com/comic/club-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1788823653-20260909.png",
+      "altText": "God also has a joke about how both oblivion and eternal recurrence are terrifying, and there is no middle ground.",
+      "publishDate": "2026-09-09",
+      "sortIndex": 1788967200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/club-2"
+    },
     {
       "id": "smbc-major",
       "title": "Major",

@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-09-09T14:09:56Z",
+  "updatedAt": "2026-09-09T19:04:46Z",
   "comics": [
+    {
+      "id": "xkcd-3296",
+      "title": "Fault Taunting",
+      "pageUrl": "https://xkcd.com/3296/",
+      "imageUrl": "https://imgs.xkcd.com/comics/fault_taunting.png",
+      "altText": "One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.",
+      "publishDate": "2026-09-09",
+      "sortIndex": 1788912000
+    },
     {
       "id": "xkcd-3295",
       "title": "Semaphore",
