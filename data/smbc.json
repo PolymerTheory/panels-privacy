@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-10T14:03:35Z",
+  "updatedAt": "2026-09-10T18:57:03Z",
   "comics": [
+    {
+      "id": "smbc-shilling",
+      "title": "Shilling",
+      "pageUrl": "https://www.smbc-comics.com/comic/shilling",
+      "imageUrl": "https://www.smbc-comics.com/comics/1788990389-20260910.png",
+      "altText": "I really do wonder if paid disinformation orgs have the same office politics as everywhere else.",
+      "publishDate": "2026-09-10",
+      "sortIndex": 1789053600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/shilling"
+    },
     {
       "id": "smbc-club-2",
       "title": "Club",
