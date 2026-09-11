@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-09-11T14:03:29Z",
+  "updatedAt": "2026-09-11T18:58:38Z",
   "comics": [
+    {
+      "id": "xkcd-3297",
+      "title": "OH Scale",
+      "pageUrl": "https://xkcd.com/3297/",
+      "imageUrl": "https://imgs.xkcd.com/comics/oh_scale.png",
+      "altText": "To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.",
+      "publishDate": "2026-09-11",
+      "sortIndex": 1789084800
+    },
     {
       "id": "xkcd-3296",
       "title": "Fault Taunting",
