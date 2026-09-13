@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-13T14:03:56Z",
+  "updatedAt": "2026-09-13T18:32:33Z",
   "comics": [
+    {
+      "id": "smbc-scratchpad",
+      "title": "Scratchpad",
+      "pageUrl": "https://www.smbc-comics.com/comic/scratchpad",
+      "imageUrl": "https://www.smbc-comics.com/comics/1789251111-20260913.png",
+      "altText": "Never thought software would ruin a philosophy problem, but here we are.",
+      "publishDate": "2026-09-13",
+      "sortIndex": 1789312800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/scratchpad"
+    },
     {
       "id": "smbc-time-8",
       "title": "Time",
