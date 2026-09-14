@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-14T09:34:17Z",
+  "updatedAt": "2026-09-14T16:09:47Z",
   "comics": [
+    {
+      "id": "smbc-balance",
+      "title": "Balance",
+      "pageUrl": "https://www.smbc-comics.com/comic/balance",
+      "imageUrl": "https://www.smbc-comics.com/comics/1789334157-20260914.png",
+      "altText": "Do all of history's obsessive truth seekers seem happy to you?",
+      "publishDate": "2026-09-14",
+      "sortIndex": 1789399200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/balance"
+    },
     {
       "id": "smbc-scratchpad",
       "title": "Scratchpad",
