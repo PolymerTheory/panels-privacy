@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-09-14T21:30:21Z",
+  "updatedAt": "2026-09-15T00:17:37Z",
   "comics": [
+    {
+      "id": "xkcd-3298",
+      "title": "Aerospace Flowchart",
+      "pageUrl": "https://xkcd.com/3298/",
+      "imageUrl": "https://imgs.xkcd.com/comics/aerospace_flowchart.png",
+      "altText": "Someday, we will find the problem that goes with this solution.",
+      "publishDate": "2026-09-14",
+      "sortIndex": 1789344000
+    },
     {
       "id": "xkcd-3297",
       "title": "OH Scale",
