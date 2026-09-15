@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-15T13:08:33Z",
+  "updatedAt": "2026-09-15T17:55:35Z",
   "comics": [
+    {
+      "id": "smbc-gates-3",
+      "title": "Gates",
+      "pageUrl": "https://www.smbc-comics.com/comic/gates-3",
+      "imageUrl": "https://www.smbc-comics.com/comics/1789334195-20260915.png",
+      "altText": "I wonder if the cost of chips has cut down on conspiracies.",
+      "publishDate": "2026-09-15",
+      "sortIndex": 1789485600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/gates-3"
+    },
     {
       "id": "smbc-balance",
       "title": "Balance",
