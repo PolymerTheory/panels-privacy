@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-16T10:52:22Z",
+  "updatedAt": "2026-09-16T16:10:05Z",
   "comics": [
+    {
+      "id": "smbc-lake",
+      "title": "Lake",
+      "pageUrl": "https://www.smbc-comics.com/comic/lake",
+      "imageUrl": "https://www.smbc-comics.com/comics/1789505301-20260916.png",
+      "altText": "You can't see it but he's typing an essay with his right hand.",
+      "publishDate": "2026-09-16",
+      "sortIndex": 1789572000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/lake"
+    },
     {
       "id": "smbc-gates-3",
       "title": "Gates",
