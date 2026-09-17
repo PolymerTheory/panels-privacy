@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-09-16T20:53:16Z",
+  "updatedAt": "2026-09-17T00:05:47Z",
   "comics": [
+    {
+      "id": "xkcd-3299",
+      "title": "Summer",
+      "pageUrl": "https://xkcd.com/3299/",
+      "imageUrl": "https://imgs.xkcd.com/comics/summer.png",
+      "altText": "You should probably get back to shore before spring hits.",
+      "publishDate": "2026-09-16",
+      "sortIndex": 1789516800
+    },
     {
       "id": "xkcd-3298",
       "title": "Aerospace Flowchart",
