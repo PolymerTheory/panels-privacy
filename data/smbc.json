@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-17T13:02:59Z",
+  "updatedAt": "2026-09-17T17:55:53Z",
   "comics": [
+    {
+      "id": "smbc-waste-2",
+      "title": "Waste",
+      "pageUrl": "https://www.smbc-comics.com/comic/waste-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1789607559-20260917.png",
+      "altText": "Seriously though, next time there's a problem like this just call me.",
+      "publishDate": "2026-09-17",
+      "sortIndex": 1789658400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/waste-2"
+    },
     {
       "id": "smbc-lake",
       "title": "Lake",
