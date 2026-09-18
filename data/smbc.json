@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-18T14:06:13Z",
+  "updatedAt": "2026-09-18T18:52:26Z",
   "comics": [
+    {
+      "id": "smbc-citation-2",
+      "title": "Citation",
+      "pageUrl": "https://www.smbc-comics.com/comic/citation-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1789607601-20260918.png",
+      "altText": "There's a thing in the paper about the forthcoming End Times but it's still in press.",
+      "publishDate": "2026-09-18",
+      "sortIndex": 1789744800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/citation-2"
+    },
     {
       "id": "smbc-waste-2",
       "title": "Waste",
