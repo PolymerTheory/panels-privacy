@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-09-18T22:18:22Z",
+  "updatedAt": "2026-09-19T03:13:31Z",
   "comics": [
+    {
+      "id": "xkcd-3300",
+      "title": "Tyrannosaurus",
+      "pageUrl": "https://xkcd.com/3300/",
+      "imageUrl": "https://imgs.xkcd.com/comics/tyrannosaurus.png",
+      "altText": "Many of the smaller dinosaurs seem to have largely preyed on housecats.",
+      "publishDate": "2026-09-18",
+      "sortIndex": 1789689600
+    },
     {
       "id": "xkcd-3299",
       "title": "Summer",
