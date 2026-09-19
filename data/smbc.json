@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-19T13:41:34Z",
+  "updatedAt": "2026-09-19T17:00:10Z",
   "comics": [
+    {
+      "id": "smbc-roach-2",
+      "title": "Roach",
+      "pageUrl": "https://www.smbc-comics.com/comic/roach-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1789607640-20260919.png",
+      "altText": "This isn't a metaphor. Just a story about a roach.",
+      "publishDate": "2026-09-19",
+      "sortIndex": 1789831200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/roach-2"
+    },
     {
       "id": "smbc-citation-2",
       "title": "Citation",
