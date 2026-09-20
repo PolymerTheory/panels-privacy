@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-20T13:57:08Z",
+  "updatedAt": "2026-09-20T17:20:47Z",
   "comics": [
+    {
+      "id": "smbc-civilization-2",
+      "title": "Civilization",
+      "pageUrl": "https://www.smbc-comics.com/comic/civilization-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1789792044-20260920.png",
+      "altText": "It's surprising how into murder 7 year olds are.",
+      "publishDate": "2026-09-20",
+      "sortIndex": 1789917600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/civilization-2"
+    },
     {
       "id": "smbc-roach-2",
       "title": "Roach",
