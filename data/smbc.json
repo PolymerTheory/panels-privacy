@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-21T09:36:21Z",
+  "updatedAt": "2026-09-21T16:12:22Z",
   "comics": [
+    {
+      "id": "smbc-in",
+      "title": "In",
+      "pageUrl": "https://www.smbc-comics.com/comic/in",
+      "imageUrl": "https://www.smbc-comics.com/comics/1789955292-20260921.png",
+      "altText": "With apologies if this has been a joke in the fandom for decades.",
+      "publishDate": "2026-09-21",
+      "sortIndex": 1790004000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/in"
+    },
     {
       "id": "smbc-civilization-2",
       "title": "Civilization",
