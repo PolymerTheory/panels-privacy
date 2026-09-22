@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-22T13:07:16Z",
+  "updatedAt": "2026-09-22T17:56:46Z",
   "comics": [
+    {
+      "id": "smbc-taken",
+      "title": "Taken",
+      "pageUrl": "https://www.smbc-comics.com/comic/taken",
+      "imageUrl": "https://www.smbc-comics.com/comics/1789955423-20260922.png",
+      "altText": "The worst part is how she's wearing a suit instead of an event t-shirt with holes in it.",
+      "publishDate": "2026-09-22",
+      "sortIndex": 1790090400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/taken"
+    },
     {
       "id": "smbc-in",
       "title": "In",
