@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-09-22T00:35:40Z",
+  "updatedAt": "2026-09-22T07:19:48Z",
   "comics": [
+    {
+      "id": "xkcd-3301",
+      "title": "Stargazing 5",
+      "pageUrl": "https://xkcd.com/3301/",
+      "imageUrl": "https://imgs.xkcd.com/comics/stargazing_5.png",
+      "altText": "The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size.",
+      "publishDate": "2026-09-21",
+      "sortIndex": 1789948800
+    },
     {
       "id": "xkcd-3300",
       "title": "Tyrannosaurus",
