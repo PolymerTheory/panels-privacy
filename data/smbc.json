@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-23T10:48:00Z",
+  "updatedAt": "2026-09-23T16:08:30Z",
   "comics": [
+    {
+      "id": "smbc-wolf-5",
+      "title": "Wolf",
+      "pageUrl": "https://www.smbc-comics.com/comic/wolf-5",
+      "imageUrl": "https://www.smbc-comics.com/comics/1790134930-20260923.png",
+      "altText": "The witch from Hansel and Gretel sells magic crystals.",
+      "publishDate": "2026-09-23",
+      "sortIndex": 1790177400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/wolf-5"
+    },
     {
       "id": "smbc-taken",
       "title": "Taken",
