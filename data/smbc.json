@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-24T13:13:31Z",
+  "updatedAt": "2026-09-24T18:11:52Z",
   "comics": [
+    {
+      "id": "smbc-identity-3",
+      "title": "Identity",
+      "pageUrl": "https://www.smbc-comics.com/comic/identity-3",
+      "imageUrl": "https://www.smbc-comics.com/comics/1790197735-20260924.png",
+      "altText": "Seriously, Derek Parfit is an untapped comedy gold mine.",
+      "publishDate": "2026-09-24",
+      "sortIndex": 1790263200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/identity-3"
+    },
     {
       "id": "smbc-wolf-5",
       "title": "Wolf",
