@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-09-25T14:59:30Z",
+  "updatedAt": "2026-09-25T19:49:51Z",
   "comics": [
+    {
+      "id": "xkcd-3303",
+      "title": "Slab Graveyard",
+      "pageUrl": "https://xkcd.com/3303/",
+      "imageUrl": "https://imgs.xkcd.com/comics/slab_graveyard.png",
+      "altText": "It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!",
+      "publishDate": "2026-09-25",
+      "sortIndex": 1790294400
+    },
     {
       "id": "xkcd-3302",
       "title": "Voyager Instruments",

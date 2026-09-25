@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-25T14:59:30Z",
+  "updatedAt": "2026-09-25T19:49:52Z",
   "comics": [
+    {
+      "id": "smbc-suit-2",
+      "title": "Suit",
+      "pageUrl": "https://www.smbc-comics.com/comic/suit-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1790197889-20260925.png",
+      "altText": "This is actually what the Predator was doing the whole movie.",
+      "publishDate": "2026-09-25",
+      "sortIndex": 1790349600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/suit-2"
+    },
     {
       "id": "smbc-identity-3",
       "title": "Identity",
