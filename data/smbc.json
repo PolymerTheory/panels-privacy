@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-26T14:07:02Z",
+  "updatedAt": "2026-09-26T19:00:57Z",
   "comics": [
+    {
+      "id": "smbc-all-right",
+      "title": "All Right",
+      "pageUrl": "https://www.smbc-comics.com/comic/all-right",
+      "imageUrl": "https://www.smbc-comics.com/comics/1790197930-20260926.png",
+      "altText": "He's only given one final week to live but having a salary is nice.",
+      "publishDate": "2026-09-26",
+      "sortIndex": 1790436000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/all-right"
+    },
     {
       "id": "smbc-suit-2",
       "title": "Suit",
