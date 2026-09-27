@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-27T14:59:07Z",
+  "updatedAt": "2026-09-27T19:32:25Z",
   "comics": [
+    {
+      "id": "smbc-paradox-3",
+      "title": "Paradox",
+      "pageUrl": "https://www.smbc-comics.com/comic/paradox-3",
+      "imageUrl": "https://www.smbc-comics.com/comics/1790204486-20260927.png",
+      "altText": "Just to be clear, I have been siding with machines since well before they were about to annihilate us.",
+      "publishDate": "2026-09-27",
+      "sortIndex": 1790522400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/paradox-3"
+    },
     {
       "id": "smbc-all-right",
       "title": "All Right",
