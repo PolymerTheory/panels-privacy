@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-28T10:35:12Z",
+  "updatedAt": "2026-09-28T19:15:49Z",
   "comics": [
+    {
+      "id": "smbc-gift",
+      "title": "Gift",
+      "pageUrl": "https://www.smbc-comics.com/comic/gift",
+      "imageUrl": "https://www.smbc-comics.com/comics/1790204549-20260928.png",
+      "altText": "It's the one time this sort of thing worked.",
+      "publishDate": "2026-09-28",
+      "sortIndex": 1790608800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/gift"
+    },
     {
       "id": "smbc-paradox-3",
       "title": "Paradox",
