@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-09-29T00:11:29Z",
+  "updatedAt": "2026-09-29T07:53:35Z",
   "comics": [
+    {
+      "id": "xkcd-3304",
+      "title": "Jupiter Icy Moons Explorer",
+      "pageUrl": "https://xkcd.com/3304/",
+      "imageUrl": "https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png",
+      "altText": "\"I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons.\"",
+      "publishDate": "2026-09-28",
+      "sortIndex": 1790553600
+    },
     {
       "id": "xkcd-3303",
       "title": "Slab Graveyard",
