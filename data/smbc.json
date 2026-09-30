@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-09-30T08:00:19Z",
+  "updatedAt": "2026-09-30T16:15:00Z",
   "comics": [
+    {
+      "id": "smbc-scripture-2",
+      "title": "Scripture",
+      "pageUrl": "https://www.smbc-comics.com/comic/scripture-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1790357486-20260930.png",
+      "altText": "That whole section is unappreciated comedy gold.",
+      "publishDate": "2026-09-30",
+      "sortIndex": 1790781600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/scripture-2"
+    },
     {
       "id": "smbc-free-5",
       "title": "Free",
