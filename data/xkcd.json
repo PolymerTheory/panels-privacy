@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-10-01T01:03:56Z",
+  "updatedAt": "2026-10-01T08:19:40Z",
   "comics": [
+    {
+      "id": "xkcd-3305",
+      "title": "Ground Effect",
+      "pageUrl": "https://xkcd.com/3305/",
+      "imageUrl": "https://imgs.xkcd.com/comics/ground_effect.png",
+      "altText": "Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices.",
+      "publishDate": "2026-09-30",
+      "sortIndex": 1790726400
+    },
     {
       "id": "xkcd-3304",
       "title": "Jupiter Icy Moons Explorer",
