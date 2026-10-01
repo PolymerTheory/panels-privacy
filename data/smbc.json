@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-01T08:19:41Z",
+  "updatedAt": "2026-10-01T16:52:57Z",
   "comics": [
+    {
+      "id": "smbc-equations",
+      "title": "Equations",
+      "pageUrl": "https://www.smbc-comics.com/comic/equations",
+      "imageUrl": "https://www.smbc-comics.com/comics/1790818238-20261001.png",
+      "altText": "That janitor just goes from building to building helping people.",
+      "publishDate": "2026-10-01",
+      "sortIndex": 1790868000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/equations"
+    },
     {
       "id": "smbc-scripture-2",
       "title": "Scripture",
