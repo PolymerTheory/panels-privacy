@@ -1,7 +1,16 @@
 {
   "source": "pbf",
-  "updatedAt": "2026-10-02T11:54:57Z",
+  "updatedAt": "2026-10-02T17:29:47Z",
   "comics": [
+    {
+      "id": "pbf-the-biclops",
+      "title": "The Biclops",
+      "pageUrl": "https://pbfcomics.com/comics/the-biclops",
+      "imageUrl": "https://pbfcomics.com/wp-content/uploads/2026/08/PBF-The_Biclops.png",
+      "altText": null,
+      "publishDate": "2026-08-01",
+      "sortIndex": 1785542400
+    },
     {
       "id": "pbf-big-fish",
       "title": "Big Fish",

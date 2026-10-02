@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-02T11:54:54Z",
+  "updatedAt": "2026-10-02T17:29:41Z",
   "comics": [
+    {
+      "id": "smbc-interesting-5",
+      "title": "Interesting",
+      "pageUrl": "https://www.smbc-comics.com/comic/interesting-5",
+      "imageUrl": "https://www.smbc-comics.com/comics/1790818588-20261002.png",
+      "altText": "But you wouldn't BELIEVE how many probably-true fun facts I know from youtube.",
+      "publishDate": "2026-10-02",
+      "sortIndex": 1790954400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/interesting-5"
+    },
     {
       "id": "smbc-equations",
       "title": "Equations",
