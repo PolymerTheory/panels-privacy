@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-10-02T21:50:18Z",
+  "updatedAt": "2026-10-03T00:56:19Z",
   "comics": [
+    {
+      "id": "xkcd-3306",
+      "title": "Accelerator Energies",
+      "pageUrl": "https://xkcd.com/3306/",
+      "imageUrl": "https://imgs.xkcd.com/comics/accelerator_energies.png",
+      "altText": "Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.",
+      "publishDate": "2026-10-02",
+      "sortIndex": 1790899200
+    },
     {
       "id": "xkcd-3305",
       "title": "Ground Effect",
