@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-03T13:02:13Z",
+  "updatedAt": "2026-10-03T17:46:03Z",
   "comics": [
+    {
+      "id": "smbc-specify",
+      "title": "Specify",
+      "pageUrl": "https://www.smbc-comics.com/comic/specify",
+      "imageUrl": "https://www.smbc-comics.com/comics/1790818643-20261003.png",
+      "altText": "All these jokes about how it's hard to operationalize good values are gonna be really funny when the T-1000s start rolling out.",
+      "publishDate": "2026-10-03",
+      "sortIndex": 1791040800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/specify"
+    },
     {
       "id": "smbc-interesting-5",
       "title": "Interesting",
