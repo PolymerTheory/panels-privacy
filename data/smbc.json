@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-04T13:41:52Z",
+  "updatedAt": "2026-10-04T17:58:24Z",
   "comics": [
+    {
+      "id": "smbc-a-2",
+      "title": "A",
+      "pageUrl": "https://www.smbc-comics.com/comic/a-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1791080192-20261004.png",
+      "altText": "Bonus points if you can figure out what the canine is.",
+      "publishDate": "2026-10-04",
+      "sortIndex": 1791127200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/a-2"
+    },
     {
       "id": "smbc-specify",
       "title": "Specify",
