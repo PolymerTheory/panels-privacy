@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-05T08:22:13Z",
+  "updatedAt": "2026-10-05T19:04:11Z",
   "comics": [
+    {
+      "id": "smbc-birds",
+      "title": "Birds",
+      "pageUrl": "https://www.smbc-comics.com/comic/birds",
+      "imageUrl": "https://www.smbc-comics.com/comics/1791080290-20261005.png",
+      "altText": "Aw, he's fucking off.",
+      "publishDate": "2026-10-05",
+      "sortIndex": 1791213600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/birds"
+    },
     {
       "id": "smbc-a-2",
       "title": "A",
