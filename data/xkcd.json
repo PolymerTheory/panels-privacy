@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-10-05T19:04:10Z",
+  "updatedAt": "2026-10-06T01:07:04Z",
   "comics": [
+    {
+      "id": "xkcd-3307",
+      "title": "Spectrum Allocation",
+      "pageUrl": "https://xkcd.com/3307/",
+      "imageUrl": "https://imgs.xkcd.com/comics/spectrum_allocation.png",
+      "altText": "Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.",
+      "publishDate": "2026-10-05",
+      "sortIndex": 1791158400
+    },
     {
       "id": "xkcd-3306",
       "title": "Accelerator Energies",
