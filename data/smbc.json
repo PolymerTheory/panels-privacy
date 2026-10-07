@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-07T12:40:57Z",
+  "updatedAt": "2026-10-07T19:44:12Z",
   "comics": [
+    {
+      "id": "smbc-woops",
+      "title": "Woops",
+      "pageUrl": "https://www.smbc-comics.com/comic/woops",
+      "imageUrl": "https://www.smbc-comics.com/comics/1791333455-20261007.png",
+      "altText": "It's not a topical comic in that I suspect I'll be posting it every few years for a long time.",
+      "publishDate": "2026-10-07",
+      "sortIndex": 1791386400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/woops"
+    },
     {
       "id": "smbc-cardamom",
       "title": "Cardamom",

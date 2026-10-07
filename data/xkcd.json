@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-10-07T12:40:56Z",
+  "updatedAt": "2026-10-07T19:44:11Z",
   "comics": [
+    {
+      "id": "xkcd-3308",
+      "title": "Juice",
+      "pageUrl": "https://xkcd.com/3308/",
+      "imageUrl": "https://imgs.xkcd.com/comics/juice.png",
+      "altText": "I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.",
+      "publishDate": "2026-10-07",
+      "sortIndex": 1791331200
+    },
     {
       "id": "xkcd-3307",
       "title": "Spectrum Allocation",
