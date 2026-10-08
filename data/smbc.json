@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-08T08:25:47Z",
+  "updatedAt": "2026-10-08T17:11:39Z",
   "comics": [
+    {
+      "id": "smbc-prompt-3",
+      "title": "Prompt",
+      "pageUrl": "https://www.smbc-comics.com/comic/prompt-3",
+      "imageUrl": "https://www.smbc-comics.com/comics/1791335436-20261008.png",
+      "altText": "Back when I was in art school, we believed in this with all our hearts.",
+      "publishDate": "2026-10-08",
+      "sortIndex": 1791472800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/prompt-3"
+    },
     {
       "id": "smbc-woops",
       "title": "Woops",
