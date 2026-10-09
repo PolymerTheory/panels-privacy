@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-10-09T19:15:30Z",
+  "updatedAt": "2026-10-09T23:48:40Z",
   "comics": [
+    {
+      "id": "xkcd-3309",
+      "title": "Dogcatcher",
+      "pageUrl": "https://xkcd.com/3309/",
+      "imageUrl": "https://imgs.xkcd.com/comics/dogcatcher.png",
+      "altText": "People out here catching strays out here catching strays",
+      "publishDate": "2026-10-09",
+      "sortIndex": 1791504000
+    },
     {
       "id": "xkcd-3308",
       "title": "Juice",
