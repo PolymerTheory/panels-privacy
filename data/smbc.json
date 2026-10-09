@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-09T12:36:08Z",
+  "updatedAt": "2026-10-09T19:15:30Z",
   "comics": [
+    {
+      "id": "smbc-bet-2",
+      "title": "Bet",
+      "pageUrl": "https://www.smbc-comics.com/comic/bet-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1791409897-20261009.png",
+      "altText": "The president is actually doing the same thing in the third to last panel.",
+      "publishDate": "2026-10-09",
+      "sortIndex": 1791559200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/bet-2"
+    },
     {
       "id": "smbc-prompt-3",
       "title": "Prompt",
