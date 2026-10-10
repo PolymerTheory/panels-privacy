@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-10T11:56:22Z",
+  "updatedAt": "2026-10-10T17:04:57Z",
   "comics": [
+    {
+      "id": "smbc-relative",
+      "title": "Relative",
+      "pageUrl": "https://www.smbc-comics.com/comic/relative",
+      "imageUrl": "https://www.smbc-comics.com/comics/1791563668-20261010.png",
+      "altText": "It is now only cheating in your reference frame.",
+      "publishDate": "2026-10-10",
+      "sortIndex": 1791645600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/relative"
+    },
     {
       "id": "smbc-bet-2",
       "title": "Bet",
