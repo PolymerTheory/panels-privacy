@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-11T08:18:15Z",
+  "updatedAt": "2026-10-11T16:08:46Z",
   "comics": [
+    {
+      "id": "smbc-blog",
+      "title": "Blog",
+      "pageUrl": "https://www.smbc-comics.com/comic/blog",
+      "imageUrl": "https://www.smbc-comics.com/comics/1791677050-20261011.png",
+      "altText": "I feel like if you said this on twitter someone wearing a shirt that reads INTERNET would come into your house and take an ax to your router.",
+      "publishDate": "2026-10-11",
+      "sortIndex": 1791732000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/blog"
+    },
     {
       "id": "smbc-relative",
       "title": "Relative",
