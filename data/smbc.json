@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-12T08:37:53Z",
+  "updatedAt": "2026-10-12T19:37:24Z",
   "comics": [
+    {
+      "id": "smbc-random",
+      "title": "Random",
+      "pageUrl": "https://www.smbc-comics.com/comic/random",
+      "imageUrl": "https://www.smbc-comics.com/comics/1791677099-20261012.png",
+      "altText": "If I can get just one teen girl to use the word epistemic, this entire career will have been valuable.",
+      "publishDate": "2026-10-12",
+      "sortIndex": 1791818400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/random"
+    },
     {
       "id": "smbc-blog",
       "title": "Blog",
