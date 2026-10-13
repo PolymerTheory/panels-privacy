@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-10-12T19:37:23Z",
+  "updatedAt": "2026-10-13T01:48:59Z",
   "comics": [
+    {
+      "id": "xkcd-3310",
+      "title": "Rejected Space Mission Profiles",
+      "pageUrl": "https://xkcd.com/3310/",
+      "imageUrl": "https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png",
+      "altText": "Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.",
+      "publishDate": "2026-10-12",
+      "sortIndex": 1791763200
+    },
     {
       "id": "xkcd-3309",
       "title": "Dogcatcher",
