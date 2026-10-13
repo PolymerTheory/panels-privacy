@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-13T08:57:26Z",
+  "updatedAt": "2026-10-13T17:21:24Z",
   "comics": [
+    {
+      "id": "smbc-long-2",
+      "title": "Long",
+      "pageUrl": "https://www.smbc-comics.com/comic/long-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1791677157-20261013.png",
+      "altText": "Also I have very revealing undergarments but not in an attractive way.",
+      "publishDate": "2026-10-13",
+      "sortIndex": 1791904800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/long-2"
+    },
     {
       "id": "smbc-random",
       "title": "Random",
