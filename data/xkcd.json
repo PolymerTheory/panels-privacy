@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-10-14T19:58:30Z",
+  "updatedAt": "2026-10-14T23:06:31Z",
   "comics": [
+    {
+      "id": "xkcd-3311",
+      "title": "Planet Database",
+      "pageUrl": "https://xkcd.com/3311/",
+      "imageUrl": "https://imgs.xkcd.com/comics/planet_database.png",
+      "altText": "Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty.",
+      "publishDate": "2026-10-14",
+      "sortIndex": 1791936000
+    },
     {
       "id": "xkcd-3310",
       "title": "Rejected Space Mission Profiles",
