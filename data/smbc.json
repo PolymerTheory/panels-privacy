@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-14T14:52:57Z",
+  "updatedAt": "2026-10-14T19:58:30Z",
   "comics": [
+    {
+      "id": "smbc-break",
+      "title": "Break",
+      "pageUrl": "https://www.smbc-comics.com/comic/break",
+      "imageUrl": "https://www.smbc-comics.com/comics/1791942559-20261014.png",
+      "altText": "I'm having the last panel inscribed on my tombstone.",
+      "publishDate": "2026-10-14",
+      "sortIndex": 1791991200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/break"
+    },
     {
       "id": "smbc-long-2",
       "title": "Long",
