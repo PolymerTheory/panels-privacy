@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-15T14:40:04Z",
+  "updatedAt": "2026-10-15T19:41:39Z",
   "comics": [
+    {
+      "id": "smbc-toad",
+      "title": "Toad",
+      "pageUrl": "https://www.smbc-comics.com/comic/toad",
+      "imageUrl": "https://www.smbc-comics.com/comics/1791942607-20261015.png",
+      "altText": "Pretty pleased with panel 2.",
+      "publishDate": "2026-10-15",
+      "sortIndex": 1792077600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/toad"
+    },
     {
       "id": "smbc-break",
       "title": "Break",
