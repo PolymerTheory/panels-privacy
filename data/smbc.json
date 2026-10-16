@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-16T14:32:19Z",
+  "updatedAt": "2026-10-16T19:18:53Z",
   "comics": [
+    {
+      "id": "smbc-hun",
+      "title": "Hun",
+      "pageUrl": "https://www.smbc-comics.com/comic/hun",
+      "imageUrl": "https://www.smbc-comics.com/comics/1792033762-20261016.png",
+      "altText": "I believe this comic is making fun of naive objections to consequentialism, but I am not 100% certain.",
+      "publishDate": "2026-10-16",
+      "sortIndex": 1792164000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/hun"
+    },
     {
       "id": "smbc-toad",
       "title": "Toad",
