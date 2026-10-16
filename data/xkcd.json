@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-10-16T08:45:08Z",
+  "updatedAt": "2026-10-16T14:32:19Z",
   "comics": [
+    {
+      "id": "xkcd-3312",
+      "title": "Momentum Demonstration",
+      "pageUrl": "https://xkcd.com/3312/",
+      "imageUrl": "https://imgs.xkcd.com/comics/momentum_demonstration.png",
+      "altText": "\"I'm doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other.\"",
+      "publishDate": "2026-10-16",
+      "sortIndex": 1792108800
+    },
     {
       "id": "xkcd-3311",
       "title": "Planet Database",
