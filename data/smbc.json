@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-17T13:27:27Z",
+  "updatedAt": "2026-10-17T16:50:34Z",
   "comics": [
+    {
+      "id": "smbc-chip",
+      "title": "Chip",
+      "pageUrl": "https://www.smbc-comics.com/comic/chip",
+      "imageUrl": "https://www.smbc-comics.com/comics/1792200079-20261018.png",
+      "altText": "Actually maybe this is the solution to the Fermi Paradox.",
+      "publishDate": "2026-10-17",
+      "sortIndex": 1792250400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/chip"
+    },
     {
       "id": "smbc-hun",
       "title": "Hun",
