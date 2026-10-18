@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-18T13:45:48Z",
+  "updatedAt": "2026-10-18T17:04:18Z",
   "comics": [
+    {
+      "id": "smbc-reactions",
+      "title": "Reactions",
+      "pageUrl": "https://www.smbc-comics.com/comic/reactions",
+      "imageUrl": "https://www.smbc-comics.com/comics/1792283872-20261018.png",
+      "altText": "Meanwhile the Engineers are just lighting themselves on fire to see what happens.",
+      "publishDate": "2026-10-18",
+      "sortIndex": 1792336800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/reactions"
+    },
     {
       "id": "smbc-chip",
       "title": "Chip",
