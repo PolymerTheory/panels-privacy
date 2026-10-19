@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-10-19T09:35:49Z",
+  "updatedAt": "2026-10-19T16:47:37Z",
   "comics": [
+    {
+      "id": "xkcd-3313",
+      "title": "Fusion Device",
+      "pageUrl": "https://xkcd.com/3313/",
+      "imageUrl": "https://imgs.xkcd.com/comics/fusion_device.png",
+      "altText": "I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.",
+      "publishDate": "2026-10-19",
+      "sortIndex": 1792368000
+    },
     {
       "id": "xkcd-3312",
       "title": "Momentum Demonstration",

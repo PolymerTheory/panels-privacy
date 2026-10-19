@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-19T09:35:49Z",
+  "updatedAt": "2026-10-19T16:47:38Z",
   "comics": [
+    {
+      "id": "smbc-cells",
+      "title": "Cells",
+      "pageUrl": "https://www.smbc-comics.com/comic/cells",
+      "imageUrl": "https://www.smbc-comics.com/comics/1792283936-20261019.png",
+      "altText": "Really should've gone for even more closeup on panel 2.",
+      "publishDate": "2026-10-19",
+      "sortIndex": 1792423200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/cells"
+    },
     {
       "id": "smbc-reactions",
       "title": "Reactions",
