@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-20T14:40:11Z",
+  "updatedAt": "2026-10-20T19:49:32Z",
   "comics": [
+    {
+      "id": "smbc-funeral",
+      "title": "Funeral",
+      "pageUrl": "https://www.smbc-comics.com/comic/funeral",
+      "imageUrl": "https://www.smbc-comics.com/comics/1792283984-20261020.png",
+      "altText": "Actually for me you can get it down to an eyeroll and a tired sigh.",
+      "publishDate": "2026-10-20",
+      "sortIndex": 1792509600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/funeral"
+    },
     {
       "id": "smbc-cells",
       "title": "Cells",
