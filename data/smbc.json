@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-21T14:51:14Z",
+  "updatedAt": "2026-10-21T19:55:01Z",
   "comics": [
+    {
+      "id": "smbc-future-5",
+      "title": "Future",
+      "pageUrl": "https://www.smbc-comics.com/comic/future-5",
+      "imageUrl": "https://www.smbc-comics.com/comics/1792546663-20261021.png",
+      "altText": "The real question is how long until each of these can be one-shotted.",
+      "publishDate": "2026-10-21",
+      "sortIndex": 1792596000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/future-5"
+    },
     {
       "id": "smbc-funeral",
       "title": "Funeral",
