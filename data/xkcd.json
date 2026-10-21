@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-10-21T09:07:15Z",
+  "updatedAt": "2026-10-21T14:51:14Z",
   "comics": [
+    {
+      "id": "xkcd-3314",
+      "title": "Vulnerability",
+      "pageUrl": "https://xkcd.com/3314/",
+      "imageUrl": "https://imgs.xkcd.com/comics/vulnerability.png",
+      "altText": "Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.",
+      "publishDate": "2026-10-21",
+      "sortIndex": 1792540800
+    },
     {
       "id": "xkcd-3313",
       "title": "Fusion Device",
