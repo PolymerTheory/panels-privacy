@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-24T13:49:48Z",
+  "updatedAt": "2026-10-24T17:12:29Z",
   "comics": [
+    {
+      "id": "smbc-watch-2",
+      "title": "Watch",
+      "pageUrl": "https://www.smbc-comics.com/comic/watch-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1792794277-20261024.png",
+      "altText": null,
+      "publishDate": "2026-10-24",
+      "sortIndex": 1792855800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/watch-2"
+    },
     {
       "id": "smbc-alignment-2",
       "title": "Alignment",
