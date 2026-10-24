@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-10-23T22:53:41Z",
+  "updatedAt": "2026-10-24T03:22:19Z",
   "comics": [
+    {
+      "id": "xkcd-3315",
+      "title": "Forms of Water",
+      "pageUrl": "https://xkcd.com/3315/",
+      "imageUrl": "https://imgs.xkcd.com/comics/forms_of_water.png",
+      "altText": "The 'light' refers to bremsstrahlung.",
+      "publishDate": "2026-10-23",
+      "sortIndex": 1792713600
+    },
     {
       "id": "xkcd-3314",
       "title": "Vulnerability",
