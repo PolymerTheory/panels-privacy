@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-25T10:45:49Z",
+  "updatedAt": "2026-10-25T15:34:46Z",
   "comics": [
+    {
+      "id": "smbc-xxl",
+      "title": "XXL",
+      "pageUrl": "https://www.smbc-comics.com/comic/xxl",
+      "imageUrl": "https://www.smbc-comics.com/comics/1792883115-20261025.png",
+      "altText": null,
+      "publishDate": "2026-10-25",
+      "sortIndex": 1792941657,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/xxl"
+    },
     {
       "id": "smbc-watch-2",
       "title": "Watch",
