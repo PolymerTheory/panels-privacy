@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-26T09:43:15Z",
+  "updatedAt": "2026-10-26T16:29:53Z",
   "comics": [
+    {
+      "id": "smbc-order-3",
+      "title": "Order",
+      "pageUrl": "https://www.smbc-comics.com/comic/order-3",
+      "imageUrl": "https://www.smbc-comics.com/comics/1792967615-20261026.png",
+      "altText": null,
+      "publishDate": "2026-10-26",
+      "sortIndex": 1793028000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/order-3"
+    },
     {
       "id": "smbc-xxl",
       "title": "XXL",
