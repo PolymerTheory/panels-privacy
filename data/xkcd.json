@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-10-27T03:47:22Z",
+  "updatedAt": "2026-10-27T09:36:34Z",
   "comics": [
+    {
+      "id": "xkcd-3316",
+      "title": "Siege Engine",
+      "pageUrl": "https://xkcd.com/3316/",
+      "imageUrl": "https://imgs.xkcd.com/comics/siege_engine.png",
+      "altText": "They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside.",
+      "publishDate": "2026-10-26",
+      "sortIndex": 1792972800
+    },
     {
       "id": "xkcd-3315",
       "title": "Forms of Water",
