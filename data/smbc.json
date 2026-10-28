@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-28T14:52:31Z",
+  "updatedAt": "2026-10-28T20:46:21Z",
   "comics": [
+    {
+      "id": "smbc-signal-5",
+      "title": "Signal",
+      "pageUrl": "https://www.smbc-comics.com/comic/signal-5",
+      "imageUrl": "https://www.smbc-comics.com/comics/1792967762-20261028.png",
+      "altText": null,
+      "publishDate": "2026-10-28",
+      "sortIndex": 1793200800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/signal-5"
+    },
     {
       "id": "smbc-clankor",
       "title": "Clankor",
