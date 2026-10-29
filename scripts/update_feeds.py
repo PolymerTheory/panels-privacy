@@ -32,6 +32,7 @@ import os
 import sys
 import time
 import re
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -46,18 +47,30 @@ UA = "PanelsFeedBot/1.0 (https://github.com/PolymerTheory/panels-privacy; comic 
 
 # ── HTTP helpers ──────────────────────────────────────────────────────────────
 
-def fetch(url: str, timeout: int = 20) -> bytes | None:
+def fetch(url: str, timeout: int = 20, accept_error_body: bool = False) -> bytes | None:
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             return r.read()
+    except urllib.error.HTTPError as e:
+        # SMBC (since Oct 2026) answers every comic page with HTTP 500 but a complete,
+        # valid body. Callers that validate the HTML themselves can opt in to use it.
+        if accept_error_body:
+            try:
+                body = e.read()
+                if body:
+                    return body
+            except Exception:
+                pass
+        print(f"  WARN: fetch failed for {url}: {e}", file=sys.stderr)
+        return None
     except Exception as e:
         print(f"  WARN: fetch failed for {url}: {e}", file=sys.stderr)
         return None
 
 
-def fetch_text(url: str) -> str | None:
-    data = fetch(url)
+def fetch_text(url: str, accept_error_body: bool = False) -> str | None:
+    data = fetch(url, accept_error_body=accept_error_body)
     return data.decode("utf-8", errors="replace") if data else None
 
 
@@ -374,7 +387,7 @@ def update_smbc():
     if missing_alt:
         print(f"  Fetching pages for {len(missing_alt)} comics missing altText…")
         for comic in missing_alt:
-            html = fetch_text(comic["pageUrl"])
+            html = fetch_text(comic["pageUrl"], accept_error_body=True)
             if html:
                 full = smbc_extract_comic(html, comic["pageUrl"])
                 if full:
@@ -399,7 +412,7 @@ def update_smbc():
             print(f"  SMBC_REPAIR_DATES: fetching dates for {len(missing_date)} comics "
                   f"(checkpoint every {CHECKPOINT})…")
             for i, comic in enumerate(missing_date, 1):
-                html = fetch_text(comic["pageUrl"])
+                html = fetch_text(comic["pageUrl"], accept_error_body=True)
                 if html:
                     full = smbc_extract_comic(html, comic["pageUrl"])
                     if full and full.get("publishDate"):
@@ -435,7 +448,7 @@ def update_smbc():
     # Walk backwards from oldest, up to MAX_WALK per run
     MAX_WALK = int(os.environ.get("SMBC_MAX_WALK", "200"))
     current_url = oldest["pageUrl"]
-    current_html = fetch_text(current_url)
+    current_html = fetch_text(current_url, accept_error_body=True)
     walked = 0
     non_date_counter = oldest["sortIndex"]  # fallback sortIndex for non-date slugs
 
@@ -445,7 +458,7 @@ def update_smbc():
             print(f"  Reached first comic at {current_url}")
             break
 
-        prev_html = fetch_text(prev_url)
+        prev_html = fetch_text(prev_url, accept_error_body=True)
         if not prev_html:
             print(f"  WARN: failed to fetch {prev_url}")
             break
