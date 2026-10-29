@@ -1,13 +1,13 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-29T16:35:53Z",
+  "updatedAt": "2026-10-29T21:47:36Z",
   "comics": [
     {
       "id": "smbc-eyes",
       "title": "Eyes",
       "pageUrl": "https://www.smbc-comics.com/comic/eyes",
       "imageUrl": "https://www.smbc-comics.com/comics/1793146728-20261029.png",
-      "altText": null,
+      "altText": "If you didn't want me to look, you shouldn't have evolved elaborate mimicry.",
       "publishDate": "2026-10-29",
       "sortIndex": 1793287200,
       "bonusPageUrl": "https://www.smbc-comics.com/comic/eyes"
@@ -17,7 +17,7 @@
       "title": "Signal",
       "pageUrl": "https://www.smbc-comics.com/comic/signal-5",
       "imageUrl": "https://www.smbc-comics.com/comics/1792967762-20261028.png",
-      "altText": null,
+      "altText": "This way avoids violence.",
       "publishDate": "2026-10-28",
       "sortIndex": 1793200800,
       "bonusPageUrl": "https://www.smbc-comics.com/comic/signal-5"
@@ -27,7 +27,7 @@
       "title": "Clankor",
       "pageUrl": "https://www.smbc-comics.com/comic/clankor",
       "imageUrl": "https://www.smbc-comics.com/comics/1792967696-20261027.png",
-      "altText": null,
+      "altText": "Turns out the combination of sycophancy and lack of persistent experience of reality is irresistible.",
       "publishDate": "2026-10-27",
       "sortIndex": 1793114400,
       "bonusPageUrl": "https://www.smbc-comics.com/comic/clankor"
@@ -37,7 +37,7 @@
       "title": "Order",
       "pageUrl": "https://www.smbc-comics.com/comic/order-3",
       "imageUrl": "https://www.smbc-comics.com/comics/1792967615-20261026.png",
-      "altText": null,
+      "altText": "I heard you like family slice-of-life comics, Internet!",
       "publishDate": "2026-10-26",
       "sortIndex": 1793028000,
       "bonusPageUrl": "https://www.smbc-comics.com/comic/order-3"
@@ -47,7 +47,7 @@
       "title": "XXL",
       "pageUrl": "https://www.smbc-comics.com/comic/xxl",
       "imageUrl": "https://www.smbc-comics.com/comics/1792883115-20261025.png",
-      "altText": null,
+      "altText": "I haven't dated in a long time, so this may be unrealistic.",
       "publishDate": "2026-10-25",
       "sortIndex": 1792941657,
       "bonusPageUrl": "https://www.smbc-comics.com/comic/xxl"
@@ -57,7 +57,7 @@
       "title": "Watch",
       "pageUrl": "https://www.smbc-comics.com/comic/watch-2",
       "imageUrl": "https://www.smbc-comics.com/comics/1792794277-20261024.png",
-      "altText": null,
+      "altText": "Hope this insight ruins you as much as it ruined me.",
       "publishDate": "2026-10-24",
       "sortIndex": 1792855800,
       "bonusPageUrl": "https://www.smbc-comics.com/comic/watch-2"
@@ -67,7 +67,7 @@
       "title": "Alignment",
       "pageUrl": "https://www.smbc-comics.com/comic/alignment-2",
       "imageUrl": "https://www.smbc-comics.com/comics/1792736918-20261023.png",
-      "altText": null,
+      "altText": "If this profound insight leads to a future utopia, somebody owes me a dollar.",
       "publishDate": "2026-10-23",
       "sortIndex": 1792768800,
       "bonusPageUrl": "https://www.smbc-comics.com/comic/alignment-2"
