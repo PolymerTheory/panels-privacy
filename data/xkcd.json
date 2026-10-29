@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-10-29T01:32:58Z",
+  "updatedAt": "2026-10-29T08:02:25Z",
   "comics": [
+    {
+      "id": "xkcd-3317",
+      "title": "Gravitational Square Wave",
+      "pageUrl": "https://xkcd.com/3317/",
+      "imageUrl": "https://imgs.xkcd.com/comics/gravitational_square_wave.png",
+      "altText": "Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.",
+      "publishDate": "2026-10-28",
+      "sortIndex": 1793145600
+    },
     {
       "id": "xkcd-3316",
       "title": "Siege Engine",
