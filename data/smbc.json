@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-29T08:02:28Z",
+  "updatedAt": "2026-10-29T16:35:53Z",
   "comics": [
+    {
+      "id": "smbc-eyes",
+      "title": "Eyes",
+      "pageUrl": "https://www.smbc-comics.com/comic/eyes",
+      "imageUrl": "https://www.smbc-comics.com/comics/1793146728-20261029.png",
+      "altText": null,
+      "publishDate": "2026-10-29",
+      "sortIndex": 1793287200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/eyes"
+    },
     {
       "id": "smbc-signal-5",
       "title": "Signal",
