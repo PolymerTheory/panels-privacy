@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-10-30T18:59:05Z",
+  "updatedAt": "2026-10-30T23:27:31Z",
   "comics": [
+    {
+      "id": "xkcd-3318",
+      "title": "Earth Sized Planets",
+      "pageUrl": "https://xkcd.com/3318/",
+      "imageUrl": "https://imgs.xkcd.com/comics/earth_sized_planets.png",
+      "altText": "It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.",
+      "publishDate": "2026-10-30",
+      "sortIndex": 1793318400
+    },
     {
       "id": "xkcd-3317",
       "title": "Gravitational Square Wave",
