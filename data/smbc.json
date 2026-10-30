@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-30T12:09:49Z",
+  "updatedAt": "2026-10-30T18:59:06Z",
   "comics": [
+    {
+      "id": "smbc-dead-3",
+      "title": "Dead",
+      "pageUrl": "https://www.smbc-comics.com/comic/dead-3",
+      "imageUrl": "https://www.smbc-comics.com/comics/1793146786-20261030.png",
+      "altText": "I heard you like relatable slice of life humor?",
+      "publishDate": "2026-10-30",
+      "sortIndex": 1793373600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/dead-3"
+    },
     {
       "id": "smbc-eyes",
       "title": "Eyes",
