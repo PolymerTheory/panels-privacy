@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-10-31T11:42:33Z",
+  "updatedAt": "2026-10-31T16:50:33Z",
   "comics": [
+    {
+      "id": "smbc-help-4",
+      "title": "Help",
+      "pageUrl": "https://www.smbc-comics.com/comic/help-4",
+      "imageUrl": "https://www.smbc-comics.com/comics/1793393828-20261031.png",
+      "altText": "Also how come you never just get a neutral mob?",
+      "publishDate": "2026-10-31",
+      "sortIndex": 1793460000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/help-4"
+    },
     {
       "id": "smbc-dead-3",
       "title": "Dead",
