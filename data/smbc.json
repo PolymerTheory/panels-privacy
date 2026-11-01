@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-01T08:43:09Z",
+  "updatedAt": "2026-11-01T16:34:38Z",
   "comics": [
+    {
+      "id": "smbc-burnout",
+      "title": "Burnout",
+      "pageUrl": "https://www.smbc-comics.com/comic/burnout",
+      "imageUrl": "https://www.smbc-comics.com/comics/1793393877-20261101.png",
+      "altText": "You kids today don't suffer like I suffered in my day, which is good because suffering is bad.",
+      "publishDate": "2026-11-01",
+      "sortIndex": 1793550000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/burnout"
+    },
     {
       "id": "smbc-help-4",
       "title": "Help",
