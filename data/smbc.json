@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-02T08:54:06Z",
+  "updatedAt": "2026-11-02T19:58:14Z",
   "comics": [
+    {
+      "id": "smbc-borated",
+      "title": "Borated",
+      "pageUrl": "https://www.smbc-comics.com/comic/borated",
+      "imageUrl": "https://www.smbc-comics.com/comics/1793577832-20261102.png",
+      "altText": "The annoying thing is how that one cousin keeps removing your access to oxygen even though you asked him politely not to.",
+      "publishDate": "2026-11-02",
+      "sortIndex": 1793636400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/borated"
+    },
     {
       "id": "smbc-burnout",
       "title": "Burnout",
