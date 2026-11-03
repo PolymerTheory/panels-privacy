@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-03T11:37:40Z",
+  "updatedAt": "2026-11-03T19:03:48Z",
   "comics": [
+    {
+      "id": "smbc-trial",
+      "title": "Trial",
+      "pageUrl": "https://www.smbc-comics.com/comic/trial",
+      "imageUrl": "https://www.smbc-comics.com/comics/1793577866-20261103.png",
+      "altText": "Later you're just trying to chill and they keep insisting you engage in free trade with The Orient.",
+      "publishDate": "2026-11-03",
+      "sortIndex": 1793722800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/trial"
+    },
     {
       "id": "smbc-borated",
       "title": "Borated",
