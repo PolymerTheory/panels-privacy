@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-11-02T19:58:13Z",
+  "updatedAt": "2026-11-03T02:08:14Z",
   "comics": [
+    {
+      "id": "xkcd-3319",
+      "title": "Elevators",
+      "pageUrl": "https://xkcd.com/3319/",
+      "imageUrl": "https://imgs.xkcd.com/comics/elevators.png",
+      "altText": "\"A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs.\"",
+      "publishDate": "2026-11-02",
+      "sortIndex": 1793577600
+    },
     {
       "id": "xkcd-3318",
       "title": "Earth Sized Planets",
