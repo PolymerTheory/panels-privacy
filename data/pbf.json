@@ -1,7 +1,16 @@
 {
   "source": "pbf",
-  "updatedAt": "2026-11-04T00:22:42Z",
+  "updatedAt": "2026-11-04T08:38:02Z",
   "comics": [
+    {
+      "id": "pbf-seed-shanty",
+      "title": "Seed Shanty",
+      "pageUrl": "https://pbfcomics.com/comics/seed-shanty",
+      "imageUrl": "https://pbfcomics.com/wp-content/uploads/2026/10/PBF-Seed_Shanty.png",
+      "altText": null,
+      "publishDate": "2026-10-01",
+      "sortIndex": 1790812800
+    },
     {
       "id": "pbf-the-biclops",
       "title": "The Biclops",
