@@ -1,7 +1,16 @@
 {
   "source": "dinosaurcomics",
-  "updatedAt": "2026-11-04T08:38:02Z",
+  "updatedAt": "2026-11-04T17:45:13Z",
   "comics": [
+    {
+      "id": "dinosaurcomics-4539",
+      "title": "Dinosaur Comics",
+      "pageUrl": "https://qwantz.com/index.php?comic=4539",
+      "imageUrl": "https://qwantz.com/comics/comic2-5237.png",
+      "altText": null,
+      "publishDate": null,
+      "sortIndex": 392169600
+    },
     {
       "id": "dinosaurcomics-4538",
       "title": "Dinosaur Comics",

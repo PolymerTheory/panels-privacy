@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-04T08:37:59Z",
+  "updatedAt": "2026-11-04T17:45:08Z",
   "comics": [
+    {
+      "id": "smbc-light",
+      "title": "Light",
+      "pageUrl": "https://www.smbc-comics.com/comic/light",
+      "imageUrl": "https://www.smbc-comics.com/comics/1793577905-20261104.png",
+      "altText": "There's a reason we spent 100,000 years with the same stone tools.",
+      "publishDate": "2026-11-04",
+      "sortIndex": 1793809200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/light"
+    },
     {
       "id": "smbc-trial",
       "title": "Trial",
