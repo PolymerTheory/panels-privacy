@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-05T14:00:04Z",
+  "updatedAt": "2026-11-05T20:59:51Z",
   "comics": [
+    {
+      "id": "smbc-index",
+      "title": "Index",
+      "pageUrl": "https://www.smbc-comics.com/comic/index",
+      "imageUrl": "https://www.smbc-comics.com/comics/1793825706-20261105.png",
+      "altText": "Turns out it's all Zuckerberg, for both reasons.",
+      "publishDate": "2026-11-05",
+      "sortIndex": 1793895600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/index"
+    },
     {
       "id": "smbc-light",
       "title": "Light",
