@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-06T09:13:11Z",
+  "updatedAt": "2026-11-06T17:11:07Z",
   "comics": [
+    {
+      "id": "smbc-sat",
+      "title": "Sat",
+      "pageUrl": "https://www.smbc-comics.com/comic/sat",
+      "imageUrl": "https://www.smbc-comics.com/comics/1793825743-20261106.png",
+      "altText": "Sometimes, you just gotta do a silly jokes for everyone.",
+      "publishDate": "2026-11-06",
+      "sortIndex": 1793982000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/sat"
+    },
     {
       "id": "smbc-index",
       "title": "Index",
