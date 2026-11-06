@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-11-06T17:11:06Z",
+  "updatedAt": "2026-11-06T22:43:22Z",
   "comics": [
+    {
+      "id": "xkcd-3321",
+      "title": "Simulation",
+      "pageUrl": "https://xkcd.com/3321/",
+      "imageUrl": "https://imgs.xkcd.com/comics/simulation.png",
+      "altText": "No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.",
+      "publishDate": "2026-11-06",
+      "sortIndex": 1793923200
+    },
     {
       "id": "xkcd-3320",
       "title": "House Majority",
