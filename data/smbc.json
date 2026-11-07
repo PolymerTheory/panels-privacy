@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-07T12:29:30Z",
+  "updatedAt": "2026-11-07T18:28:07Z",
   "comics": [
+    {
+      "id": "smbc-theodicy-6",
+      "title": "Theodicy",
+      "pageUrl": "https://www.smbc-comics.com/comic/theodicy-6",
+      "imageUrl": "https://www.smbc-comics.com/comics/1794016123-20261107.png",
+      "altText": "Once Simulation Theory logic is allowed, you can prove ANYTHING.",
+      "publishDate": "2026-11-07",
+      "sortIndex": 1794068400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/theodicy-6"
+    },
     {
       "id": "smbc-sat",
       "title": "Sat",
