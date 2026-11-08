@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-08T12:47:05Z",
+  "updatedAt": "2026-11-08T18:39:23Z",
   "comics": [
+    {
+      "id": "smbc-friendship-2",
+      "title": "Friendship",
+      "pageUrl": "https://www.smbc-comics.com/comic/friendship-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1794016163-20261108.png",
+      "altText": "Later it turns out to be a gay bar, and things go better than expected.",
+      "publishDate": "2026-11-08",
+      "sortIndex": 1794154800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/friendship-2"
+    },
     {
       "id": "smbc-theodicy-6",
       "title": "Theodicy",
