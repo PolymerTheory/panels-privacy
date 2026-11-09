@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-09T15:14:10Z",
+  "updatedAt": "2026-11-09T23:57:26Z",
   "comics": [
+    {
+      "id": "smbc-learn-3",
+      "title": "Learn",
+      "pageUrl": "https://www.smbc-comics.com/comic/learn-3",
+      "imageUrl": "https://www.smbc-comics.com/comics/1794186749-20261109.png",
+      "altText": "Okay, you didn't learn but you achieved the fifth derivative of learning!",
+      "publishDate": "2026-11-09",
+      "sortIndex": 1794241200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/learn-3"
+    },
     {
       "id": "smbc-friendship-2",
       "title": "Friendship",

@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-11-09T15:14:09Z",
+  "updatedAt": "2026-11-09T23:57:26Z",
   "comics": [
+    {
+      "id": "xkcd-3322",
+      "title": "Dragonfly",
+      "pageUrl": "https://xkcd.com/3322/",
+      "imageUrl": "https://imgs.xkcd.com/comics/dragonfly.png",
+      "altText": "I'm excited for Dragonfly, because on the list of places in the solar system that I desperately want more pictures from, 'Titan's surface' is right up there at the top with 'Jupiter's atmosphere.'",
+      "publishDate": "2026-11-09",
+      "sortIndex": 1794182400
+    },
     {
       "id": "xkcd-3321",
       "title": "Simulation",
