@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-10T16:05:50Z",
+  "updatedAt": "2026-11-10T22:51:14Z",
   "comics": [
+    {
+      "id": "smbc-mega",
+      "title": "Mega",
+      "pageUrl": "https://www.smbc-comics.com/comic/mega",
+      "imageUrl": "https://www.smbc-comics.com/comics/1794186829-20261110.png",
+      "altText": "There could've been 400 kinds of avocado you maniacs!",
+      "publishDate": "2026-11-10",
+      "sortIndex": 1794327600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/mega"
+    },
     {
       "id": "smbc-learn-3",
       "title": "Learn",
