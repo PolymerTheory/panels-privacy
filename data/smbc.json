@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-11T13:35:28Z",
+  "updatedAt": "2026-11-11T21:03:01Z",
   "comics": [
+    {
+      "id": "smbc-please",
+      "title": "Please",
+      "pageUrl": "https://www.smbc-comics.com/comic/please",
+      "imageUrl": "https://www.smbc-comics.com/comics/1794359640-20261111.png",
+      "altText": "She just sits at the computer pressing compile, and it keeps saying sorry.",
+      "publishDate": "2026-11-11",
+      "sortIndex": 1794414000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/please"
+    },
     {
       "id": "smbc-mega",
       "title": "Mega",
