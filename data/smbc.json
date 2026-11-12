@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-12T12:11:54Z",
+  "updatedAt": "2026-11-12T21:18:09Z",
   "comics": [
+    {
+      "id": "smbc-history-6",
+      "title": "History",
+      "pageUrl": "https://www.smbc-comics.com/comic/history-6",
+      "imageUrl": "https://www.smbc-comics.com/comics/1794451776-20261112.png",
+      "altText": "This is what they mean, right? All those substacks where someone says History tells us?",
+      "publishDate": "2026-11-12",
+      "sortIndex": 1794500400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/history-6"
+    },
     {
       "id": "smbc-please",
       "title": "Please",
