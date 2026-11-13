@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-11-13T11:51:52Z",
+  "updatedAt": "2026-11-13T19:13:37Z",
   "comics": [
+    {
+      "id": "xkcd-3324",
+      "title": "Ultimate Movie Series",
+      "pageUrl": "https://xkcd.com/3324/",
+      "imageUrl": "https://imgs.xkcd.com/comics/ultimate_movie_series.png",
+      "altText": "Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy.",
+      "publishDate": "2026-11-13",
+      "sortIndex": 1794528000
+    },
     {
       "id": "xkcd-3323",
       "title": "Meteor Fear",

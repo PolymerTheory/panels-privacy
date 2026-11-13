@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-13T11:51:52Z",
+  "updatedAt": "2026-11-13T19:13:37Z",
   "comics": [
+    {
+      "id": "smbc-ai-18",
+      "title": "AI",
+      "pageUrl": "https://www.smbc-comics.com/comic/ai-18",
+      "imageUrl": "https://www.smbc-comics.com/comics/1794451841-20261113.png",
+      "altText": "It's okay because the ai is about to be decommissioned for a slightly better model.",
+      "publishDate": "2026-11-13",
+      "sortIndex": 1794586800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/ai-18"
+    },
     {
       "id": "smbc-history-6",
       "title": "History",
