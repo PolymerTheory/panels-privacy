@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-14T08:37:08Z",
+  "updatedAt": "2026-11-14T16:22:22Z",
   "comics": [
+    {
+      "id": "smbc-field",
+      "title": "Field",
+      "pageUrl": "https://www.smbc-comics.com/comic/field",
+      "imageUrl": "https://www.smbc-comics.com/comics/1794620545-20261114.png",
+      "altText": "Literally, every time your parents encouraged you to play outside, this is what was happening.",
+      "publishDate": "2026-11-14",
+      "sortIndex": 1794673200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/field"
+    },
     {
       "id": "smbc-ai-18",
       "title": "AI",
