@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-15T08:50:15Z",
+  "updatedAt": "2026-11-15T16:48:28Z",
   "comics": [
+    {
+      "id": "smbc-valhalla",
+      "title": "Valhalla",
+      "pageUrl": "https://www.smbc-comics.com/comic/valhalla",
+      "imageUrl": "https://www.smbc-comics.com/comics/1794620584-20261115.png",
+      "altText": "Later that guy gets ruined by a 13 year old whose mom works at Anthropic.",
+      "publishDate": "2026-11-15",
+      "sortIndex": 1794759600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/valhalla"
+    },
     {
       "id": "smbc-field",
       "title": "Field",
