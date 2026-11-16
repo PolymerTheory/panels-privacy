@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-11-16T14:50:17Z",
+  "updatedAt": "2026-11-16T23:58:20Z",
   "comics": [
+    {
+      "id": "xkcd-3325",
+      "title": "Light-Day",
+      "pageUrl": "https://xkcd.com/3325/",
+      "imageUrl": "https://imgs.xkcd.com/comics/light_day.png",
+      "altText": "After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players.",
+      "publishDate": "2026-11-16",
+      "sortIndex": 1794787200
+    },
     {
       "id": "xkcd-3324",
       "title": "Ultimate Movie Series",

@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-16T14:50:17Z",
+  "updatedAt": "2026-11-16T23:58:20Z",
   "comics": [
+    {
+      "id": "smbc-cats-2",
+      "title": "Cats",
+      "pageUrl": "https://www.smbc-comics.com/comic/cats-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1794795615-20261116.png",
+      "altText": "I heard you like nice jokes about cats?",
+      "publishDate": "2026-11-16",
+      "sortIndex": 1794846000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/cats-2"
+    },
     {
       "id": "smbc-valhalla",
       "title": "Valhalla",
