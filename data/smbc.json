@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-17T07:38:30Z",
+  "updatedAt": "2026-11-17T17:22:59Z",
   "comics": [
+    {
+      "id": "smbc-butt",
+      "title": "Butt",
+      "pageUrl": "https://www.smbc-comics.com/comic/butt",
+      "imageUrl": "https://www.smbc-comics.com/comics/1794795693-20261117.png",
+      "altText": "Oh my gosh, now we're getting cast out! Adventure time!",
+      "publishDate": "2026-11-17",
+      "sortIndex": 1794932400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/butt"
+    },
     {
       "id": "smbc-cats-2",
       "title": "Cats",
