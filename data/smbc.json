@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-18T09:44:52Z",
+  "updatedAt": "2026-11-18T18:38:54Z",
   "comics": [
+    {
+      "id": "smbc-formal",
+      "title": "Formal",
+      "pageUrl": "https://www.smbc-comics.com/comic/formal",
+      "imageUrl": "https://www.smbc-comics.com/comics/1794795738-20261118.webp",
+      "altText": "Humans never get over it and become miserable and resentful. Point is, nobody notices the difference.",
+      "publishDate": "2026-11-18",
+      "sortIndex": 1795018800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/formal"
+    },
     {
       "id": "smbc-butt",
       "title": "Butt",
