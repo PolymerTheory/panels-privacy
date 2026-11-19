@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-19T09:54:18Z",
+  "updatedAt": "2026-11-19T18:52:14Z",
   "comics": [
+    {
+      "id": "smbc-juice-3",
+      "title": "Juice",
+      "pageUrl": "https://www.smbc-comics.com/comic/juice-3",
+      "imageUrl": "https://www.smbc-comics.com/comics/1795043823-20261119.webp",
+      "altText": "We are LEGION.",
+      "publishDate": "2026-11-19",
+      "sortIndex": 1795105200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/juice-3"
+    },
     {
       "id": "smbc-formal",
       "title": "Formal",
