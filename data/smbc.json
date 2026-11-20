@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-20T09:41:17Z",
+  "updatedAt": "2026-11-20T18:19:21Z",
   "comics": [
+    {
+      "id": "smbc-ed",
+      "title": "Ed",
+      "pageUrl": "https://www.smbc-comics.com/comic/ed",
+      "imageUrl": "https://www.smbc-comics.com/comics/1795043869-20261120.webp",
+      "altText": "The key is to do this the day you retire.",
+      "publishDate": "2026-11-20",
+      "sortIndex": 1795191600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/ed"
+    },
     {
       "id": "smbc-juice-3",
       "title": "Juice",
