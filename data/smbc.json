@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-21T09:13:07Z",
+  "updatedAt": "2026-11-21T17:05:58Z",
   "comics": [
+    {
+      "id": "smbc-fable-2",
+      "title": "Fable",
+      "pageUrl": "https://www.smbc-comics.com/comic/fable-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1795144989-20261121-edit.png",
+      "altText": "This is why adults are always well-behaved.",
+      "publishDate": "2026-11-21",
+      "sortIndex": 1795278600,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/fable-2"
+    },
     {
       "id": "smbc-ed",
       "title": "Ed",
