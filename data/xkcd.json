@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-11-20T18:19:20Z",
+  "updatedAt": "2026-11-21T01:05:03Z",
   "comics": [
+    {
+      "id": "xkcd-3327",
+      "title": "Plate Maintenance",
+      "pageUrl": "https://xkcd.com/3327/",
+      "imageUrl": "https://imgs.xkcd.com/comics/plate_maintenance.png",
+      "altText": "First we're going to have to relieve the built-up strain, but we'll do it one hemisphere at a time, so you'll just need to briefly move all your fragile stuff like buildings over to the other hemisphere while we work.",
+      "publishDate": "2026-11-20",
+      "sortIndex": 1795132800
+    },
     {
       "id": "xkcd-3326",
       "title": "Voyager Crash",
