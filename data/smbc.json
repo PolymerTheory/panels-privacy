@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-22T14:04:21Z",
+  "updatedAt": "2026-11-22T21:32:14Z",
   "comics": [
+    {
+      "id": "smbc-order-4",
+      "title": "Order",
+      "pageUrl": "https://www.smbc-comics.com/comic/order-4",
+      "imageUrl": "https://www.smbc-comics.com/comics/1795321174-20261122.webp",
+      "altText": "I hate when the bonus panel is better than the comic.",
+      "publishDate": "2026-11-22",
+      "sortIndex": 1795364400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/order-4"
+    },
     {
       "id": "smbc-fable-2",
       "title": "Fable",
