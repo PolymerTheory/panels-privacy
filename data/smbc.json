@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-23T14:01:18Z",
+  "updatedAt": "2026-11-24T02:44:16Z",
   "comics": [
+    {
+      "id": "smbc-see-2",
+      "title": "See",
+      "pageUrl": "https://www.smbc-comics.com/comic/see-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1795401592-20261123.png",
+      "altText": "Sorry.",
+      "publishDate": "2026-11-23",
+      "sortIndex": 1795451400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/see-2"
+    },
     {
       "id": "smbc-order-4",
       "title": "Order",

@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-11-23T14:01:18Z",
+  "updatedAt": "2026-11-24T02:44:15Z",
   "comics": [
+    {
+      "id": "xkcd-3328",
+      "title": "Ivory Tower Elites",
+      "pageUrl": "https://xkcd.com/3328/",
+      "imageUrl": "https://imgs.xkcd.com/comics/ivory_tower_elites.png",
+      "altText": "These ivory tower elites are flouting both CITES and municipal building codes.",
+      "publishDate": "2026-11-23",
+      "sortIndex": 1795392000
+    },
     {
       "id": "xkcd-3327",
       "title": "Plate Maintenance",
