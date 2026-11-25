@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-24T14:33:24Z",
+  "updatedAt": "2026-11-25T00:21:09Z",
   "comics": [
+    {
+      "id": "smbc-vintage-2",
+      "title": "Vintage",
+      "pageUrl": "https://www.smbc-comics.com/comic/vintage-2",
+      "imageUrl": "https://www.smbc-comics.com/comics/1795488907-20261124.webp",
+      "altText": "Look at that loser, getting with a girlfriend who lacks guaranteed reproductive capacity.",
+      "publishDate": "2026-11-24",
+      "sortIndex": 1795537200,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/vintage-2"
+    },
     {
       "id": "smbc-see-2",
       "title": "See",
