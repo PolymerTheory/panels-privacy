@@ -1,7 +1,16 @@
 {
   "source": "xkcd",
-  "updatedAt": "2026-11-25T21:03:54Z",
+  "updatedAt": "2026-11-26T03:56:58Z",
   "comics": [
+    {
+      "id": "xkcd-3329",
+      "title": "Cesium Atom",
+      "pageUrl": "https://xkcd.com/3329/",
+      "imageUrl": "https://imgs.xkcd.com/comics/cesium_atom.png",
+      "altText": "We've all chipped in to buy the retiring committee chair a gold-plated cesium atom.",
+      "publishDate": "2026-11-25",
+      "sortIndex": 1795564800
+    },
     {
       "id": "xkcd-3328",
       "title": "Ivory Tower Elites",
