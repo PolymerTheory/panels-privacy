@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-26T13:39:23Z",
+  "updatedAt": "2026-11-26T22:48:37Z",
   "comics": [
+    {
+      "id": "smbc-staring",
+      "title": "Staring",
+      "pageUrl": "https://www.smbc-comics.com/comic/staring",
+      "imageUrl": "https://www.smbc-comics.com/comics/1795660261-20261126.webp",
+      "altText": "The good news is many of us already have a lot of void-time already.",
+      "publishDate": "2026-11-26",
+      "sortIndex": 1795710000,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/staring"
+    },
     {
       "id": "smbc-wowww",
       "title": "Wowww",
