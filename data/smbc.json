@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-27T06:49:23Z",
+  "updatedAt": "2026-11-27T17:50:23Z",
   "comics": [
+    {
+      "id": "smbc-breed",
+      "title": "Breed",
+      "pageUrl": "https://www.smbc-comics.com/comic/breed",
+      "imageUrl": "https://www.smbc-comics.com/comics/1795732278-20261127.webp",
+      "altText": "The worst part is how they kept asking to be probed and looking at you with puppydog eyes.",
+      "publishDate": "2026-11-27",
+      "sortIndex": 1795796400,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/breed"
+    },
     {
       "id": "smbc-staring",
       "title": "Staring",
