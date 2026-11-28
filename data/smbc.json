@@ -1,7 +1,17 @@
 {
   "source": "smbc",
-  "updatedAt": "2026-11-28T09:47:56Z",
+  "updatedAt": "2026-11-28T17:56:37Z",
   "comics": [
+    {
+      "id": "smbc-mustache",
+      "title": "Mustache",
+      "pageUrl": "https://www.smbc-comics.com/comic/mustache",
+      "imageUrl": "https://www.smbc-comics.com/comics/1795732598-20261128.webp",
+      "altText": "Slightly regretting that I didn't do an earlier version where the guy actually declares his gayest weaknesses.",
+      "publishDate": "2026-11-28",
+      "sortIndex": 1795882800,
+      "bonusPageUrl": "https://www.smbc-comics.com/comic/mustache"
+    },
     {
       "id": "smbc-breed",
       "title": "Breed",
